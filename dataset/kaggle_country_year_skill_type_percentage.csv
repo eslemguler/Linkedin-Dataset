@@ -1,0 +1,876 @@
+,country_code,country_name,year,skill_type_digital,pen_percentage
+0,ae,United Arab Emirates,2015,digital-basic,4.007820137
+1,ae,United Arab Emirates,2015,digital-applied,4.985337243
+2,ae,United Arab Emirates,2015,digital-software_and_hardware,2.443792766
+3,ae,United Arab Emirates,2015,digital-disruptive,1.661779081
+4,ae,United Arab Emirates,2015,other,86.90127077
+5,ae,United Arab Emirates,2016,digital-basic,3.98912058
+6,ae,United Arab Emirates,2016,digital-applied,4.714415231
+7,ae,United Arab Emirates,2016,digital-software_and_hardware,2.175883953
+8,ae,United Arab Emirates,2016,digital-disruptive,1.631912965
+9,ae,United Arab Emirates,2016,other,87.48866727
+10,ae,United Arab Emirates,2017,digital-basic,6.327372765
+11,ae,United Arab Emirates,2017,digital-applied,7.015130674
+12,ae,United Arab Emirates,2017,digital-software_and_hardware,3.026134801
+13,ae,United Arab Emirates,2017,digital-disruptive,1.650618982
+14,ae,United Arab Emirates,2017,other,81.98074278
+15,ae,United Arab Emirates,2018,digital-basic,4.632768362
+16,ae,United Arab Emirates,2018,digital-applied,5.875706215
+17,ae,United Arab Emirates,2018,digital-software_and_hardware,2.937853107
+18,ae,United Arab Emirates,2018,digital-disruptive,1.016949153
+19,ae,United Arab Emirates,2018,other,85.53672316
+20,ae,United Arab Emirates,2019,digital-basic,2.818371608
+21,ae,United Arab Emirates,2019,digital-applied,5.741127349
+22,ae,United Arab Emirates,2019,digital-software_and_hardware,2.087682672
+23,ae,United Arab Emirates,2019,digital-disruptive,1.461377871
+24,ae,United Arab Emirates,2019,other,87.8914405
+25,ae,United Arab Emirates,2020,digital-basic,1.897983393
+26,ae,United Arab Emirates,2020,digital-applied,6.524317912
+27,ae,United Arab Emirates,2020,digital-software_and_hardware,2.135231317
+28,ae,United Arab Emirates,2020,digital-disruptive,1.779359431
+29,ae,United Arab Emirates,2020,other,87.66310795
+30,ae,United Arab Emirates,2021,digital-basic,0.731707317
+31,ae,United Arab Emirates,2021,digital-applied,5.243902439
+32,ae,United Arab Emirates,2021,digital-software_and_hardware,2.073170732
+33,ae,United Arab Emirates,2021,digital-disruptive,2.073170732
+34,ae,United Arab Emirates,2021,other,89.87804878
+35,au,Australia,2015,digital-basic,2.582033351
+36,au,Australia,2015,digital-applied,7.584722969
+37,au,Australia,2015,digital-software_and_hardware,6.105433029
+38,au,Australia,2015,digital-disruptive,2.071005917
+39,au,Australia,2015,other,81.65680473
+40,au,Australia,2016,digital-basic,2.382370459
+41,au,Australia,2016,digital-applied,8.308516974
+42,au,Australia,2016,digital-software_and_hardware,6.313281715
+43,au,Australia,2016,digital-disruptive,2.084574151
+44,au,Australia,2016,other,80.9112567
+45,au,Australia,2017,digital-basic,3.812010444
+46,au,Australia,2017,digital-applied,8.772845953
+47,au,Australia,2017,digital-software_and_hardware,5.221932115
+48,au,Australia,2017,digital-disruptive,3.237597911
+49,au,Australia,2017,other,78.95561358
+50,au,Australia,2018,digital-basic,4.012345679
+51,au,Australia,2018,digital-applied,9.516460905
+52,au,Australia,2018,digital-software_and_hardware,5.761316872
+53,au,Australia,2018,digital-disruptive,3.343621399
+54,au,Australia,2018,other,77.36625514
+55,au,Australia,2019,digital-basic,3.357438017
+56,au,Australia,2019,digital-applied,9.917355372
+57,au,Australia,2019,digital-software_and_hardware,6.714876033
+58,au,Australia,2019,digital-disruptive,4.23553719
+59,au,Australia,2019,other,75.77479339
+60,au,Australia,2020,digital-basic,3.836930456
+61,au,Australia,2020,digital-applied,7.494004796
+62,au,Australia,2020,digital-software_and_hardware,6.534772182
+63,au,Australia,2020,digital-disruptive,4.79616307
+64,au,Australia,2020,other,77.3381295
+65,au,Australia,2021,digital-basic,3.715170279
+66,au,Australia,2021,digital-applied,8.204334365
+67,au,Australia,2021,digital-software_and_hardware,4.489164087
+68,au,Australia,2021,digital-disruptive,5.185758514
+69,au,Australia,2021,other,78.40557276
+70,br,Brazil,2015,digital-basic,12.73675853
+71,br,Brazil,2015,digital-applied,13.41726211
+72,br,Brazil,2015,digital-software_and_hardware,6.056481797
+73,br,Brazil,2015,digital-disruptive,4.423273222
+74,br,Brazil,2015,other,63.36622434
+75,br,Brazil,2016,digital-basic,12.56038647
+76,br,Brazil,2016,digital-applied,13.52657005
+77,br,Brazil,2016,digital-software_and_hardware,6.436871654
+78,br,Brazil,2016,digital-disruptive,4.269486878
+79,br,Brazil,2016,other,63.20668495
+80,br,Brazil,2017,digital-basic,13
+81,br,Brazil,2017,digital-applied,13.40425532
+82,br,Brazil,2017,digital-software_and_hardware,6.872340426
+83,br,Brazil,2017,digital-disruptive,3.425531915
+84,br,Brazil,2017,other,63.29787234
+85,br,Brazil,2018,digital-basic,12.00680272
+86,br,Brazil,2018,digital-applied,11.59863946
+87,br,Brazil,2018,digital-software_and_hardware,6.887755102
+88,br,Brazil,2018,digital-disruptive,3.911564626
+89,br,Brazil,2018,other,65.5952381
+90,br,Brazil,2019,digital-basic,9.616101379
+91,br,Brazil,2019,digital-applied,10.7342527
+92,br,Brazil,2019,digital-software_and_hardware,6.522549385
+93,br,Brazil,2019,digital-disruptive,4.67138775
+94,br,Brazil,2019,other,68.45570878
+95,br,Brazil,2020,digital-basic,4.954384187
+96,br,Brazil,2020,digital-applied,8.438925494
+97,br,Brazil,2020,digital-software_and_hardware,7.095793208
+98,br,Brazil,2020,digital-disruptive,5.372529143
+99,br,Brazil,2020,other,74.13836797
+100,br,Brazil,2021,digital-basic,3.84319754
+101,br,Brazil,2021,digital-applied,8.916218294
+102,br,Brazil,2021,digital-software_and_hardware,7.250832693
+103,br,Brazil,2021,digital-disruptive,5.226748655
+104,br,Brazil,2021,other,74.76300282
+105,ca,Canada,2015,digital-basic,2.97219559
+106,ca,Canada,2015,digital-applied,7.90987536
+107,ca,Canada,2015,digital-software_and_hardware,6.519654842
+108,ca,Canada,2015,digital-disruptive,2.556727389
+109,ca,Canada,2015,other,80.04154682
+110,ca,Canada,2016,digital-basic,3.327067669
+111,ca,Canada,2016,digital-applied,8.571428571
+112,ca,Canada,2016,digital-software_and_hardware,7.462406015
+113,ca,Canada,2016,digital-disruptive,3.270676692
+114,ca,Canada,2016,other,77.36842105
+115,ca,Canada,2017,digital-basic,4.293028751
+116,ca,Canada,2017,digital-applied,8.901142182
+117,ca,Canada,2017,digital-software_and_hardware,7.798345805
+118,ca,Canada,2017,digital-disruptive,5.080740449
+119,ca,Canada,2017,other,73.92674281
+120,ca,Canada,2018,digital-basic,4.298554123
+121,ca,Canada,2018,digital-applied,8.362641657
+122,ca,Canada,2018,digital-software_and_hardware,8.167252833
+123,ca,Canada,2018,digital-disruptive,5.314576006
+124,ca,Canada,2018,other,73.85697538
+125,ca,Canada,2019,digital-basic,3.269654666
+126,ca,Canada,2019,digital-applied,9.955914769
+127,ca,Canada,2019,digital-software_and_hardware,7.604702425
+128,ca,Canada,2019,digital-disruptive,5.547391624
+129,ca,Canada,2019,other,73.62233652
+130,ca,Canada,2020,digital-basic,3.894080997
+131,ca,Canada,2020,digital-applied,8.761682243
+132,ca,Canada,2020,digital-software_and_hardware,8.177570093
+133,ca,Canada,2020,digital-disruptive,6.308411215
+134,ca,Canada,2020,other,72.85825545
+135,ca,Canada,2021,digital-basic,4.471330878
+136,ca,Canada,2021,digital-applied,7.943187796
+137,ca,Canada,2021,digital-software_and_hardware,8.048395581
+138,ca,Canada,2021,digital-disruptive,7.417148869
+139,ca,Canada,2021,other,72.11993688
+140,cn,China,2015,digital-basic,11.95524146
+141,cn,China,2015,digital-applied,5.418138987
+142,cn,China,2015,digital-software_and_hardware,7.89163722
+143,cn,China,2015,digital-disruptive,6.124852768
+144,cn,China,2015,other,68.61012956
+145,cn,China,2016,digital-basic,11.50814503
+146,cn,China,2016,digital-applied,6.200735681
+147,cn,China,2016,digital-software_and_hardware,9.616395166
+148,cn,China,2016,digital-disruptive,9.879138203
+149,cn,China,2016,other,62.79558592
+150,cn,China,2017,digital-basic,9.624796085
+151,cn,China,2017,digital-applied,6.307775965
+152,cn,China,2017,digital-software_and_hardware,7.66721044
+153,cn,China,2017,digital-disruptive,12.34366504
+154,cn,China,2017,other,64.05655247
+155,cn,China,2018,digital-basic,9.840751327
+156,cn,China,2018,digital-applied,6.329113924
+157,cn,China,2018,digital-software_and_hardware,8.207431605
+158,cn,China,2018,digital-disruptive,11.759902
+159,cn,China,2018,other,63.86280114
+160,cn,China,2019,digital-basic,3.557744937
+161,cn,China,2019,digital-applied,3.831417625
+162,cn,China,2019,digital-software_and_hardware,7.827038862
+163,cn,China,2019,digital-disruptive,12.15106732
+164,cn,China,2019,other,72.63273125
+165,cn,China,2020,digital-basic,0.664251208
+166,cn,China,2020,digital-applied,3.985507246
+167,cn,China,2020,digital-software_and_hardware,5.193236715
+168,cn,China,2020,digital-disruptive,11.05072464
+169,cn,China,2020,other,79.10628019
+170,cn,China,2021,digital-basic,0.098039216
+171,cn,China,2021,digital-applied,2.156862745
+172,cn,China,2021,digital-software_and_hardware,7.450980392
+173,cn,China,2021,digital-disruptive,11.76470588
+174,cn,China,2021,other,78.52941176
+175,de,Germany,2015,digital-basic,2.032332564
+176,de,Germany,2015,digital-applied,15.01154734
+177,de,Germany,2015,digital-software_and_hardware,10.43879908
+178,de,Germany,2015,digital-disruptive,6.512702079
+179,de,Germany,2015,other,66.00461894
+180,de,Germany,2016,digital-basic,2.157598499
+181,de,Germany,2016,digital-applied,14.44652908
+182,de,Germany,2016,digital-software_and_hardware,10.88180113
+183,de,Germany,2016,digital-disruptive,7.082551595
+184,de,Germany,2016,other,65.4315197
+185,de,Germany,2017,digital-basic,3.58490566
+186,de,Germany,2017,digital-applied,14.8427673
+187,de,Germany,2017,digital-software_and_hardware,9.748427673
+188,de,Germany,2017,digital-disruptive,7.735849057
+189,de,Germany,2017,other,64.08805031
+190,de,Germany,2018,digital-basic,3.580067731
+191,de,Germany,2018,digital-applied,14.36865022
+192,de,Germany,2018,digital-software_and_hardware,11.51427189
+193,de,Germany,2018,digital-disruptive,10.15965167
+194,de,Germany,2018,other,60.37735849
+195,de,Germany,2019,digital-basic,3.536184211
+196,de,Germany,2019,digital-applied,14.14473684
+197,de,Germany,2019,digital-software_and_hardware,10.77302632
+198,de,Germany,2019,digital-disruptive,10.69078947
+199,de,Germany,2019,other,60.85526316
+200,de,Germany,2020,digital-basic,3.850345078
+201,de,Germany,2020,digital-applied,13.73047584
+202,de,Germany,2020,digital-software_and_hardware,9.807482746
+203,de,Germany,2020,digital-disruptive,10.02542681
+204,de,Germany,2020,other,62.58626952
+205,de,Germany,2021,digital-basic,4.559539619
+206,de,Germany,2021,digital-applied,13.32447986
+207,de,Germany,2021,digital-software_and_hardware,10.35856574
+208,de,Germany,2021,digital-disruptive,9.871624613
+209,de,Germany,2021,other,61.88579017
+210,dk,Denmark,2015,digital-basic,3.094777563
+211,dk,Denmark,2015,digital-applied,11.41199226
+212,dk,Denmark,2015,digital-software_and_hardware,7.350096712
+213,dk,Denmark,2015,digital-disruptive,4.448742747
+214,dk,Denmark,2015,other,73.69439072
+215,dk,Denmark,2016,digital-basic,3.420523139
+216,dk,Denmark,2016,digital-applied,12.67605634
+217,dk,Denmark,2016,digital-software_and_hardware,7.243460765
+218,dk,Denmark,2016,digital-disruptive,4.024144869
+219,dk,Denmark,2016,other,72.63581489
+220,dk,Denmark,2017,digital-basic,5.263157895
+221,dk,Denmark,2017,digital-applied,13.81578947
+222,dk,Denmark,2017,digital-software_and_hardware,7.894736842
+223,dk,Denmark,2017,digital-disruptive,5.592105263
+224,dk,Denmark,2017,other,67.43421053
+225,dk,Denmark,2018,digital-basic,5.280528053
+226,dk,Denmark,2018,digital-applied,9.900990099
+227,dk,Denmark,2018,digital-software_and_hardware,7.590759076
+228,dk,Denmark,2018,digital-disruptive,4.290429043
+229,dk,Denmark,2018,other,72.93729373
+230,dk,Denmark,2019,digital-basic,4.705882353
+231,dk,Denmark,2019,digital-applied,8.62745098
+232,dk,Denmark,2019,digital-software_and_hardware,7.058823529
+233,dk,Denmark,2019,digital-disruptive,6.274509804
+234,dk,Denmark,2019,other,73.33333333
+235,dk,Denmark,2020,digital-basic,2.834008097
+236,dk,Denmark,2020,digital-applied,6.882591093
+237,dk,Denmark,2020,digital-software_and_hardware,7.692307692
+238,dk,Denmark,2020,digital-disruptive,6.072874494
+239,dk,Denmark,2020,other,76.51821862
+240,dk,Denmark,2021,digital-basic,2.307692308
+241,dk,Denmark,2021,digital-applied,8.461538462
+242,dk,Denmark,2021,digital-software_and_hardware,12.30769231
+243,dk,Denmark,2021,digital-disruptive,12.30769231
+244,dk,Denmark,2021,other,64.61538462
+245,es,Spain,2015,digital-basic,7.610017019
+246,es,Spain,2015,digital-applied,13.42086069
+247,es,Spain,2015,digital-software_and_hardware,8.242159008
+248,es,Spain,2015,digital-disruptive,3.768538779
+249,es,Spain,2015,other,66.95842451
+250,es,Spain,2016,digital-basic,7.974388824
+251,es,Spain,2016,digital-applied,13.1548312
+252,es,Spain,2016,digital-software_and_hardware,8.498253783
+253,es,Spain,2016,digital-disruptive,4.016298021
+254,es,Spain,2016,other,66.35622817
+255,es,Spain,2017,digital-basic,8.299711816
+256,es,Spain,2017,digital-applied,13.31412104
+257,es,Spain,2017,digital-software_and_hardware,8.760806916
+258,es,Spain,2017,digital-disruptive,4.265129683
+259,es,Spain,2017,other,65.36023055
+260,es,Spain,2018,digital-basic,8.146341463
+261,es,Spain,2018,digital-applied,12.58536585
+262,es,Spain,2018,digital-software_and_hardware,7.512195122
+263,es,Spain,2018,digital-disruptive,4.926829268
+264,es,Spain,2018,other,66.82926829
+265,es,Spain,2019,digital-basic,5.237711523
+266,es,Spain,2019,digital-applied,12.16760677
+267,es,Spain,2019,digital-software_and_hardware,7.775987107
+268,es,Spain,2019,digital-disruptive,6.567284448
+269,es,Spain,2019,other,68.25141015
+270,es,Spain,2020,digital-basic,2.871536524
+271,es,Spain,2020,digital-applied,10.17632242
+272,es,Spain,2020,digital-software_and_hardware,7.002518892
+273,es,Spain,2020,digital-disruptive,5.994962217
+274,es,Spain,2020,other,73.95465995
+275,es,Spain,2021,digital-basic,3.556658395
+276,es,Spain,2021,digital-applied,12.65508685
+277,es,Spain,2021,digital-software_and_hardware,8.76757651
+278,es,Spain,2021,digital-disruptive,6.120760959
+279,es,Spain,2021,other,68.89991729
+280,fr,France,2015,digital-basic,4.918032787
+281,fr,France,2015,digital-applied,11.74269423
+282,fr,France,2015,digital-software_and_hardware,6.985032074
+283,fr,France,2015,digital-disruptive,4.579472559
+284,fr,France,2015,other,71.77476835
+285,fr,France,2016,digital-basic,5.477961183
+286,fr,France,2016,digital-applied,10.97406131
+287,fr,France,2016,digital-software_and_hardware,7.237438781
+288,fr,France,2016,digital-disruptive,4.897514965
+289,fr,France,2016,other,71.41302376
+290,fr,France,2017,digital-basic,6.936114733
+291,fr,France,2017,digital-applied,11.0821382
+292,fr,France,2017,digital-software_and_hardware,7.588005215
+293,fr,France,2017,digital-disruptive,5.658409387
+294,fr,France,2017,other,68.73533246
+295,fr,France,2018,digital-basic,7.281229125
+296,fr,France,2018,digital-applied,9.55243821
+297,fr,France,2018,digital-software_and_hardware,6.657759964
+298,fr,France,2018,digital-disruptive,6.479625919
+299,fr,France,2018,other,70.02894678
+300,fr,France,2019,digital-basic,4.862366888
+301,fr,France,2019,digital-applied,8.438818565
+302,fr,France,2019,digital-software_and_hardware,6.228651798
+303,fr,France,2019,digital-disruptive,6.42957605
+304,fr,France,2019,other,74.0405867
+305,fr,France,2020,digital-basic,3.011785247
+306,fr,France,2020,digital-applied,7.507638586
+307,fr,France,2020,digital-software_and_hardware,6.481885639
+308,fr,France,2020,digital-disruptive,6.285464863
+309,fr,France,2020,other,76.71322567
+310,fr,France,2021,digital-basic,4.782082324
+311,fr,France,2021,digital-applied,8.504842615
+312,fr,France,2021,digital-software_and_hardware,6.870460048
+313,fr,France,2021,digital-disruptive,6.144067797
+314,fr,France,2021,other,73.69854722
+315,gb,United Kingdom,2015,digital-basic,2.140672783
+316,gb,United Kingdom,2015,digital-applied,10.49311927
+317,gb,United Kingdom,2015,digital-software_and_hardware,6.049311927
+318,gb,United Kingdom,2015,digital-disruptive,1.873088685
+319,gb,United Kingdom,2015,other,79.44380734
+320,gb,United Kingdom,2016,digital-basic,2.425578831
+321,gb,United Kingdom,2016,digital-applied,10.57331863
+322,gb,United Kingdom,2016,digital-software_and_hardware,6.240352811
+323,gb,United Kingdom,2016,digital-disruptive,2.491730981
+324,gb,United Kingdom,2016,other,78.26901874
+325,gb,United Kingdom,2017,digital-basic,3.409715857
+326,gb,United Kingdom,2017,digital-applied,10.88909258
+327,gb,United Kingdom,2017,digital-software_and_hardware,5.921173236
+328,gb,United Kingdom,2017,digital-disruptive,3.703024748
+329,gb,United Kingdom,2017,other,76.07699358
+330,gb,United Kingdom,2018,digital-basic,3.885372714
+331,gb,United Kingdom,2018,digital-applied,10.88255978
+332,gb,United Kingdom,2018,digital-software_and_hardware,5.977496484
+333,gb,United Kingdom,2018,digital-disruptive,3.568917018
+334,gb,United Kingdom,2018,other,75.68565401
+335,gb,United Kingdom,2019,digital-basic,2.414021164
+336,gb,United Kingdom,2019,digital-applied,11.1276455
+337,gb,United Kingdom,2019,digital-software_and_hardware,6.117724868
+338,gb,United Kingdom,2019,digital-disruptive,4.695767196
+339,gb,United Kingdom,2019,other,75.64484127
+340,gb,United Kingdom,2020,digital-basic,2.244725738
+341,gb,United Kingdom,2020,digital-applied,10.16033755
+342,gb,United Kingdom,2020,digital-software_and_hardware,5.991561181
+343,gb,United Kingdom,2020,digital-disruptive,5.367088608
+344,gb,United Kingdom,2020,other,76.23628692
+345,gb,United Kingdom,2021,digital-basic,2.983104541
+346,gb,United Kingdom,2021,digital-applied,9.714889124
+347,gb,United Kingdom,2021,digital-software_and_hardware,5.755015839
+348,gb,United Kingdom,2021,digital-disruptive,5.095036959
+349,gb,United Kingdom,2021,other,76.45195354
+350,glo,Global,2015,digital-basic,5.367877105
+351,glo,Global,2015,digital-applied,8.475410412
+352,glo,Global,2015,digital-software_and_hardware,7.846170071
+353,glo,Global,2015,digital-disruptive,3.831686997
+354,glo,Global,2015,other,74.47885542
+355,glo,Global,2016,digital-basic,5.606398523
+356,glo,Global,2016,digital-applied,8.978697224
+357,glo,Global,2016,digital-software_and_hardware,8.894101361
+358,glo,Global,2016,digital-disruptive,4.721987234
+359,glo,Global,2016,other,71.79881566
+360,glo,Global,2017,digital-basic,6.546288014
+361,glo,Global,2017,digital-applied,9.129025045
+362,glo,Global,2017,digital-software_and_hardware,9.000447227
+363,glo,Global,2017,digital-disruptive,6.065518784
+364,glo,Global,2017,other,69.25872093
+365,glo,Global,2018,digital-basic,6.706823244
+366,glo,Global,2018,digital-applied,9.116217858
+367,glo,Global,2018,digital-software_and_hardware,8.74670986
+368,glo,Global,2018,digital-disruptive,6.155092124
+369,glo,Global,2018,other,69.27515691
+370,glo,Global,2019,digital-basic,5.472368362
+371,glo,Global,2019,digital-applied,9.384414767
+372,glo,Global,2019,digital-software_and_hardware,8.637978326
+373,glo,Global,2019,digital-disruptive,7.14960205
+374,glo,Global,2019,other,69.35563649
+375,glo,Global,2020,digital-basic,4.893774933
+376,glo,Global,2020,digital-applied,8.484089433
+377,glo,Global,2020,digital-software_and_hardware,8.975786251
+378,glo,Global,2020,digital-disruptive,7.686241766
+379,glo,Global,2020,other,69.96010762
+380,glo,Global,2021,digital-basic,4.820578273
+381,glo,Global,2021,digital-applied,8.158656914
+382,glo,Global,2021,digital-software_and_hardware,9.248441412
+383,glo,Global,2021,digital-disruptive,7.564675274
+384,glo,Global,2021,other,70.20764813
+385,id,Indonesia,2015,digital-basic,8.577405858
+386,id,Indonesia,2015,digital-applied,12.55230126
+387,id,Indonesia,2015,digital-software_and_hardware,8.368200837
+388,id,Indonesia,2015,digital-disruptive,2.510460251
+389,id,Indonesia,2015,other,67.9916318
+390,id,Indonesia,2016,digital-basic,8.223350254
+391,id,Indonesia,2016,digital-applied,14.01015228
+392,id,Indonesia,2016,digital-software_and_hardware,8.121827411
+393,id,Indonesia,2016,digital-disruptive,3.350253807
+394,id,Indonesia,2016,other,66.29441624
+395,id,Indonesia,2017,digital-basic,8.538011696
+396,id,Indonesia,2017,digital-applied,15.55555556
+397,id,Indonesia,2017,digital-software_and_hardware,8.771929825
+398,id,Indonesia,2017,digital-disruptive,5.497076023
+399,id,Indonesia,2017,other,61.6374269
+400,id,Indonesia,2018,digital-basic,10.056926
+401,id,Indonesia,2018,digital-applied,15.08538899
+402,id,Indonesia,2018,digital-software_and_hardware,6.831119545
+403,id,Indonesia,2018,digital-disruptive,4.838709677
+404,id,Indonesia,2018,other,63.18785579
+405,id,Indonesia,2019,digital-basic,9.411764706
+406,id,Indonesia,2019,digital-applied,13.33333333
+407,id,Indonesia,2019,digital-software_and_hardware,6.431372549
+408,id,Indonesia,2019,digital-disruptive,5.725490196
+409,id,Indonesia,2019,other,65.09803922
+410,id,Indonesia,2020,digital-basic,9.649702578
+411,id,Indonesia,2020,digital-applied,12.82220753
+412,id,Indonesia,2020,digital-software_and_hardware,8.790482485
+413,id,Indonesia,2020,digital-disruptive,6.411103767
+414,id,Indonesia,2020,other,62.32650364
+415,id,Indonesia,2021,digital-basic,8.152173913
+416,id,Indonesia,2021,digital-applied,15.52795031
+417,id,Indonesia,2021,digital-software_and_hardware,8.152173913
+418,id,Indonesia,2021,digital-disruptive,5.279503106
+419,id,Indonesia,2021,other,62.88819876
+420,ie,Ireland,2015,digital-basic,2.352941176
+421,ie,Ireland,2015,digital-applied,6.117647059
+422,ie,Ireland,2015,digital-software_and_hardware,7.058823529
+423,ie,Ireland,2015,digital-disruptive,4.470588235
+424,ie,Ireland,2015,other,80
+425,ie,Ireland,2016,digital-basic,3.418803419
+426,ie,Ireland,2016,digital-applied,7.407407407
+427,ie,Ireland,2016,digital-software_and_hardware,7.407407407
+428,ie,Ireland,2016,digital-disruptive,4.273504274
+429,ie,Ireland,2016,other,77.49287749
+430,ie,Ireland,2017,digital-basic,4
+431,ie,Ireland,2017,digital-applied,4
+432,ie,Ireland,2017,digital-software_and_hardware,14.4
+433,ie,Ireland,2017,digital-disruptive,13.6
+434,ie,Ireland,2017,other,64
+435,ie,Ireland,2018,digital-basic,8.092485549
+436,ie,Ireland,2018,digital-applied,6.936416185
+437,ie,Ireland,2018,digital-software_and_hardware,12.13872832
+438,ie,Ireland,2018,digital-disruptive,8.092485549
+439,ie,Ireland,2018,other,64.73988439
+440,ie,Ireland,2019,digital-basic,9.375
+441,ie,Ireland,2019,digital-applied,5.357142857
+442,ie,Ireland,2019,digital-software_and_hardware,7.142857143
+443,ie,Ireland,2019,digital-disruptive,7.589285714
+444,ie,Ireland,2019,other,70.53571429
+445,ie,Ireland,2020,digital-basic,8
+446,ie,Ireland,2020,digital-applied,6.4
+447,ie,Ireland,2020,digital-software_and_hardware,12
+448,ie,Ireland,2020,digital-disruptive,12
+449,ie,Ireland,2020,other,61.6
+450,ie,Ireland,2021,digital-basic,8.737864078
+451,ie,Ireland,2021,digital-applied,11.65048544
+452,ie,Ireland,2021,digital-software_and_hardware,13.59223301
+453,ie,Ireland,2021,digital-disruptive,16.50485437
+454,ie,Ireland,2021,other,49.51456311
+455,in,India,2015,digital-basic,3.220121756
+456,in,India,2015,digital-applied,8.554950336
+457,in,India,2015,digital-software_and_hardware,20.74655559
+458,in,India,2015,digital-disruptive,12.22364627
+459,in,India,2015,other,55.25472605
+460,in,India,2016,digital-basic,2.991512453
+461,in,India,2016,digital-applied,8.306664811
+462,in,India,2016,digital-software_and_hardware,21.71977181
+463,in,India,2016,digital-disruptive,12.75914846
+464,in,India,2016,other,54.22290246
+465,in,India,2017,digital-basic,3.705069124
+466,in,India,2017,digital-applied,9.493087558
+467,in,India,2017,digital-software_and_hardware,23.42857143
+468,in,India,2017,digital-disruptive,15.28110599
+469,in,India,2017,other,48.0921659
+470,in,India,2018,digital-basic,3.589053387
+471,in,India,2018,digital-applied,9.032451024
+472,in,India,2018,digital-software_and_hardware,22.29699417
+473,in,India,2018,digital-disruptive,15.02916106
+474,in,India,2018,other,50.05234036
+475,in,India,2019,digital-basic,2.73955774
+476,in,India,2019,digital-applied,9.029484029
+477,in,India,2019,digital-software_and_hardware,19.92628993
+478,in,India,2019,digital-disruptive,15.62653563
+479,in,India,2019,other,52.67813268
+480,in,India,2020,digital-basic,2.403100775
+481,in,India,2020,digital-applied,9.11406423
+482,in,India,2020,digital-software_and_hardware,18.38316722
+483,in,India,2020,digital-disruptive,15.63676633
+484,in,India,2020,other,54.46290144
+485,in,India,2021,digital-basic,2.469953629
+486,in,India,2021,digital-applied,8.204788492
+487,in,India,2021,digital-software_and_hardware,18.56723763
+488,in,India,2021,digital-disruptive,14.24245292
+489,in,India,2021,other,56.51556733
+490,it,Italy,2015,digital-basic,6.055320209
+491,it,Italy,2015,digital-applied,11.76177423
+492,it,Italy,2015,digital-software_and_hardware,6.553700473
+493,it,Italy,2015,digital-disruptive,3.189633691
+494,it,Italy,2015,other,72.43957139
+495,it,Italy,2016,digital-basic,6.789788159
+496,it,Italy,2016,digital-applied,11.73275394
+497,it,Italy,2016,digital-software_and_hardware,7.142857143
+498,it,Italy,2016,digital-disruptive,3.585008148
+499,it,Italy,2016,other,70.74959261
+500,it,Italy,2017,digital-basic,8.274428274
+501,it,Italy,2017,digital-applied,12.84823285
+502,it,Italy,2017,digital-software_and_hardware,7.733887734
+503,it,Italy,2017,digital-disruptive,4.116424116
+504,it,Italy,2017,other,67.02702703
+505,it,Italy,2018,digital-basic,8.684405026
+506,it,Italy,2018,digital-applied,12.78640059
+507,it,Italy,2018,digital-software_and_hardware,7.908351811
+508,it,Italy,2018,digital-disruptive,3.91722099
+509,it,Italy,2018,other,66.70362158
+510,it,Italy,2019,digital-basic,5.892143808
+511,it,Italy,2019,digital-applied,11.1517976
+512,it,Italy,2019,digital-software_and_hardware,6.491344874
+513,it,Italy,2019,digital-disruptive,4.727030626
+514,it,Italy,2019,other,71.73768309
+515,it,Italy,2020,digital-basic,4.12893879
+516,it,Italy,2020,digital-applied,9.05469033
+517,it,Italy,2020,digital-software_and_hardware,6.338283231
+518,it,Italy,2020,digital-disruptive,3.658094893
+519,it,Italy,2020,other,76.81999276
+520,it,Italy,2021,digital-basic,4.301075269
+521,it,Italy,2021,digital-applied,11.20543294
+522,it,Italy,2021,digital-software_and_hardware,7.357102434
+523,it,Italy,2021,digital-disruptive,4.018109791
+524,it,Italy,2021,other,73.11827957
+525,jp,Japan,2015,digital-basic,0.584795322
+526,jp,Japan,2015,digital-applied,8.187134503
+527,jp,Japan,2015,digital-software_and_hardware,14.61988304
+528,jp,Japan,2015,digital-disruptive,14.03508772
+529,jp,Japan,2015,other,62.57309942
+530,jp,Japan,2016,digital-basic,0
+531,jp,Japan,2016,digital-applied,3.278688525
+532,jp,Japan,2016,digital-software_and_hardware,20.49180328
+533,jp,Japan,2016,digital-disruptive,20.49180328
+534,jp,Japan,2016,other,55.73770492
+535,jp,Japan,2017,digital-basic,0
+536,jp,Japan,2017,digital-applied,7.843137255
+537,jp,Japan,2017,digital-software_and_hardware,25.49019608
+538,jp,Japan,2017,digital-disruptive,33.33333333
+539,jp,Japan,2017,other,33.33333333
+540,jp,Japan,2018,digital-basic,4.093567251
+541,jp,Japan,2018,digital-applied,4.093567251
+542,jp,Japan,2018,digital-software_and_hardware,18.71345029
+543,jp,Japan,2018,digital-disruptive,18.71345029
+544,jp,Japan,2018,other,54.38596491
+545,jp,Japan,2019,digital-basic,2.684563758
+546,jp,Japan,2019,digital-applied,4.697986577
+547,jp,Japan,2019,digital-software_and_hardware,18.12080537
+548,jp,Japan,2019,digital-disruptive,21.47651007
+549,jp,Japan,2019,other,53.02013423
+550,jp,Japan,2020,digital-basic,0
+551,jp,Japan,2020,digital-applied,2.923976608
+552,jp,Japan,2020,digital-software_and_hardware,15.20467836
+553,jp,Japan,2020,digital-disruptive,15.20467836
+554,jp,Japan,2020,other,66.66666667
+555,jp,Japan,2021,digital-basic,0.819672131
+556,jp,Japan,2021,digital-applied,0.819672131
+557,jp,Japan,2021,digital-software_and_hardware,18.85245902
+558,jp,Japan,2021,digital-disruptive,23.7704918
+559,jp,Japan,2021,other,55.73770492
+560,mx,Mexico,2015,digital-basic,9.288627096
+561,mx,Mexico,2015,digital-applied,8.065246942
+562,mx,Mexico,2015,digital-software_and_hardware,6.343452651
+563,mx,Mexico,2015,digital-disruptive,2.129587676
+564,mx,Mexico,2015,other,74.17308564
+565,mx,Mexico,2016,digital-basic,10.0422833
+566,mx,Mexico,2016,digital-applied,7.928118393
+567,mx,Mexico,2016,digital-software_and_hardware,6.183932347
+568,mx,Mexico,2016,digital-disruptive,2.114164905
+569,mx,Mexico,2016,other,73.73150106
+570,mx,Mexico,2017,digital-basic,10.07838746
+571,mx,Mexico,2017,digital-applied,10.75027996
+572,mx,Mexico,2017,digital-software_and_hardware,6.718924972
+573,mx,Mexico,2017,digital-disruptive,3.247480403
+574,mx,Mexico,2017,other,69.20492721
+575,mx,Mexico,2018,digital-basic,9
+576,mx,Mexico,2018,digital-applied,10.18181818
+577,mx,Mexico,2018,digital-software_and_hardware,7.636363636
+578,mx,Mexico,2018,digital-disruptive,3.363636364
+579,mx,Mexico,2018,other,69.81818182
+580,mx,Mexico,2019,digital-basic,3.736542115
+581,mx,Mexico,2019,digital-applied,8.803039899
+582,mx,Mexico,2019,digital-software_and_hardware,6.90310323
+583,mx,Mexico,2019,digital-disruptive,3.03989867
+584,mx,Mexico,2019,other,77.51741609
+585,mx,Mexico,2020,digital-basic,0.995024876
+586,mx,Mexico,2020,digital-applied,8.386638237
+587,mx,Mexico,2020,digital-software_and_hardware,6.112295665
+588,mx,Mexico,2020,digital-disruptive,3.269367448
+589,mx,Mexico,2020,other,81.23667377
+590,mx,Mexico,2021,digital-basic,0.970873786
+591,mx,Mexico,2021,digital-applied,11.45631068
+592,mx,Mexico,2021,digital-software_and_hardware,8.155339806
+593,mx,Mexico,2021,digital-disruptive,3.980582524
+594,mx,Mexico,2021,other,75.4368932
+595,my,Malaysia,2015,digital-basic,5.172413793
+596,my,Malaysia,2015,digital-applied,7.142857143
+597,my,Malaysia,2015,digital-software_and_hardware,8.128078818
+598,my,Malaysia,2015,digital-disruptive,5.418719212
+599,my,Malaysia,2015,other,74.13793103
+600,my,Malaysia,2016,digital-basic,5.11627907
+601,my,Malaysia,2016,digital-applied,10.69767442
+602,my,Malaysia,2016,digital-software_and_hardware,6.976744186
+603,my,Malaysia,2016,digital-disruptive,5.11627907
+604,my,Malaysia,2016,other,72.09302326
+605,my,Malaysia,2017,digital-basic,8.928571429
+606,my,Malaysia,2017,digital-applied,15
+607,my,Malaysia,2017,digital-software_and_hardware,8.214285714
+608,my,Malaysia,2017,digital-disruptive,8.928571429
+609,my,Malaysia,2017,other,58.92857143
+610,my,Malaysia,2018,digital-basic,9.273182957
+611,my,Malaysia,2018,digital-applied,11.77944862
+612,my,Malaysia,2018,digital-software_and_hardware,5.764411028
+613,my,Malaysia,2018,digital-disruptive,6.766917293
+614,my,Malaysia,2018,other,66.4160401
+615,my,Malaysia,2019,digital-basic,7.471264368
+616,my,Malaysia,2019,digital-applied,10.15325671
+617,my,Malaysia,2019,digital-software_and_hardware,3.639846743
+618,my,Malaysia,2019,digital-disruptive,5.555555556
+619,my,Malaysia,2019,other,73.18007663
+620,my,Malaysia,2020,digital-basic,7.725321888
+621,my,Malaysia,2020,digital-applied,10.30042918
+622,my,Malaysia,2020,digital-software_and_hardware,3.862660944
+623,my,Malaysia,2020,digital-disruptive,4.721030043
+624,my,Malaysia,2020,other,73.39055794
+625,my,Malaysia,2021,digital-basic,8.270676692
+626,my,Malaysia,2021,digital-applied,11.02756892
+627,my,Malaysia,2021,digital-software_and_hardware,4.761904762
+628,my,Malaysia,2021,digital-disruptive,7.01754386
+629,my,Malaysia,2021,other,68.92230576
+630,nl,Netherlands,2015,digital-basic,3.956972724
+631,nl,Netherlands,2015,digital-applied,12.56242797
+632,nl,Netherlands,2015,digital-software_and_hardware,5.147906262
+633,nl,Netherlands,2015,digital-disruptive,3.419131771
+634,nl,Netherlands,2015,other,74.91356128
+635,nl,Netherlands,2016,digital-basic,4.417513683
+636,nl,Netherlands,2016,digital-applied,13.4870993
+637,nl,Netherlands,2016,digital-software_and_hardware,5.355746677
+638,nl,Netherlands,2016,digital-disruptive,3.713838937
+639,nl,Netherlands,2016,other,73.02580141
+640,nl,Netherlands,2017,digital-basic,7.237219989
+641,nl,Netherlands,2017,digital-applied,14.12981045
+642,nl,Netherlands,2017,digital-software_and_hardware,6.720275704
+643,nl,Netherlands,2017,digital-disruptive,4.59506031
+644,nl,Netherlands,2017,other,67.31763354
+645,nl,Netherlands,2018,digital-basic,8.266932271
+646,nl,Netherlands,2018,digital-applied,13.89442231
+647,nl,Netherlands,2018,digital-software_and_hardware,6.474103586
+648,nl,Netherlands,2018,digital-disruptive,6.573705179
+649,nl,Netherlands,2018,other,64.79083665
+650,nl,Netherlands,2019,digital-basic,7.204301075
+651,nl,Netherlands,2019,digital-applied,13.60215054
+652,nl,Netherlands,2019,digital-software_and_hardware,7.311827957
+653,nl,Netherlands,2019,digital-disruptive,7.204301075
+654,nl,Netherlands,2019,other,64.67741935
+655,nl,Netherlands,2020,digital-basic,6.806615776
+656,nl,Netherlands,2020,digital-applied,14.05852417
+657,nl,Netherlands,2020,digital-software_and_hardware,6.106870229
+658,nl,Netherlands,2020,digital-disruptive,7.37913486
+659,nl,Netherlands,2020,other,65.64885496
+660,nl,Netherlands,2021,digital-basic,5.846528624
+661,nl,Netherlands,2021,digital-applied,15.590743
+662,nl,Netherlands,2021,digital-software_and_hardware,3.775883069
+663,nl,Netherlands,2021,digital-disruptive,4.141291108
+664,nl,Netherlands,2021,other,70.6455542
+665,nz,New Zealand,2015,digital-basic,0
+666,nz,New Zealand,2015,digital-applied,3.713527851
+667,nz,New Zealand,2015,digital-software_and_hardware,9.018567639
+668,nz,New Zealand,2015,digital-disruptive,4.24403183
+669,nz,New Zealand,2015,other,83.02387268
+670,nz,New Zealand,2016,digital-basic,0.283286119
+671,nz,New Zealand,2016,digital-applied,4.815864023
+672,nz,New Zealand,2016,digital-software_and_hardware,9.631728045
+673,nz,New Zealand,2016,digital-disruptive,3.966005666
+674,nz,New Zealand,2016,other,81.30311615
+675,nz,New Zealand,2017,digital-basic,0
+676,nz,New Zealand,2017,digital-applied,1.960784314
+677,nz,New Zealand,2017,digital-software_and_hardware,16.66666667
+678,nz,New Zealand,2017,digital-disruptive,12.74509804
+679,nz,New Zealand,2017,other,68.62745098
+680,nz,New Zealand,2018,digital-basic,0
+681,nz,New Zealand,2018,digital-applied,2.5
+682,nz,New Zealand,2018,digital-software_and_hardware,21.25
+683,nz,New Zealand,2018,digital-disruptive,16.25
+684,nz,New Zealand,2018,other,60
+685,nz,New Zealand,2019,digital-basic,0
+686,nz,New Zealand,2019,digital-applied,3.703703704
+687,nz,New Zealand,2019,digital-software_and_hardware,19.75308642
+688,nz,New Zealand,2019,digital-disruptive,16.04938272
+689,nz,New Zealand,2019,other,60.49382716
+690,nz,New Zealand,2020,digital-basic,0
+691,nz,New Zealand,2020,digital-applied,6
+692,nz,New Zealand,2020,digital-software_and_hardware,28
+693,nz,New Zealand,2020,digital-disruptive,26
+694,nz,New Zealand,2020,other,40
+695,nz,New Zealand,2021,digital-basic,0
+696,nz,New Zealand,2021,digital-applied,0
+697,nz,New Zealand,2021,digital-software_and_hardware,57.14285714
+698,nz,New Zealand,2021,digital-disruptive,42.85714286
+699,nz,New Zealand,2021,other,0
+700,ph,Philippines,2015,digital-basic,4.283360791
+701,ph,Philippines,2015,digital-applied,12.52059308
+702,ph,Philippines,2015,digital-software_and_hardware,6.919275124
+703,ph,Philippines,2015,digital-disruptive,3.624382208
+704,ph,Philippines,2015,other,72.6523888
+705,ph,Philippines,2016,digital-basic,6.03588907
+706,ph,Philippines,2016,digital-applied,11.74551387
+707,ph,Philippines,2016,digital-software_and_hardware,8.972267537
+708,ph,Philippines,2016,digital-disruptive,3.915171289
+709,ph,Philippines,2016,other,69.33115824
+710,ph,Philippines,2017,digital-basic,8.288770053
+711,ph,Philippines,2017,digital-applied,12.56684492
+712,ph,Philippines,2017,digital-software_and_hardware,10.42780749
+713,ph,Philippines,2017,digital-disruptive,6.684491979
+714,ph,Philippines,2017,other,62.03208556
+715,ph,Philippines,2018,digital-basic,8.26446281
+716,ph,Philippines,2018,digital-applied,14.25619835
+717,ph,Philippines,2018,digital-software_and_hardware,10.95041322
+718,ph,Philippines,2018,digital-disruptive,6.198347107
+719,ph,Philippines,2018,other,60.33057851
+720,ph,Philippines,2019,digital-basic,9.144542773
+721,ph,Philippines,2019,digital-applied,16.66666667
+722,ph,Philippines,2019,digital-software_and_hardware,10.17699115
+723,ph,Philippines,2019,digital-disruptive,5.899705015
+724,ph,Philippines,2019,other,58.1120944
+725,ph,Philippines,2020,digital-basic,5.655526992
+726,ph,Philippines,2020,digital-applied,19.02313625
+727,ph,Philippines,2020,digital-software_and_hardware,7.712082262
+728,ph,Philippines,2020,digital-disruptive,3.984575835
+729,ph,Philippines,2020,other,63.62467866
+730,ph,Philippines,2021,digital-basic,5.056890013
+731,ph,Philippines,2021,digital-applied,17.19342604
+732,ph,Philippines,2021,digital-software_and_hardware,6.700379267
+733,ph,Philippines,2021,digital-disruptive,4.804045512
+734,ph,Philippines,2021,other,66.24525917
+735,pt,Portugal,2015,digital-basic,7.827260459
+736,pt,Portugal,2015,digital-applied,7.962213225
+737,pt,Portugal,2015,digital-software_and_hardware,4.048582996
+738,pt,Portugal,2015,digital-disruptive,3.10391363
+739,pt,Portugal,2015,other,77.05802969
+740,pt,Portugal,2016,digital-basic,9.32642487
+741,pt,Portugal,2016,digital-applied,9.32642487
+742,pt,Portugal,2016,digital-software_and_hardware,4.490500864
+743,pt,Portugal,2016,digital-disruptive,3.454231434
+744,pt,Portugal,2016,other,73.40241796
+745,pt,Portugal,2017,digital-basic,7.281553398
+746,pt,Portugal,2017,digital-applied,18.44660194
+747,pt,Portugal,2017,digital-software_and_hardware,9.223300971
+748,pt,Portugal,2017,digital-disruptive,6.796116505
+749,pt,Portugal,2017,other,58.25242718
+750,pt,Portugal,2018,digital-basic,7.604562738
+751,pt,Portugal,2018,digital-applied,14.4486692
+752,pt,Portugal,2018,digital-software_and_hardware,7.984790875
+753,pt,Portugal,2018,digital-disruptive,6.463878327
+754,pt,Portugal,2018,other,63.49809886
+755,pt,Portugal,2019,digital-basic,6.995884774
+756,pt,Portugal,2019,digital-applied,15.63786008
+757,pt,Portugal,2019,digital-software_and_hardware,8.230452675
+758,pt,Portugal,2019,digital-disruptive,6.172839506
+759,pt,Portugal,2019,other,62.96296296
+760,pt,Portugal,2020,digital-basic,4.566210046
+761,pt,Portugal,2020,digital-applied,15.06849315
+762,pt,Portugal,2020,digital-software_and_hardware,9.132420091
+763,pt,Portugal,2020,digital-disruptive,6.849315068
+764,pt,Portugal,2020,other,64.38356164
+765,pt,Portugal,2021,digital-basic,4.379562044
+766,pt,Portugal,2021,digital-applied,2.189781022
+767,pt,Portugal,2021,digital-software_and_hardware,13.86861314
+768,pt,Portugal,2021,digital-disruptive,9.489051095
+769,pt,Portugal,2021,other,70.0729927
+770,se,Sweden,2015,digital-basic,1.323529412
+771,se,Sweden,2015,digital-applied,15
+772,se,Sweden,2015,digital-software_and_hardware,14.26470588
+773,se,Sweden,2015,digital-disruptive,9.411764706
+774,se,Sweden,2015,other,60
+775,se,Sweden,2016,digital-basic,1.206896552
+776,se,Sweden,2016,digital-applied,14.13793103
+777,se,Sweden,2016,digital-software_and_hardware,14.82758621
+778,se,Sweden,2016,digital-disruptive,8.620689655
+779,se,Sweden,2016,other,61.20689655
+780,se,Sweden,2017,digital-basic,2.659574468
+781,se,Sweden,2017,digital-applied,15.69148936
+782,se,Sweden,2017,digital-software_and_hardware,14.89361702
+783,se,Sweden,2017,digital-disruptive,9.574468085
+784,se,Sweden,2017,other,57.18085106
+785,se,Sweden,2018,digital-basic,3.427419355
+786,se,Sweden,2018,digital-applied,11.69354839
+787,se,Sweden,2018,digital-software_and_hardware,11.89516129
+788,se,Sweden,2018,digital-disruptive,8.870967742
+789,se,Sweden,2018,other,64.11290323
+790,se,Sweden,2019,digital-basic,3.082191781
+791,se,Sweden,2019,digital-applied,9.075342466
+792,se,Sweden,2019,digital-software_and_hardware,9.760273973
+793,se,Sweden,2019,digital-disruptive,8.732876712
+794,se,Sweden,2019,other,69.34931507
+795,se,Sweden,2020,digital-basic,1.237623762
+796,se,Sweden,2020,digital-applied,6.683168317
+797,se,Sweden,2020,digital-software_and_hardware,13.61386139
+798,se,Sweden,2020,digital-disruptive,13.86138614
+799,se,Sweden,2020,other,64.6039604
+800,se,Sweden,2021,digital-basic,0.784313725
+801,se,Sweden,2021,digital-applied,6.666666667
+802,se,Sweden,2021,digital-software_and_hardware,14.11764706
+803,se,Sweden,2021,digital-disruptive,18.03921569
+804,se,Sweden,2021,other,60.39215686
+805,sg,Singapore,2015,digital-basic,1.428571429
+806,sg,Singapore,2015,digital-applied,6.964285714
+807,sg,Singapore,2015,digital-software_and_hardware,8.75
+808,sg,Singapore,2015,digital-disruptive,3.214285714
+809,sg,Singapore,2015,other,79.64285714
+810,sg,Singapore,2016,digital-basic,1.739130435
+811,sg,Singapore,2016,digital-applied,8.695652174
+812,sg,Singapore,2016,digital-software_and_hardware,9.565217391
+813,sg,Singapore,2016,digital-disruptive,4.565217391
+814,sg,Singapore,2016,other,75.43478261
+815,sg,Singapore,2017,digital-basic,0
+816,sg,Singapore,2017,digital-applied,9.411764706
+817,sg,Singapore,2017,digital-software_and_hardware,12.94117647
+818,sg,Singapore,2017,digital-disruptive,10
+819,sg,Singapore,2017,other,67.64705882
+820,sg,Singapore,2018,digital-basic,0.983606557
+821,sg,Singapore,2018,digital-applied,11.80327869
+822,sg,Singapore,2018,digital-software_and_hardware,10.81967213
+823,sg,Singapore,2018,digital-disruptive,8.196721311
+824,sg,Singapore,2018,other,68.19672131
+825,sg,Singapore,2019,digital-basic,1.36239782
+826,sg,Singapore,2019,digital-applied,8.719346049
+827,sg,Singapore,2019,digital-software_and_hardware,8.991825613
+828,sg,Singapore,2019,digital-disruptive,8.446866485
+829,sg,Singapore,2019,other,72.47956403
+830,sg,Singapore,2020,digital-basic,4.285714286
+831,sg,Singapore,2020,digital-applied,7.619047619
+832,sg,Singapore,2020,digital-software_and_hardware,7.142857143
+833,sg,Singapore,2020,digital-disruptive,10.47619048
+834,sg,Singapore,2020,other,70.47619048
+835,sg,Singapore,2021,digital-basic,1.098901099
+836,sg,Singapore,2021,digital-applied,6.593406593
+837,sg,Singapore,2021,digital-software_and_hardware,11.53846154
+838,sg,Singapore,2021,digital-disruptive,10.98901099
+839,sg,Singapore,2021,other,69.78021978
+840,us,United States,2015,digital-basic,4.402490779
+841,us,United States,2015,digital-applied,7.155039067
+842,us,United States,2015,digital-software_and_hardware,5.923531512
+843,us,United States,2015,digital-disruptive,2.728751041
+844,us,United States,2015,other,79.7901876
+845,us,United States,2016,digital-basic,4.525239558
+846,us,United States,2016,digital-applied,7.892806382
+847,us,United States,2016,digital-software_and_hardware,6.434826464
+848,us,United States,2016,digital-disruptive,3.385906194
+849,us,United States,2016,other,77.7612214
+850,us,United States,2017,digital-basic,5.285639868
+851,us,United States,2017,digital-applied,7.584650113
+852,us,United States,2017,digital-software_and_hardware,6.320541761
+853,us,United States,2017,digital-disruptive,5.007813857
+854,us,United States,2017,other,75.8013544
+855,us,United States,2018,digital-basic,5.03193479
+856,us,United States,2018,digital-applied,7.957232083
+857,us,United States,2018,digital-software_and_hardware,6.270510604
+858,us,United States,2018,digital-disruptive,5.250714563
+859,us,United States,2018,other,75.48960796
+860,us,United States,2019,digital-basic,4.089370345
+861,us,United States,2019,digital-applied,8.002708192
+862,us,United States,2019,digital-software_and_hardware,5.991875423
+863,us,United States,2019,digital-disruptive,5.76844956
+864,us,United States,2019,other,76.14759648
+865,us,United States,2020,digital-basic,4.106054373
+866,us,United States,2020,digital-applied,6.547997457
+867,us,United States,2020,digital-software_and_hardware,6.211435623
+868,us,United States,2020,digital-disruptive,6.58165364
+869,us,United States,2020,other,76.55285891
+870,us,United States,2021,digital-basic,3.779885781
+871,us,United States,2021,digital-applied,6.766043945
+872,us,United States,2021,digital-software_and_hardware,6.064272578
+873,us,United States,2021,digital-disruptive,6.378859743
+874,us,United States,2021,other,77.01093795

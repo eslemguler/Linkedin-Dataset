@@ -1,0 +1,3337 @@
+,country_code,country_name,industry_group_id,industry_group_name,year_2,skill_change
+0,au,Australia,1,Agriculture,2016,0.021448549
+1,au,Australia,1,Agriculture,2017,0.075610834
+2,au,Australia,1,Agriculture,2018,0.095516651
+3,au,Australia,1,Agriculture,2019,0.161241675
+4,au,Australia,1,Agriculture,2020,0.245460528
+5,au,Australia,1,Agriculture,2021,0.285079932
+6,au,Australia,2,Arts,2016,0.013786199
+7,au,Australia,2,Arts,2017,0.064512847
+8,au,Australia,2,Arts,2018,0.090141599
+9,au,Australia,2,Arts,2019,0.141083908
+10,au,Australia,2,Arts,2020,0.210317147
+11,au,Australia,2,Arts,2021,0.181085617
+12,au,Australia,3,Construction,2016,0.009326733
+13,au,Australia,3,Construction,2017,0.065816726
+14,au,Australia,3,Construction,2018,0.090267759
+15,au,Australia,3,Construction,2019,0.179718507
+16,au,Australia,3,Construction,2020,0.249925227
+17,au,Australia,3,Construction,2021,0.310824096
+18,au,Australia,4,Consumer Goods,2016,0.023309314
+19,au,Australia,4,Consumer Goods,2017,0.081323477
+20,au,Australia,4,Consumer Goods,2018,0.092206014
+21,au,Australia,4,Consumer Goods,2019,0.189427384
+22,au,Australia,4,Consumer Goods,2020,0.266043474
+23,au,Australia,4,Consumer Goods,2021,0.318876698
+24,au,Australia,5,Corporate Services,2016,0.016443525
+25,au,Australia,5,Corporate Services,2017,0.085810054
+26,au,Australia,5,Corporate Services,2018,0.158615905
+27,au,Australia,5,Corporate Services,2019,0.186671686
+28,au,Australia,5,Corporate Services,2020,0.219921545
+29,au,Australia,5,Corporate Services,2021,0.242887237
+30,au,Australia,17,Design,2016,0.011839497
+31,au,Australia,17,Design,2017,0.070706082
+32,au,Australia,17,Design,2018,0.094138277
+33,au,Australia,17,Design,2019,0.167725447
+34,au,Australia,17,Design,2020,0.204683241
+35,au,Australia,17,Design,2021,0.2232568
+36,au,Australia,6,Education,2016,0.010388737
+37,au,Australia,6,Education,2017,0.06675395
+38,au,Australia,6,Education,2018,0.100343269
+39,au,Australia,6,Education,2019,0.20743725
+40,au,Australia,6,Education,2020,0.292059702
+41,au,Australia,6,Education,2021,0.304121637
+42,au,Australia,16,Energy & Mining,2016,0.008225885
+43,au,Australia,16,Energy & Mining,2017,0.037275425
+44,au,Australia,16,Energy & Mining,2018,0.061241856
+45,au,Australia,16,Energy & Mining,2019,0.153337741
+46,au,Australia,16,Energy & Mining,2020,0.260207214
+47,au,Australia,16,Energy & Mining,2021,0.303159181
+48,au,Australia,18,Entertainment,2016,0.010073186
+49,au,Australia,18,Entertainment,2017,0.060165639
+50,au,Australia,18,Entertainment,2018,0.081078437
+51,au,Australia,18,Entertainment,2019,0.160502686
+52,au,Australia,18,Entertainment,2020,0.186509167
+53,au,Australia,18,Entertainment,2021,0.219089606
+54,au,Australia,7,Finance,2016,0.009819939
+55,au,Australia,7,Finance,2017,0.053197338
+56,au,Australia,7,Finance,2018,0.094170682
+57,au,Australia,7,Finance,2019,0.161090149
+58,au,Australia,7,Finance,2020,0.209317787
+59,au,Australia,7,Finance,2021,0.242348674
+60,au,Australia,19,Hardware & Networking,2016,0.020118609
+61,au,Australia,19,Hardware & Networking,2017,0.086703612
+62,au,Australia,19,Hardware & Networking,2018,0.133293027
+63,au,Australia,19,Hardware & Networking,2019,0.224830404
+64,au,Australia,19,Hardware & Networking,2020,0.350276221
+65,au,Australia,19,Hardware & Networking,2021,0.37027445
+66,au,Australia,12,Health Care,2016,0.008278763
+67,au,Australia,12,Health Care,2017,0.039582703
+68,au,Australia,12,Health Care,2018,0.065757371
+69,au,Australia,12,Health Care,2019,0.169945768
+70,au,Australia,12,Health Care,2020,0.254247757
+71,au,Australia,12,Health Care,2021,0.339116582
+72,au,Australia,9,Legal,2016,0.009070331
+73,au,Australia,9,Legal,2017,0.04775415
+74,au,Australia,9,Legal,2018,0.109097436
+75,au,Australia,9,Legal,2019,0.171695545
+76,au,Australia,9,Legal,2020,0.220711727
+77,au,Australia,9,Legal,2021,0.237557124
+78,au,Australia,10,Manufacturing,2016,0.014449442
+79,au,Australia,10,Manufacturing,2017,0.057638393
+80,au,Australia,10,Manufacturing,2018,0.092452789
+81,au,Australia,10,Manufacturing,2019,0.19563652
+82,au,Australia,10,Manufacturing,2020,0.268183435
+83,au,Australia,10,Manufacturing,2021,0.316544028
+84,au,Australia,11,Media & Communications,2016,0.014330321
+85,au,Australia,11,Media & Communications,2017,0.067737393
+86,au,Australia,11,Media & Communications,2018,0.093545773
+87,au,Australia,11,Media & Communications,2019,0.180963841
+88,au,Australia,11,Media & Communications,2020,0.218747251
+89,au,Australia,11,Media & Communications,2021,0.227268767
+90,au,Australia,13,Nonprofit,2016,0.015571312
+91,au,Australia,13,Nonprofit,2017,0.068795876
+92,au,Australia,13,Nonprofit,2018,0.089343724
+93,au,Australia,13,Nonprofit,2019,0.189872405
+94,au,Australia,13,Nonprofit,2020,0.267365005
+95,au,Australia,13,Nonprofit,2021,0.301720085
+96,au,Australia,20,Public Administration,2016,0.007040561
+97,au,Australia,20,Public Administration,2017,0.039932136
+98,au,Australia,20,Public Administration,2018,0.054122133
+99,au,Australia,20,Public Administration,2019,0.104230844
+100,au,Australia,20,Public Administration,2020,0.190896831
+101,au,Australia,20,Public Administration,2021,0.211130065
+102,au,Australia,21,Public Safety,2016,0.013379039
+103,au,Australia,21,Public Safety,2017,0.080101445
+104,au,Australia,21,Public Safety,2018,0.089603469
+105,au,Australia,21,Public Safety,2019,0.118679895
+106,au,Australia,21,Public Safety,2020,0.198579086
+107,au,Australia,21,Public Safety,2021,0.253992496
+108,au,Australia,22,Real Estate,2016,0.006673028
+109,au,Australia,22,Real Estate,2017,0.049031333
+110,au,Australia,22,Real Estate,2018,0.075218892
+111,au,Australia,22,Real Estate,2019,0.131365657
+112,au,Australia,22,Real Estate,2020,0.195107481
+113,au,Australia,22,Real Estate,2021,0.194365937
+114,au,Australia,14,Recreation & Travel,2016,0.021766281
+115,au,Australia,14,Recreation & Travel,2017,0.104088536
+116,au,Australia,14,Recreation & Travel,2018,0.139392124
+117,au,Australia,14,Recreation & Travel,2019,0.245478693
+118,au,Australia,14,Recreation & Travel,2020,0.338394517
+119,au,Australia,14,Recreation & Travel,2021,0.399397311
+120,au,Australia,24,Retail,2016,0.014396844
+121,au,Australia,24,Retail,2017,0.06942764
+122,au,Australia,24,Retail,2018,0.064821813
+123,au,Australia,24,Retail,2019,0.15637339
+124,au,Australia,24,Retail,2020,0.225601251
+125,au,Australia,24,Retail,2021,0.331797632
+126,au,Australia,8,Software & IT Services,2016,0.014438833
+127,au,Australia,8,Software & IT Services,2017,0.086421704
+128,au,Australia,8,Software & IT Services,2018,0.124369335
+129,au,Australia,8,Software & IT Services,2019,0.236174146
+130,au,Australia,8,Software & IT Services,2020,0.308827679
+131,au,Australia,8,Software & IT Services,2021,0.321448007
+132,au,Australia,15,Transportation & Logistics,2016,0.011377864
+133,au,Australia,15,Transportation & Logistics,2017,0.048159882
+134,au,Australia,15,Transportation & Logistics,2018,0.080628517
+135,au,Australia,15,Transportation & Logistics,2019,0.176844559
+136,au,Australia,15,Transportation & Logistics,2020,0.278563689
+137,au,Australia,15,Transportation & Logistics,2021,0.327101164
+138,au,Australia,23,Wellness & Fitness,2016,0.013408156
+139,au,Australia,23,Wellness & Fitness,2017,0.071519893
+140,au,Australia,23,Wellness & Fitness,2018,0.091483718
+141,au,Australia,23,Wellness & Fitness,2019,0.163847621
+142,au,Australia,23,Wellness & Fitness,2020,0.170350713
+143,au,Australia,23,Wellness & Fitness,2021,0.272940721
+144,br,Brazil,1,Agriculture,2016,0.006886364
+145,br,Brazil,1,Agriculture,2017,0.042699702
+146,br,Brazil,1,Agriculture,2018,0.065015202
+147,br,Brazil,1,Agriculture,2019,0.084729285
+148,br,Brazil,1,Agriculture,2020,0.168470595
+149,br,Brazil,1,Agriculture,2021,0.195971171
+150,br,Brazil,2,Arts,2016,0.024502549
+151,br,Brazil,2,Arts,2017,0.079142621
+152,br,Brazil,2,Arts,2018,0.115520338
+153,br,Brazil,2,Arts,2019,0.136556341
+154,br,Brazil,2,Arts,2020,0.198410793
+155,br,Brazil,2,Arts,2021,0.21190431
+156,br,Brazil,3,Construction,2016,0.009703331
+157,br,Brazil,3,Construction,2017,0.072537881
+158,br,Brazil,3,Construction,2018,0.116275486
+159,br,Brazil,3,Construction,2019,0.197382424
+160,br,Brazil,3,Construction,2020,0.285629646
+161,br,Brazil,3,Construction,2021,0.338670867
+162,br,Brazil,4,Consumer Goods,2016,0.012470243
+163,br,Brazil,4,Consumer Goods,2017,0.1303915
+164,br,Brazil,4,Consumer Goods,2018,0.189492902
+165,br,Brazil,4,Consumer Goods,2019,0.280520555
+166,br,Brazil,4,Consumer Goods,2020,0.439249652
+167,br,Brazil,4,Consumer Goods,2021,0.510091665
+168,br,Brazil,5,Corporate Services,2016,0.016069485
+169,br,Brazil,5,Corporate Services,2017,0.170461402
+170,br,Brazil,5,Corporate Services,2018,0.260508778
+171,br,Brazil,5,Corporate Services,2019,0.312836184
+172,br,Brazil,5,Corporate Services,2020,0.423304503
+173,br,Brazil,5,Corporate Services,2021,0.463594557
+174,br,Brazil,17,Design,2016,0.012806787
+175,br,Brazil,17,Design,2017,0.053547501
+176,br,Brazil,17,Design,2018,0.08152081
+177,br,Brazil,17,Design,2019,0.130092069
+178,br,Brazil,17,Design,2020,0.138827345
+179,br,Brazil,17,Design,2021,0.176538745
+180,br,Brazil,6,Education,2016,0.020442033
+181,br,Brazil,6,Education,2017,0.149484882
+182,br,Brazil,6,Education,2018,0.211417256
+183,br,Brazil,6,Education,2019,0.199761655
+184,br,Brazil,6,Education,2020,0.261915153
+185,br,Brazil,6,Education,2021,0.309424502
+186,br,Brazil,16,Energy & Mining,2016,0.011098187
+187,br,Brazil,16,Energy & Mining,2017,0.065787857
+188,br,Brazil,16,Energy & Mining,2018,0.109509593
+189,br,Brazil,16,Energy & Mining,2019,0.192300362
+190,br,Brazil,16,Energy & Mining,2020,0.378923403
+191,br,Brazil,16,Energy & Mining,2021,0.393073988
+192,br,Brazil,18,Entertainment,2016,0.014928362
+193,br,Brazil,18,Entertainment,2017,0.068384287
+194,br,Brazil,18,Entertainment,2018,0.097536059
+195,br,Brazil,18,Entertainment,2019,0.170766657
+196,br,Brazil,18,Entertainment,2020,0.199769433
+197,br,Brazil,18,Entertainment,2021,0.281674201
+198,br,Brazil,7,Finance,2016,0.015620368
+199,br,Brazil,7,Finance,2017,0.146464381
+200,br,Brazil,7,Finance,2018,0.198361454
+201,br,Brazil,7,Finance,2019,0.322497048
+202,br,Brazil,7,Finance,2020,0.409418311
+203,br,Brazil,7,Finance,2021,0.43314365
+204,br,Brazil,19,Hardware & Networking,2016,0.011113153
+205,br,Brazil,19,Hardware & Networking,2017,0.113510985
+206,br,Brazil,19,Hardware & Networking,2018,0.186086198
+207,br,Brazil,19,Hardware & Networking,2019,0.291059395
+208,br,Brazil,19,Hardware & Networking,2020,0.435387388
+209,br,Brazil,19,Hardware & Networking,2021,0.505492137
+210,br,Brazil,12,Health Care,2016,0.01679026
+211,br,Brazil,12,Health Care,2017,0.110372356
+212,br,Brazil,12,Health Care,2018,0.160708545
+213,br,Brazil,12,Health Care,2019,0.25348718
+214,br,Brazil,12,Health Care,2020,0.47954286
+215,br,Brazil,12,Health Care,2021,0.547964904
+216,br,Brazil,9,Legal,2016,0.007602741
+217,br,Brazil,9,Legal,2017,0.060201986
+218,br,Brazil,9,Legal,2018,0.065644493
+219,br,Brazil,9,Legal,2019,0.148651221
+220,br,Brazil,9,Legal,2020,0.232349458
+221,br,Brazil,9,Legal,2021,0.324482495
+222,br,Brazil,10,Manufacturing,2016,0.007373364
+223,br,Brazil,10,Manufacturing,2017,0.057128256
+224,br,Brazil,10,Manufacturing,2018,0.080202246
+225,br,Brazil,10,Manufacturing,2019,0.170735139
+226,br,Brazil,10,Manufacturing,2020,0.333926465
+227,br,Brazil,10,Manufacturing,2021,0.37448647
+228,br,Brazil,11,Media & Communications,2016,0.02065518
+229,br,Brazil,11,Media & Communications,2017,0.104286036
+230,br,Brazil,11,Media & Communications,2018,0.163730399
+231,br,Brazil,11,Media & Communications,2019,0.269046876
+232,br,Brazil,11,Media & Communications,2020,0.271000425
+233,br,Brazil,11,Media & Communications,2021,0.337688869
+234,br,Brazil,13,Nonprofit,2016,0.023245648
+235,br,Brazil,13,Nonprofit,2017,0.174714037
+236,br,Brazil,13,Nonprofit,2018,0.247837384
+237,br,Brazil,13,Nonprofit,2019,0.246977875
+238,br,Brazil,13,Nonprofit,2020,0.341644936
+239,br,Brazil,13,Nonprofit,2021,0.386366067
+240,br,Brazil,20,Public Administration,2016,0.019808625
+241,br,Brazil,20,Public Administration,2017,0.108692526
+242,br,Brazil,20,Public Administration,2018,0.154857078
+243,br,Brazil,20,Public Administration,2019,0.181570394
+244,br,Brazil,20,Public Administration,2020,0.265609238
+245,br,Brazil,20,Public Administration,2021,0.322475927
+246,br,Brazil,21,Public Safety,2016,0.02537611
+247,br,Brazil,21,Public Safety,2017,0.114784435
+248,br,Brazil,21,Public Safety,2018,0.144147736
+249,br,Brazil,21,Public Safety,2019,0.201773061
+250,br,Brazil,21,Public Safety,2020,0.27183887
+251,br,Brazil,21,Public Safety,2021,0.398555663
+252,br,Brazil,22,Real Estate,2016,0.014152624
+253,br,Brazil,22,Real Estate,2017,0.1228735
+254,br,Brazil,22,Real Estate,2018,0.178139836
+255,br,Brazil,22,Real Estate,2019,0.244299927
+256,br,Brazil,22,Real Estate,2020,0.346662744
+257,br,Brazil,22,Real Estate,2021,0.418068855
+258,br,Brazil,14,Recreation & Travel,2016,0.018461412
+259,br,Brazil,14,Recreation & Travel,2017,0.131892408
+260,br,Brazil,14,Recreation & Travel,2018,0.178225218
+261,br,Brazil,14,Recreation & Travel,2019,0.256812573
+262,br,Brazil,14,Recreation & Travel,2020,0.32779075
+263,br,Brazil,14,Recreation & Travel,2021,0.411443479
+264,br,Brazil,24,Retail,2016,0.013152265
+265,br,Brazil,24,Retail,2017,0.16950373
+266,br,Brazil,24,Retail,2018,0.254674505
+267,br,Brazil,24,Retail,2019,0.352494048
+268,br,Brazil,24,Retail,2020,0.448842584
+269,br,Brazil,24,Retail,2021,0.500661923
+270,br,Brazil,8,Software & IT Services,2016,0.014746812
+271,br,Brazil,8,Software & IT Services,2017,0.113625762
+272,br,Brazil,8,Software & IT Services,2018,0.194812033
+273,br,Brazil,8,Software & IT Services,2019,0.294326081
+274,br,Brazil,8,Software & IT Services,2020,0.400352181
+275,br,Brazil,8,Software & IT Services,2021,0.410229622
+276,br,Brazil,15,Transportation & Logistics,2016,0.009217753
+277,br,Brazil,15,Transportation & Logistics,2017,0.081750266
+278,br,Brazil,15,Transportation & Logistics,2018,0.129453508
+279,br,Brazil,15,Transportation & Logistics,2019,0.222516079
+280,br,Brazil,15,Transportation & Logistics,2020,0.477525548
+281,br,Brazil,15,Transportation & Logistics,2021,0.429601049
+282,br,Brazil,23,Wellness & Fitness,2016,0.01515551
+283,br,Brazil,23,Wellness & Fitness,2017,0.087017726
+284,br,Brazil,23,Wellness & Fitness,2018,0.132366437
+285,br,Brazil,23,Wellness & Fitness,2019,0.210289929
+286,br,Brazil,23,Wellness & Fitness,2020,0.380636118
+287,br,Brazil,23,Wellness & Fitness,2021,0.454662358
+288,ca,Canada,1,Agriculture,2016,0.031946254
+289,ca,Canada,1,Agriculture,2017,0.11101431
+290,ca,Canada,1,Agriculture,2018,0.113246943
+291,ca,Canada,1,Agriculture,2019,0.202055194
+292,ca,Canada,1,Agriculture,2020,0.23103741
+293,ca,Canada,1,Agriculture,2021,0.299446136
+294,ca,Canada,2,Arts,2016,0.011669458
+295,ca,Canada,2,Arts,2017,0.0619034
+296,ca,Canada,2,Arts,2018,0.101729235
+297,ca,Canada,2,Arts,2019,0.147031775
+298,ca,Canada,2,Arts,2020,0.191490127
+299,ca,Canada,2,Arts,2021,0.185642588
+300,ca,Canada,3,Construction,2016,0.007957117
+301,ca,Canada,3,Construction,2017,0.058461752
+302,ca,Canada,3,Construction,2018,0.097078354
+303,ca,Canada,3,Construction,2019,0.184117462
+304,ca,Canada,3,Construction,2020,0.259673664
+305,ca,Canada,3,Construction,2021,0.304053653
+306,ca,Canada,4,Consumer Goods,2016,0.019739443
+307,ca,Canada,4,Consumer Goods,2017,0.081541619
+308,ca,Canada,4,Consumer Goods,2018,0.098968998
+309,ca,Canada,4,Consumer Goods,2019,0.208454102
+310,ca,Canada,4,Consumer Goods,2020,0.299359855
+311,ca,Canada,4,Consumer Goods,2021,0.340598838
+312,ca,Canada,5,Corporate Services,2016,0.015348801
+313,ca,Canada,5,Corporate Services,2017,0.060760327
+314,ca,Canada,5,Corporate Services,2018,0.09090048
+315,ca,Canada,5,Corporate Services,2019,0.187641207
+316,ca,Canada,5,Corporate Services,2020,0.229961018
+317,ca,Canada,5,Corporate Services,2021,0.243122763
+318,ca,Canada,17,Design,2016,0.013399202
+319,ca,Canada,17,Design,2017,0.068052761
+320,ca,Canada,17,Design,2018,0.098252963
+321,ca,Canada,17,Design,2019,0.174415073
+322,ca,Canada,17,Design,2020,0.218384305
+323,ca,Canada,17,Design,2021,0.243650123
+324,ca,Canada,6,Education,2016,0.013540028
+325,ca,Canada,6,Education,2017,0.079858164
+326,ca,Canada,6,Education,2018,0.117277132
+327,ca,Canada,6,Education,2019,0.209492689
+328,ca,Canada,6,Education,2020,0.274519441
+329,ca,Canada,6,Education,2021,0.280744163
+330,ca,Canada,16,Energy & Mining,2016,0.012309759
+331,ca,Canada,16,Energy & Mining,2017,0.038005765
+332,ca,Canada,16,Energy & Mining,2018,0.069669508
+333,ca,Canada,16,Energy & Mining,2019,0.168651374
+334,ca,Canada,16,Energy & Mining,2020,0.265629486
+335,ca,Canada,16,Energy & Mining,2021,0.335471901
+336,ca,Canada,18,Entertainment,2016,0.01063207
+337,ca,Canada,18,Entertainment,2017,0.056702305
+338,ca,Canada,18,Entertainment,2018,0.083692076
+339,ca,Canada,18,Entertainment,2019,0.157629034
+340,ca,Canada,18,Entertainment,2020,0.191968266
+341,ca,Canada,18,Entertainment,2021,0.212556026
+342,ca,Canada,7,Finance,2016,0.0081252
+343,ca,Canada,7,Finance,2017,0.04348622
+344,ca,Canada,7,Finance,2018,0.072858667
+345,ca,Canada,7,Finance,2019,0.146142461
+346,ca,Canada,7,Finance,2020,0.235604986
+347,ca,Canada,7,Finance,2021,0.259686853
+348,ca,Canada,19,Hardware & Networking,2016,0.011985724
+349,ca,Canada,19,Hardware & Networking,2017,0.076635304
+350,ca,Canada,19,Hardware & Networking,2018,0.123576676
+351,ca,Canada,19,Hardware & Networking,2019,0.259729752
+352,ca,Canada,19,Hardware & Networking,2020,0.505167539
+353,ca,Canada,19,Hardware & Networking,2021,0.437985034
+354,ca,Canada,12,Health Care,2016,0.007350239
+355,ca,Canada,12,Health Care,2017,0.034719464
+356,ca,Canada,12,Health Care,2018,0.054379857
+357,ca,Canada,12,Health Care,2019,0.144042637
+358,ca,Canada,12,Health Care,2020,0.211337762
+359,ca,Canada,12,Health Care,2021,0.266066335
+360,ca,Canada,9,Legal,2016,0.007565554
+361,ca,Canada,9,Legal,2017,0.039455838
+362,ca,Canada,9,Legal,2018,0.09320085
+363,ca,Canada,9,Legal,2019,0.184969293
+364,ca,Canada,9,Legal,2020,0.211621057
+365,ca,Canada,9,Legal,2021,0.22614624
+366,ca,Canada,10,Manufacturing,2016,0.010398554
+367,ca,Canada,10,Manufacturing,2017,0.051206435
+368,ca,Canada,10,Manufacturing,2018,0.077068554
+369,ca,Canada,10,Manufacturing,2019,0.181337196
+370,ca,Canada,10,Manufacturing,2020,0.265841746
+371,ca,Canada,10,Manufacturing,2021,0.309717745
+372,ca,Canada,11,Media & Communications,2016,0.015119995
+373,ca,Canada,11,Media & Communications,2017,0.069348717
+374,ca,Canada,11,Media & Communications,2018,0.094405204
+375,ca,Canada,11,Media & Communications,2019,0.174518976
+376,ca,Canada,11,Media & Communications,2020,0.216365385
+377,ca,Canada,11,Media & Communications,2021,0.221577203
+378,ca,Canada,13,Nonprofit,2016,0.011616669
+379,ca,Canada,13,Nonprofit,2017,0.053734708
+380,ca,Canada,13,Nonprofit,2018,0.067574299
+381,ca,Canada,13,Nonprofit,2019,0.174430431
+382,ca,Canada,13,Nonprofit,2020,0.2751121
+383,ca,Canada,13,Nonprofit,2021,0.288170814
+384,ca,Canada,20,Public Administration,2016,0.010448291
+385,ca,Canada,20,Public Administration,2017,0.041915523
+386,ca,Canada,20,Public Administration,2018,0.060812074
+387,ca,Canada,20,Public Administration,2019,0.166750259
+388,ca,Canada,20,Public Administration,2020,0.265953421
+389,ca,Canada,20,Public Administration,2021,0.293975875
+390,ca,Canada,21,Public Safety,2016,0.010235025
+391,ca,Canada,21,Public Safety,2017,0.049692852
+392,ca,Canada,21,Public Safety,2018,0.061989686
+393,ca,Canada,21,Public Safety,2019,0.111319249
+394,ca,Canada,21,Public Safety,2020,0.195231005
+395,ca,Canada,21,Public Safety,2021,0.241515677
+396,ca,Canada,22,Real Estate,2016,0.007733317
+397,ca,Canada,22,Real Estate,2017,0.038572563
+398,ca,Canada,22,Real Estate,2018,0.118918706
+399,ca,Canada,22,Real Estate,2019,0.143197927
+400,ca,Canada,22,Real Estate,2020,0.237990636
+401,ca,Canada,22,Real Estate,2021,0.315769699
+402,ca,Canada,14,Recreation & Travel,2016,0.018388241
+403,ca,Canada,14,Recreation & Travel,2017,0.099065587
+404,ca,Canada,14,Recreation & Travel,2018,0.123797643
+405,ca,Canada,14,Recreation & Travel,2019,0.243572845
+406,ca,Canada,14,Recreation & Travel,2020,0.333546729
+407,ca,Canada,14,Recreation & Travel,2021,0.396262063
+408,ca,Canada,24,Retail,2016,0.016515692
+409,ca,Canada,24,Retail,2017,0.078473339
+410,ca,Canada,24,Retail,2018,0.083076308
+411,ca,Canada,24,Retail,2019,0.18765841
+412,ca,Canada,24,Retail,2020,0.302866191
+413,ca,Canada,24,Retail,2021,0.383284855
+414,ca,Canada,8,Software & IT Services,2016,0.015827256
+415,ca,Canada,8,Software & IT Services,2017,0.088286048
+416,ca,Canada,8,Software & IT Services,2018,0.1254213
+417,ca,Canada,8,Software & IT Services,2019,0.221456832
+418,ca,Canada,8,Software & IT Services,2020,0.300751652
+419,ca,Canada,8,Software & IT Services,2021,0.326090116
+420,ca,Canada,15,Transportation & Logistics,2016,0.007287923
+421,ca,Canada,15,Transportation & Logistics,2017,0.049516849
+422,ca,Canada,15,Transportation & Logistics,2018,0.082115829
+423,ca,Canada,15,Transportation & Logistics,2019,0.184668627
+424,ca,Canada,15,Transportation & Logistics,2020,0.278128062
+425,ca,Canada,15,Transportation & Logistics,2021,0.338558559
+426,ca,Canada,23,Wellness & Fitness,2016,0.011343603
+427,ca,Canada,23,Wellness & Fitness,2017,0.063018634
+428,ca,Canada,23,Wellness & Fitness,2018,0.088137154
+429,ca,Canada,23,Wellness & Fitness,2019,0.173444389
+430,ca,Canada,23,Wellness & Fitness,2020,0.180052081
+431,ca,Canada,23,Wellness & Fitness,2021,0.250408578
+432,cn,China,1,Agriculture,2016,0.060316494
+433,cn,China,1,Agriculture,2017,0.215924451
+434,cn,China,1,Agriculture,2018,0.319215359
+435,cn,China,1,Agriculture,2019,0.612881573
+436,cn,China,1,Agriculture,2020,0.680076806
+437,cn,China,1,Agriculture,2021,0.661696904
+438,cn,China,2,Arts,2016,0.056118674
+439,cn,China,2,Arts,2017,0.185904868
+440,cn,China,2,Arts,2018,0.153220593
+441,cn,China,2,Arts,2019,0.284918055
+442,cn,China,2,Arts,2020,0.451580212
+443,cn,China,2,Arts,2021,0.391390705
+444,cn,China,3,Construction,2016,0.054761924
+445,cn,China,3,Construction,2017,0.259092616
+446,cn,China,3,Construction,2018,0.32180683
+447,cn,China,3,Construction,2019,0.425317219
+448,cn,China,3,Construction,2020,0.540982852
+449,cn,China,3,Construction,2021,0.510723906
+450,cn,China,4,Consumer Goods,2016,0.021693815
+451,cn,China,4,Consumer Goods,2017,0.127098825
+452,cn,China,4,Consumer Goods,2018,0.155956739
+453,cn,China,4,Consumer Goods,2019,0.394368207
+454,cn,China,4,Consumer Goods,2020,0.531466001
+455,cn,China,4,Consumer Goods,2021,0.506483673
+456,cn,China,5,Corporate Services,2016,0.035584027
+457,cn,China,5,Corporate Services,2017,0.152808844
+458,cn,China,5,Corporate Services,2018,0.204878495
+459,cn,China,5,Corporate Services,2019,0.33047531
+460,cn,China,5,Corporate Services,2020,0.437854048
+461,cn,China,5,Corporate Services,2021,0.434795776
+462,cn,China,17,Design,2016,0.033135787
+463,cn,China,17,Design,2017,0.129771725
+464,cn,China,17,Design,2018,0.132558824
+465,cn,China,17,Design,2019,0.152342326
+466,cn,China,17,Design,2020,0.218103266
+467,cn,China,17,Design,2021,0.232729862
+468,cn,China,6,Education,2016,0.02076064
+469,cn,China,6,Education,2017,0.119259866
+470,cn,China,6,Education,2018,0.123932243
+471,cn,China,6,Education,2019,0.180141976
+472,cn,China,6,Education,2020,0.251753518
+473,cn,China,6,Education,2021,0.235052111
+474,cn,China,16,Energy & Mining,2016,0.026498329
+475,cn,China,16,Energy & Mining,2017,0.14778177
+476,cn,China,16,Energy & Mining,2018,0.138257109
+477,cn,China,16,Energy & Mining,2019,0.261512091
+478,cn,China,16,Energy & Mining,2020,0.482902804
+479,cn,China,16,Energy & Mining,2021,0.410045654
+480,cn,China,18,Entertainment,2016,0.043981635
+481,cn,China,18,Entertainment,2017,0.123703503
+482,cn,China,18,Entertainment,2018,0.129521659
+483,cn,China,18,Entertainment,2019,0.184434739
+484,cn,China,18,Entertainment,2020,0.286589957
+485,cn,China,18,Entertainment,2021,0.280173915
+486,cn,China,7,Finance,2016,0.052044085
+487,cn,China,7,Finance,2017,0.140478169
+488,cn,China,7,Finance,2018,0.184233
+489,cn,China,7,Finance,2019,0.331556038
+490,cn,China,7,Finance,2020,0.430718073
+491,cn,China,7,Finance,2021,0.440569008
+492,cn,China,19,Hardware & Networking,2016,0.017947344
+493,cn,China,19,Hardware & Networking,2017,0.091728422
+494,cn,China,19,Hardware & Networking,2018,0.106965552
+495,cn,China,19,Hardware & Networking,2019,0.171066909
+496,cn,China,19,Hardware & Networking,2020,0.310371428
+497,cn,China,19,Hardware & Networking,2021,0.317923352
+498,cn,China,12,Health Care,2016,0.021583945
+499,cn,China,12,Health Care,2017,0.076351798
+500,cn,China,12,Health Care,2018,0.116570093
+501,cn,China,12,Health Care,2019,0.1871448
+502,cn,China,12,Health Care,2020,0.358770552
+503,cn,China,12,Health Care,2021,0.324454
+504,cn,China,9,Legal,2016,0.027307014
+505,cn,China,9,Legal,2017,0.097499806
+506,cn,China,9,Legal,2018,0.114030043
+507,cn,China,9,Legal,2019,0.140544074
+508,cn,China,9,Legal,2020,0.259480054
+509,cn,China,9,Legal,2021,0.200191046
+510,cn,China,10,Manufacturing,2016,0.029139682
+511,cn,China,10,Manufacturing,2017,0.104292015
+512,cn,China,10,Manufacturing,2018,0.131275372
+513,cn,China,10,Manufacturing,2019,0.264820641
+514,cn,China,10,Manufacturing,2020,0.435612433
+515,cn,China,10,Manufacturing,2021,0.444228603
+516,cn,China,11,Media & Communications,2016,0.046426219
+517,cn,China,11,Media & Communications,2017,0.14129657
+518,cn,China,11,Media & Communications,2018,0.154633146
+519,cn,China,11,Media & Communications,2019,0.290792056
+520,cn,China,11,Media & Communications,2020,0.343197463
+521,cn,China,11,Media & Communications,2021,0.401553194
+522,cn,China,13,Nonprofit,2016,0.080924105
+523,cn,China,13,Nonprofit,2017,0.185256978
+524,cn,China,13,Nonprofit,2018,0.207307697
+525,cn,China,13,Nonprofit,2019,0.39730263
+526,cn,China,13,Nonprofit,2020,0.553507467
+527,cn,China,13,Nonprofit,2021,0.51747134
+528,cn,China,20,Public Administration,2016,0.1224213
+529,cn,China,20,Public Administration,2017,0.400662066
+530,cn,China,20,Public Administration,2018,0.38140094
+531,cn,China,20,Public Administration,2019,0.394634533
+532,cn,China,20,Public Administration,2020,0.583268183
+533,cn,China,20,Public Administration,2021,0.579836764
+534,cn,China,22,Real Estate,2016,0.039712895
+535,cn,China,22,Real Estate,2017,0.199633064
+536,cn,China,22,Real Estate,2018,0.259174102
+537,cn,China,22,Real Estate,2019,0.470534199
+538,cn,China,22,Real Estate,2020,0.43094958
+539,cn,China,22,Real Estate,2021,0.443563362
+540,cn,China,14,Recreation & Travel,2016,0.02104332
+541,cn,China,14,Recreation & Travel,2017,0.154601067
+542,cn,China,14,Recreation & Travel,2018,0.132611051
+543,cn,China,14,Recreation & Travel,2019,0.231508498
+544,cn,China,14,Recreation & Travel,2020,0.385210214
+545,cn,China,14,Recreation & Travel,2021,0.36640303
+546,cn,China,24,Retail,2016,0.031182644
+547,cn,China,24,Retail,2017,0.145183306
+548,cn,China,24,Retail,2018,0.225879526
+549,cn,China,24,Retail,2019,0.529750373
+550,cn,China,24,Retail,2020,0.646011091
+551,cn,China,24,Retail,2021,0.660368056
+552,cn,China,8,Software & IT Services,2016,0.03794666
+553,cn,China,8,Software & IT Services,2017,0.115497123
+554,cn,China,8,Software & IT Services,2018,0.140619098
+555,cn,China,8,Software & IT Services,2019,0.250905196
+556,cn,China,8,Software & IT Services,2020,0.327096681
+557,cn,China,8,Software & IT Services,2021,0.341260608
+558,cn,China,15,Transportation & Logistics,2016,0.031379583
+559,cn,China,15,Transportation & Logistics,2017,0.124966635
+560,cn,China,15,Transportation & Logistics,2018,0.157379495
+561,cn,China,15,Transportation & Logistics,2019,0.35202528
+562,cn,China,15,Transportation & Logistics,2020,0.528956692
+563,cn,China,15,Transportation & Logistics,2021,0.471252879
+564,cn,China,23,Wellness & Fitness,2016,0.06791383
+565,cn,China,23,Wellness & Fitness,2017,0.35997625
+566,cn,China,23,Wellness & Fitness,2018,0.475520909
+567,cn,China,23,Wellness & Fitness,2019,0.590482923
+568,cn,China,23,Wellness & Fitness,2020,0.657636047
+569,cn,China,23,Wellness & Fitness,2021,0.65828189
+570,dk,Denmark,3,Construction,2016,0.03575778
+571,dk,Denmark,3,Construction,2017,0.116737277
+572,dk,Denmark,3,Construction,2018,0.136120311
+573,dk,Denmark,3,Construction,2019,0.281557065
+574,dk,Denmark,3,Construction,2020,0.348988283
+575,dk,Denmark,3,Construction,2021,0.36349095
+576,dk,Denmark,4,Consumer Goods,2016,0.035202321
+577,dk,Denmark,4,Consumer Goods,2017,0.10430776
+578,dk,Denmark,4,Consumer Goods,2018,0.109746684
+579,dk,Denmark,4,Consumer Goods,2019,0.298610096
+580,dk,Denmark,4,Consumer Goods,2020,0.357313104
+581,dk,Denmark,4,Consumer Goods,2021,0.37795779
+582,dk,Denmark,5,Corporate Services,2016,0.0380773
+583,dk,Denmark,5,Corporate Services,2017,0.14507779
+584,dk,Denmark,5,Corporate Services,2018,0.157070552
+585,dk,Denmark,5,Corporate Services,2019,0.310869869
+586,dk,Denmark,5,Corporate Services,2020,0.385670691
+587,dk,Denmark,5,Corporate Services,2021,0.380771616
+588,dk,Denmark,17,Design,2016,0.023399995
+589,dk,Denmark,17,Design,2017,0.075204776
+590,dk,Denmark,17,Design,2018,0.072299147
+591,dk,Denmark,17,Design,2019,0.162384584
+592,dk,Denmark,17,Design,2020,0.176468189
+593,dk,Denmark,17,Design,2021,0.203120572
+594,dk,Denmark,6,Education,2016,0.042277196
+595,dk,Denmark,6,Education,2017,0.142013939
+596,dk,Denmark,6,Education,2018,0.145168309
+597,dk,Denmark,6,Education,2019,0.298090233
+598,dk,Denmark,6,Education,2020,0.390345735
+599,dk,Denmark,6,Education,2021,0.326517983
+600,dk,Denmark,16,Energy & Mining,2016,0.041299759
+601,dk,Denmark,16,Energy & Mining,2017,0.125985447
+602,dk,Denmark,16,Energy & Mining,2018,0.170448791
+603,dk,Denmark,16,Energy & Mining,2019,0.316658072
+604,dk,Denmark,16,Energy & Mining,2020,0.344196234
+605,dk,Denmark,16,Energy & Mining,2021,0.498145809
+606,dk,Denmark,18,Entertainment,2016,0.029257576
+607,dk,Denmark,18,Entertainment,2017,0.10611156
+608,dk,Denmark,18,Entertainment,2018,0.113868374
+609,dk,Denmark,18,Entertainment,2019,0.266493771
+610,dk,Denmark,18,Entertainment,2020,0.313353033
+611,dk,Denmark,18,Entertainment,2021,0.270978627
+612,dk,Denmark,7,Finance,2016,0.024770143
+613,dk,Denmark,7,Finance,2017,0.095476022
+614,dk,Denmark,7,Finance,2018,0.131002534
+615,dk,Denmark,7,Finance,2019,0.224943987
+616,dk,Denmark,7,Finance,2020,0.394479498
+617,dk,Denmark,7,Finance,2021,0.383329222
+618,dk,Denmark,19,Hardware & Networking,2016,0.05704415
+619,dk,Denmark,19,Hardware & Networking,2017,0.173402692
+620,dk,Denmark,19,Hardware & Networking,2018,0.192323417
+621,dk,Denmark,19,Hardware & Networking,2019,0.362454121
+622,dk,Denmark,19,Hardware & Networking,2020,0.489816656
+623,dk,Denmark,19,Hardware & Networking,2021,0.5213474
+624,dk,Denmark,12,Health Care,2016,0.01917093
+625,dk,Denmark,12,Health Care,2017,0.076365365
+626,dk,Denmark,12,Health Care,2018,0.101010836
+627,dk,Denmark,12,Health Care,2019,0.214938472
+628,dk,Denmark,12,Health Care,2020,0.312516937
+629,dk,Denmark,12,Health Care,2021,0.346204435
+630,dk,Denmark,10,Manufacturing,2016,0.031061518
+631,dk,Denmark,10,Manufacturing,2017,0.096057269
+632,dk,Denmark,10,Manufacturing,2018,0.114170422
+633,dk,Denmark,10,Manufacturing,2019,0.288058507
+634,dk,Denmark,10,Manufacturing,2020,0.351885272
+635,dk,Denmark,10,Manufacturing,2021,0.378937494
+636,dk,Denmark,11,Media & Communications,2016,0.043144478
+637,dk,Denmark,11,Media & Communications,2017,0.120505598
+638,dk,Denmark,11,Media & Communications,2018,0.110748417
+639,dk,Denmark,11,Media & Communications,2019,0.226060987
+640,dk,Denmark,11,Media & Communications,2020,0.270534123
+641,dk,Denmark,11,Media & Communications,2021,0.281807913
+642,dk,Denmark,13,Nonprofit,2016,0.079857227
+643,dk,Denmark,13,Nonprofit,2017,0.236963722
+644,dk,Denmark,13,Nonprofit,2018,0.21914256
+645,dk,Denmark,13,Nonprofit,2019,0.378021742
+646,dk,Denmark,13,Nonprofit,2020,0.451633729
+647,dk,Denmark,13,Nonprofit,2021,0.420935872
+648,dk,Denmark,20,Public Administration,2016,0.04961601
+649,dk,Denmark,20,Public Administration,2017,0.126158299
+650,dk,Denmark,20,Public Administration,2018,0.148011398
+651,dk,Denmark,20,Public Administration,2019,0.279285876
+652,dk,Denmark,20,Public Administration,2020,0.444092404
+653,dk,Denmark,20,Public Administration,2021,0.409994904
+654,dk,Denmark,21,Public Safety,2016,0.031330601
+655,dk,Denmark,21,Public Safety,2017,0.139732778
+656,dk,Denmark,21,Public Safety,2018,0.145304051
+657,dk,Denmark,21,Public Safety,2019,0.225993696
+658,dk,Denmark,21,Public Safety,2020,0.299915837
+659,dk,Denmark,21,Public Safety,2021,0.423715251
+660,dk,Denmark,14,Recreation & Travel,2016,0.068559531
+661,dk,Denmark,14,Recreation & Travel,2017,0.177472608
+662,dk,Denmark,14,Recreation & Travel,2018,0.18555428
+663,dk,Denmark,14,Recreation & Travel,2019,0.394004121
+664,dk,Denmark,14,Recreation & Travel,2020,0.412167095
+665,dk,Denmark,14,Recreation & Travel,2021,0.456744423
+666,dk,Denmark,24,Retail,2016,0.056374903
+667,dk,Denmark,24,Retail,2017,0.14241132
+668,dk,Denmark,24,Retail,2018,0.133239039
+669,dk,Denmark,24,Retail,2019,0.268927366
+670,dk,Denmark,24,Retail,2020,0.441092802
+671,dk,Denmark,24,Retail,2021,0.399400394
+672,dk,Denmark,8,Software & IT Services,2016,0.026331781
+673,dk,Denmark,8,Software & IT Services,2017,0.125730724
+674,dk,Denmark,8,Software & IT Services,2018,0.159888697
+675,dk,Denmark,8,Software & IT Services,2019,0.264844508
+676,dk,Denmark,8,Software & IT Services,2020,0.304592622
+677,dk,Denmark,8,Software & IT Services,2021,0.316969571
+678,dk,Denmark,15,Transportation & Logistics,2016,0.022058068
+679,dk,Denmark,15,Transportation & Logistics,2017,0.079276398
+680,dk,Denmark,15,Transportation & Logistics,2018,0.093181943
+681,dk,Denmark,15,Transportation & Logistics,2019,0.247639745
+682,dk,Denmark,15,Transportation & Logistics,2020,0.318905528
+683,dk,Denmark,15,Transportation & Logistics,2021,0.373534132
+684,dk,Denmark,23,Wellness & Fitness,2016,0.063791117
+685,dk,Denmark,23,Wellness & Fitness,2017,0.228113285
+686,dk,Denmark,23,Wellness & Fitness,2018,0.19659713
+687,dk,Denmark,23,Wellness & Fitness,2019,0.329625187
+688,dk,Denmark,23,Wellness & Fitness,2020,0.363035699
+689,dk,Denmark,23,Wellness & Fitness,2021,0.355033354
+690,fr,France,1,Agriculture,2016,0.029885747
+691,fr,France,1,Agriculture,2017,0.095391492
+692,fr,France,1,Agriculture,2018,0.103450235
+693,fr,France,1,Agriculture,2019,0.174244899
+694,fr,France,1,Agriculture,2020,0.226756208
+695,fr,France,1,Agriculture,2021,0.252311455
+696,fr,France,2,Arts,2016,0.008133664
+697,fr,France,2,Arts,2017,0.063691373
+698,fr,France,2,Arts,2018,0.079366454
+699,fr,France,2,Arts,2019,0.140865169
+700,fr,France,2,Arts,2020,0.220898026
+701,fr,France,2,Arts,2021,0.262769539
+702,fr,France,3,Construction,2016,0.012179173
+703,fr,France,3,Construction,2017,0.079885511
+704,fr,France,3,Construction,2018,0.111245003
+705,fr,France,3,Construction,2019,0.261760322
+706,fr,France,3,Construction,2020,0.330281564
+707,fr,France,3,Construction,2021,0.366024905
+708,fr,France,4,Consumer Goods,2016,0.015425772
+709,fr,France,4,Consumer Goods,2017,0.078202984
+710,fr,France,4,Consumer Goods,2018,0.093526769
+711,fr,France,4,Consumer Goods,2019,0.221496392
+712,fr,France,4,Consumer Goods,2020,0.374277567
+713,fr,France,4,Consumer Goods,2021,0.309182334
+714,fr,France,5,Corporate Services,2016,0.014601831
+715,fr,France,5,Corporate Services,2017,0.101820037
+716,fr,France,5,Corporate Services,2018,0.156429261
+717,fr,France,5,Corporate Services,2019,0.355285681
+718,fr,France,5,Corporate Services,2020,0.436250253
+719,fr,France,5,Corporate Services,2021,0.416885392
+720,fr,France,17,Design,2016,0.011570741
+721,fr,France,17,Design,2017,0.052610147
+722,fr,France,17,Design,2018,0.063872912
+723,fr,France,17,Design,2019,0.127155046
+724,fr,France,17,Design,2020,0.172962774
+725,fr,France,17,Design,2021,0.233661657
+726,fr,France,6,Education,2016,0.010997984
+727,fr,France,6,Education,2017,0.088115957
+728,fr,France,6,Education,2018,0.124403162
+729,fr,France,6,Education,2019,0.239001359
+730,fr,France,6,Education,2020,0.317845209
+731,fr,France,6,Education,2021,0.256457172
+732,fr,France,16,Energy & Mining,2016,0.012756111
+733,fr,France,16,Energy & Mining,2017,0.053852455
+734,fr,France,16,Energy & Mining,2018,0.095555106
+735,fr,France,16,Energy & Mining,2019,0.245437882
+736,fr,France,16,Energy & Mining,2020,0.312123952
+737,fr,France,16,Energy & Mining,2021,0.357668923
+738,fr,France,18,Entertainment,2016,0.008576666
+739,fr,France,18,Entertainment,2017,0.053485214
+740,fr,France,18,Entertainment,2018,0.068416324
+741,fr,France,18,Entertainment,2019,0.158995634
+742,fr,France,18,Entertainment,2020,0.230998668
+743,fr,France,18,Entertainment,2021,0.294323976
+744,fr,France,7,Finance,2016,0.012465284
+745,fr,France,7,Finance,2017,0.082652962
+746,fr,France,7,Finance,2018,0.120721618
+747,fr,France,7,Finance,2019,0.180882616
+748,fr,France,7,Finance,2020,0.250569976
+749,fr,France,7,Finance,2021,0.23406147
+750,fr,France,19,Hardware & Networking,2016,0.015347712
+751,fr,France,19,Hardware & Networking,2017,0.089029627
+752,fr,France,19,Hardware & Networking,2018,0.163500514
+753,fr,France,19,Hardware & Networking,2019,0.312417588
+754,fr,France,19,Hardware & Networking,2020,0.413569488
+755,fr,France,19,Hardware & Networking,2021,0.437429735
+756,fr,France,12,Health Care,2016,0.005860024
+757,fr,France,12,Health Care,2017,0.054084512
+758,fr,France,12,Health Care,2018,0.077386503
+759,fr,France,12,Health Care,2019,0.210291207
+760,fr,France,12,Health Care,2020,0.342584734
+761,fr,France,12,Health Care,2021,0.360361039
+762,fr,France,9,Legal,2016,0.005655633
+763,fr,France,9,Legal,2017,0.024826688
+764,fr,France,9,Legal,2018,0.043010483
+765,fr,France,9,Legal,2019,0.08952016
+766,fr,France,9,Legal,2020,0.222374812
+767,fr,France,9,Legal,2021,0.223595021
+768,fr,France,10,Manufacturing,2016,0.013391284
+769,fr,France,10,Manufacturing,2017,0.080767076
+770,fr,France,10,Manufacturing,2018,0.10434613
+771,fr,France,10,Manufacturing,2019,0.276227377
+772,fr,France,10,Manufacturing,2020,0.389101647
+773,fr,France,10,Manufacturing,2021,0.370476902
+774,fr,France,11,Media & Communications,2016,0.013275706
+775,fr,France,11,Media & Communications,2017,0.079905778
+776,fr,France,11,Media & Communications,2018,0.119352115
+777,fr,France,11,Media & Communications,2019,0.279673418
+778,fr,France,11,Media & Communications,2020,0.320005526
+779,fr,France,11,Media & Communications,2021,0.317377346
+780,fr,France,13,Nonprofit,2016,0.017356982
+781,fr,France,13,Nonprofit,2017,0.122509235
+782,fr,France,13,Nonprofit,2018,0.179812793
+783,fr,France,13,Nonprofit,2019,0.372862499
+784,fr,France,13,Nonprofit,2020,0.473286764
+785,fr,France,13,Nonprofit,2021,0.420419669
+786,fr,France,20,Public Administration,2016,0.016269746
+787,fr,France,20,Public Administration,2017,0.096727863
+788,fr,France,20,Public Administration,2018,0.162562756
+789,fr,France,20,Public Administration,2019,0.368149923
+790,fr,France,20,Public Administration,2020,0.500475654
+791,fr,France,20,Public Administration,2021,0.472274895
+792,fr,France,21,Public Safety,2016,0.011320518
+793,fr,France,21,Public Safety,2017,0.059738867
+794,fr,France,21,Public Safety,2018,0.064922025
+795,fr,France,21,Public Safety,2019,0.154505298
+796,fr,France,21,Public Safety,2020,0.29746339
+797,fr,France,21,Public Safety,2021,0.3803665
+798,fr,France,22,Real Estate,2016,0.01231601
+799,fr,France,22,Real Estate,2017,0.066719226
+800,fr,France,22,Real Estate,2018,0.081553564
+801,fr,France,22,Real Estate,2019,0.222469093
+802,fr,France,22,Real Estate,2020,0.24465945
+803,fr,France,22,Real Estate,2021,0.35017462
+804,fr,France,14,Recreation & Travel,2016,0.015083185
+805,fr,France,14,Recreation & Travel,2017,0.092807722
+806,fr,France,14,Recreation & Travel,2018,0.122947199
+807,fr,France,14,Recreation & Travel,2019,0.260478782
+808,fr,France,14,Recreation & Travel,2020,0.383605448
+809,fr,France,14,Recreation & Travel,2021,0.418965082
+810,fr,France,24,Retail,2016,0.017931099
+811,fr,France,24,Retail,2017,0.094456831
+812,fr,France,24,Retail,2018,0.112918952
+813,fr,France,24,Retail,2019,0.335979423
+814,fr,France,24,Retail,2020,0.555742471
+815,fr,France,24,Retail,2021,0.389138279
+816,fr,France,8,Software & IT Services,2016,0.018002094
+817,fr,France,8,Software & IT Services,2017,0.096530473
+818,fr,France,8,Software & IT Services,2018,0.138514297
+819,fr,France,8,Software & IT Services,2019,0.232677592
+820,fr,France,8,Software & IT Services,2020,0.291699396
+821,fr,France,8,Software & IT Services,2021,0.306175464
+822,fr,France,15,Transportation & Logistics,2016,0.011843283
+823,fr,France,15,Transportation & Logistics,2017,0.069100503
+824,fr,France,15,Transportation & Logistics,2018,0.086622429
+825,fr,France,15,Transportation & Logistics,2019,0.259699793
+826,fr,France,15,Transportation & Logistics,2020,0.32000478
+827,fr,France,15,Transportation & Logistics,2021,0.330815194
+828,fr,France,23,Wellness & Fitness,2016,0.031785016
+829,fr,France,23,Wellness & Fitness,2017,0.145767954
+830,fr,France,23,Wellness & Fitness,2018,0.181056497
+831,fr,France,23,Wellness & Fitness,2019,0.267324281
+832,fr,France,23,Wellness & Fitness,2020,0.336782468
+833,fr,France,23,Wellness & Fitness,2021,0.278919542
+834,de,Germany,1,Agriculture,2016,0.072933011
+835,de,Germany,1,Agriculture,2017,0.183348295
+836,de,Germany,1,Agriculture,2018,0.203384173
+837,de,Germany,1,Agriculture,2019,0.249253107
+838,de,Germany,1,Agriculture,2020,0.294064383
+839,de,Germany,1,Agriculture,2021,0.347039268
+840,de,Germany,2,Arts,2016,0.01620844
+841,de,Germany,2,Arts,2017,0.070880702
+842,de,Germany,2,Arts,2018,0.080163078
+843,de,Germany,2,Arts,2019,0.132975367
+844,de,Germany,2,Arts,2020,0.231227899
+845,de,Germany,2,Arts,2021,0.232131548
+846,de,Germany,3,Construction,2016,0.04436615
+847,de,Germany,3,Construction,2017,0.162883373
+848,de,Germany,3,Construction,2018,0.187082127
+849,de,Germany,3,Construction,2019,0.311467357
+850,de,Germany,3,Construction,2020,0.367784687
+851,de,Germany,3,Construction,2021,0.408679032
+852,de,Germany,4,Consumer Goods,2016,0.025425897
+853,de,Germany,4,Consumer Goods,2017,0.114793036
+854,de,Germany,4,Consumer Goods,2018,0.128530589
+855,de,Germany,4,Consumer Goods,2019,0.222064196
+856,de,Germany,4,Consumer Goods,2020,0.299819397
+857,de,Germany,4,Consumer Goods,2021,0.341919694
+858,de,Germany,5,Corporate Services,2016,0.034565717
+859,de,Germany,5,Corporate Services,2017,0.145279629
+860,de,Germany,5,Corporate Services,2018,0.185615049
+861,de,Germany,5,Corporate Services,2019,0.279307273
+862,de,Germany,5,Corporate Services,2020,0.344061258
+863,de,Germany,5,Corporate Services,2021,0.363193255
+864,de,Germany,17,Design,2016,0.019423761
+865,de,Germany,17,Design,2017,0.094708409
+866,de,Germany,17,Design,2018,0.102632598
+867,de,Germany,17,Design,2019,0.132738317
+868,de,Germany,17,Design,2020,0.180255874
+869,de,Germany,17,Design,2021,0.215047535
+870,de,Germany,6,Education,2016,0.011221684
+871,de,Germany,6,Education,2017,0.07281378
+872,de,Germany,6,Education,2018,0.086658307
+873,de,Germany,6,Education,2019,0.14507311
+874,de,Germany,6,Education,2020,0.196568625
+875,de,Germany,6,Education,2021,0.213078165
+876,de,Germany,16,Energy & Mining,2016,0.026297874
+877,de,Germany,16,Energy & Mining,2017,0.11223351
+878,de,Germany,16,Energy & Mining,2018,0.148404837
+879,de,Germany,16,Energy & Mining,2019,0.323801356
+880,de,Germany,16,Energy & Mining,2020,0.484835075
+881,de,Germany,16,Energy & Mining,2021,0.446129405
+882,de,Germany,18,Entertainment,2016,0.010170014
+883,de,Germany,18,Entertainment,2017,0.062873815
+884,de,Germany,18,Entertainment,2018,0.078874247
+885,de,Germany,18,Entertainment,2019,0.145763642
+886,de,Germany,18,Entertainment,2020,0.184183194
+887,de,Germany,18,Entertainment,2021,0.243564267
+888,de,Germany,7,Finance,2016,0.023064849
+889,de,Germany,7,Finance,2017,0.108992933
+890,de,Germany,7,Finance,2018,0.146504859
+891,de,Germany,7,Finance,2019,0.22707491
+892,de,Germany,7,Finance,2020,0.35200611
+893,de,Germany,7,Finance,2021,0.369717325
+894,de,Germany,19,Hardware & Networking,2016,0.013143316
+895,de,Germany,19,Hardware & Networking,2017,0.082707135
+896,de,Germany,19,Hardware & Networking,2018,0.140999551
+897,de,Germany,19,Hardware & Networking,2019,0.211729775
+898,de,Germany,19,Hardware & Networking,2020,0.355560368
+899,de,Germany,19,Hardware & Networking,2021,0.370444878
+900,de,Germany,12,Health Care,2016,0.01202088
+901,de,Germany,12,Health Care,2017,0.059744694
+902,de,Germany,12,Health Care,2018,0.080762868
+903,de,Germany,12,Health Care,2019,0.154062119
+904,de,Germany,12,Health Care,2020,0.268412675
+905,de,Germany,12,Health Care,2021,0.306933718
+906,de,Germany,9,Legal,2016,0.011690261
+907,de,Germany,9,Legal,2017,0.057023983
+908,de,Germany,9,Legal,2018,0.085378662
+909,de,Germany,9,Legal,2019,0.140644513
+910,de,Germany,9,Legal,2020,0.232972684
+911,de,Germany,9,Legal,2021,0.228750682
+912,de,Germany,10,Manufacturing,2016,0.015408555
+913,de,Germany,10,Manufacturing,2017,0.087272777
+914,de,Germany,10,Manufacturing,2018,0.112526845
+915,de,Germany,10,Manufacturing,2019,0.197730215
+916,de,Germany,10,Manufacturing,2020,0.261412715
+917,de,Germany,10,Manufacturing,2021,0.309103763
+918,de,Germany,11,Media & Communications,2016,0.024123827
+919,de,Germany,11,Media & Communications,2017,0.104946349
+920,de,Germany,11,Media & Communications,2018,0.117682422
+921,de,Germany,11,Media & Communications,2019,0.176795478
+922,de,Germany,11,Media & Communications,2020,0.220899177
+923,de,Germany,11,Media & Communications,2021,0.249265917
+924,de,Germany,13,Nonprofit,2016,0.03190621
+925,de,Germany,13,Nonprofit,2017,0.112691096
+926,de,Germany,13,Nonprofit,2018,0.159658982
+927,de,Germany,13,Nonprofit,2019,0.252703087
+928,de,Germany,13,Nonprofit,2020,0.337516908
+929,de,Germany,13,Nonprofit,2021,0.355689161
+930,de,Germany,20,Public Administration,2016,0.036059445
+931,de,Germany,20,Public Administration,2017,0.12863243
+932,de,Germany,20,Public Administration,2018,0.152330798
+933,de,Germany,20,Public Administration,2019,0.272689958
+934,de,Germany,20,Public Administration,2020,0.368601418
+935,de,Germany,20,Public Administration,2021,0.394141366
+936,de,Germany,21,Public Safety,2016,0.019774781
+937,de,Germany,21,Public Safety,2017,0.065060549
+938,de,Germany,21,Public Safety,2018,0.062212991
+939,de,Germany,21,Public Safety,2019,0.152788588
+940,de,Germany,21,Public Safety,2020,0.232183475
+941,de,Germany,21,Public Safety,2021,0.315909337
+942,de,Germany,22,Real Estate,2016,0.020070165
+943,de,Germany,22,Real Estate,2017,0.088103079
+944,de,Germany,22,Real Estate,2018,0.122792729
+945,de,Germany,22,Real Estate,2019,0.161750276
+946,de,Germany,22,Real Estate,2020,0.242300142
+947,de,Germany,22,Real Estate,2021,0.235146212
+948,de,Germany,14,Recreation & Travel,2016,0.01760024
+949,de,Germany,14,Recreation & Travel,2017,0.08106638
+950,de,Germany,14,Recreation & Travel,2018,0.09737281
+951,de,Germany,14,Recreation & Travel,2019,0.18595413
+952,de,Germany,14,Recreation & Travel,2020,0.276978511
+953,de,Germany,14,Recreation & Travel,2021,0.340195366
+954,de,Germany,24,Retail,2016,0.046813229
+955,de,Germany,24,Retail,2017,0.170231656
+956,de,Germany,24,Retail,2018,0.196573545
+957,de,Germany,24,Retail,2019,0.293365012
+958,de,Germany,24,Retail,2020,0.329650605
+959,de,Germany,24,Retail,2021,0.417661499
+960,de,Germany,8,Software & IT Services,2016,0.019485098
+961,de,Germany,8,Software & IT Services,2017,0.108333301
+962,de,Germany,8,Software & IT Services,2018,0.153522175
+963,de,Germany,8,Software & IT Services,2019,0.225483576
+964,de,Germany,8,Software & IT Services,2020,0.278352277
+965,de,Germany,8,Software & IT Services,2021,0.295971935
+966,de,Germany,15,Transportation & Logistics,2016,0.014315583
+967,de,Germany,15,Transportation & Logistics,2017,0.077735501
+968,de,Germany,15,Transportation & Logistics,2018,0.101454347
+969,de,Germany,15,Transportation & Logistics,2019,0.186438856
+970,de,Germany,15,Transportation & Logistics,2020,0.301421875
+971,de,Germany,15,Transportation & Logistics,2021,0.340944246
+972,de,Germany,23,Wellness & Fitness,2016,0.035553194
+973,de,Germany,23,Wellness & Fitness,2017,0.129849486
+974,de,Germany,23,Wellness & Fitness,2018,0.16261477
+975,de,Germany,23,Wellness & Fitness,2019,0.246688793
+976,de,Germany,23,Wellness & Fitness,2020,0.327802235
+977,de,Germany,23,Wellness & Fitness,2021,0.388882625
+978,glo,Global,1,Agriculture,2016,0.008295685
+979,glo,Global,1,Agriculture,2017,0.044198808
+980,glo,Global,1,Agriculture,2018,0.055896747
+981,glo,Global,1,Agriculture,2019,0.061144224
+982,glo,Global,1,Agriculture,2020,0.114289706
+983,glo,Global,1,Agriculture,2021,0.133924329
+984,glo,Global,2,Arts,2016,0.007153221
+985,glo,Global,2,Arts,2017,0.053658509
+986,glo,Global,2,Arts,2018,0.07782924
+987,glo,Global,2,Arts,2019,0.112542754
+988,glo,Global,2,Arts,2020,0.165033135
+989,glo,Global,2,Arts,2021,0.160859335
+990,glo,Global,3,Construction,2016,0.009927607
+991,glo,Global,3,Construction,2017,0.068893722
+992,glo,Global,3,Construction,2018,0.098183236
+993,glo,Global,3,Construction,2019,0.154127156
+994,glo,Global,3,Construction,2020,0.217394861
+995,glo,Global,3,Construction,2021,0.254551989
+996,glo,Global,4,Consumer Goods,2016,0.010557783
+997,glo,Global,4,Consumer Goods,2017,0.055155885
+998,glo,Global,4,Consumer Goods,2018,0.061047071
+999,glo,Global,4,Consumer Goods,2019,0.126078627
+1000,glo,Global,4,Consumer Goods,2020,0.205744304
+1001,glo,Global,4,Consumer Goods,2021,0.241338784
+1002,glo,Global,5,Corporate Services,2016,0.010147134
+1003,glo,Global,5,Corporate Services,2017,0.052556271
+1004,glo,Global,5,Corporate Services,2018,0.068530432
+1005,glo,Global,5,Corporate Services,2019,0.12172922
+1006,glo,Global,5,Corporate Services,2020,0.170323089
+1007,glo,Global,5,Corporate Services,2021,0.18587569
+1008,glo,Global,17,Design,2016,0.008888828
+1009,glo,Global,17,Design,2017,0.056826529
+1010,glo,Global,17,Design,2018,0.068288722
+1011,glo,Global,17,Design,2019,0.100078319
+1012,glo,Global,17,Design,2020,0.141767777
+1013,glo,Global,17,Design,2021,0.161937884
+1014,glo,Global,6,Education,2016,0.011305138
+1015,glo,Global,6,Education,2017,0.072374976
+1016,glo,Global,6,Education,2018,0.10264629
+1017,glo,Global,6,Education,2019,0.161900295
+1018,glo,Global,6,Education,2020,0.23922272
+1019,glo,Global,6,Education,2021,0.248743026
+1020,glo,Global,16,Energy & Mining,2016,0.010165352
+1021,glo,Global,16,Energy & Mining,2017,0.037148708
+1022,glo,Global,16,Energy & Mining,2018,0.053386053
+1023,glo,Global,16,Energy & Mining,2019,0.125680249
+1024,glo,Global,16,Energy & Mining,2020,0.229924595
+1025,glo,Global,16,Energy & Mining,2021,0.271918395
+1026,glo,Global,18,Entertainment,2016,0.006610964
+1027,glo,Global,18,Entertainment,2017,0.045366412
+1028,glo,Global,18,Entertainment,2018,0.059394778
+1029,glo,Global,18,Entertainment,2019,0.110461693
+1030,glo,Global,18,Entertainment,2020,0.133434821
+1031,glo,Global,18,Entertainment,2021,0.175035195
+1032,glo,Global,7,Finance,2016,0.008060366
+1033,glo,Global,7,Finance,2017,0.049229148
+1034,glo,Global,7,Finance,2018,0.072675404
+1035,glo,Global,7,Finance,2019,0.115070306
+1036,glo,Global,7,Finance,2020,0.205760688
+1037,glo,Global,7,Finance,2021,0.211842164
+1038,glo,Global,19,Hardware & Networking,2016,0.007905267
+1039,glo,Global,19,Hardware & Networking,2017,0.064032198
+1040,glo,Global,19,Hardware & Networking,2018,0.099302955
+1041,glo,Global,19,Hardware & Networking,2019,0.170598182
+1042,glo,Global,19,Hardware & Networking,2020,0.298797865
+1043,glo,Global,19,Hardware & Networking,2021,0.313859493
+1044,glo,Global,12,Health Care,2016,0.004855704
+1045,glo,Global,12,Health Care,2017,0.034116614
+1046,glo,Global,12,Health Care,2018,0.045273674
+1047,glo,Global,12,Health Care,2019,0.093679641
+1048,glo,Global,12,Health Care,2020,0.191510291
+1049,glo,Global,12,Health Care,2021,0.226093259
+1050,glo,Global,9,Legal,2016,0.007221525
+1051,glo,Global,9,Legal,2017,0.038627525
+1052,glo,Global,9,Legal,2018,0.07141301
+1053,glo,Global,9,Legal,2019,0.101053028
+1054,glo,Global,9,Legal,2020,0.166271494
+1055,glo,Global,9,Legal,2021,0.161772755
+1056,glo,Global,10,Manufacturing,2016,0.008320259
+1057,glo,Global,10,Manufacturing,2017,0.045525929
+1058,glo,Global,10,Manufacturing,2018,0.059113889
+1059,glo,Global,10,Manufacturing,2019,0.129153746
+1060,glo,Global,10,Manufacturing,2020,0.213439408
+1061,glo,Global,10,Manufacturing,2021,0.241221555
+1062,glo,Global,11,Media & Communications,2016,0.010454195
+1063,glo,Global,11,Media & Communications,2017,0.054681605
+1064,glo,Global,11,Media & Communications,2018,0.072657158
+1065,glo,Global,11,Media & Communications,2019,0.123061574
+1066,glo,Global,11,Media & Communications,2020,0.158292524
+1067,glo,Global,11,Media & Communications,2021,0.179671061
+1068,glo,Global,13,Nonprofit,2016,0.010637156
+1069,glo,Global,13,Nonprofit,2017,0.05937286
+1070,glo,Global,13,Nonprofit,2018,0.080417405
+1071,glo,Global,13,Nonprofit,2019,0.160627559
+1072,glo,Global,13,Nonprofit,2020,0.264206408
+1073,glo,Global,13,Nonprofit,2021,0.28017888
+1074,glo,Global,20,Public Administration,2016,0.009256453
+1075,glo,Global,20,Public Administration,2017,0.043084287
+1076,glo,Global,20,Public Administration,2018,0.060307597
+1077,glo,Global,20,Public Administration,2019,0.13827036
+1078,glo,Global,20,Public Administration,2020,0.26914473
+1079,glo,Global,20,Public Administration,2021,0.265057039
+1080,glo,Global,21,Public Safety,2016,0.033064509
+1081,glo,Global,21,Public Safety,2017,0.063072921
+1082,glo,Global,21,Public Safety,2018,0.061490063
+1083,glo,Global,21,Public Safety,2019,0.103634882
+1084,glo,Global,21,Public Safety,2020,0.221425784
+1085,glo,Global,21,Public Safety,2021,0.28700496
+1086,glo,Global,22,Real Estate,2016,0.006309987
+1087,glo,Global,22,Real Estate,2017,0.050260925
+1088,glo,Global,22,Real Estate,2018,0.096585222
+1089,glo,Global,22,Real Estate,2019,0.138087535
+1090,glo,Global,22,Real Estate,2020,0.25200293
+1091,glo,Global,22,Real Estate,2021,0.271500357
+1092,glo,Global,14,Recreation & Travel,2016,0.010988665
+1093,glo,Global,14,Recreation & Travel,2017,0.060275902
+1094,glo,Global,14,Recreation & Travel,2018,0.073821899
+1095,glo,Global,14,Recreation & Travel,2019,0.130885357
+1096,glo,Global,14,Recreation & Travel,2020,0.247400231
+1097,glo,Global,14,Recreation & Travel,2021,0.26357837
+1098,glo,Global,24,Retail,2016,0.011971739
+1099,glo,Global,24,Retail,2017,0.060030893
+1100,glo,Global,24,Retail,2018,0.056943722
+1101,glo,Global,24,Retail,2019,0.108691203
+1102,glo,Global,24,Retail,2020,0.192476989
+1103,glo,Global,24,Retail,2021,0.255076014
+1104,glo,Global,8,Software & IT Services,2016,0.015456874
+1105,glo,Global,8,Software & IT Services,2017,0.083739035
+1106,glo,Global,8,Software & IT Services,2018,0.117119686
+1107,glo,Global,8,Software & IT Services,2019,0.186963628
+1108,glo,Global,8,Software & IT Services,2020,0.25354585
+1109,glo,Global,8,Software & IT Services,2021,0.2753385
+1110,glo,Global,15,Transportation & Logistics,2016,0.005846066
+1111,glo,Global,15,Transportation & Logistics,2017,0.034557735
+1112,glo,Global,15,Transportation & Logistics,2018,0.048982963
+1113,glo,Global,15,Transportation & Logistics,2019,0.102070567
+1114,glo,Global,15,Transportation & Logistics,2020,0.175583764
+1115,glo,Global,15,Transportation & Logistics,2021,0.213830067
+1116,glo,Global,23,Wellness & Fitness,2016,0.008555536
+1117,glo,Global,23,Wellness & Fitness,2017,0.052898783
+1118,glo,Global,23,Wellness & Fitness,2018,0.068506756
+1119,glo,Global,23,Wellness & Fitness,2019,0.116055823
+1120,glo,Global,23,Wellness & Fitness,2020,0.146351991
+1121,glo,Global,23,Wellness & Fitness,2021,0.209652715
+1122,in,India,1,Agriculture,2016,0.026143001
+1123,in,India,1,Agriculture,2017,0.088661432
+1124,in,India,1,Agriculture,2018,0.099943998
+1125,in,India,1,Agriculture,2019,0.167303195
+1126,in,India,1,Agriculture,2020,0.273862585
+1127,in,India,1,Agriculture,2021,0.290536012
+1128,in,India,2,Arts,2016,0.025486449
+1129,in,India,2,Arts,2017,0.12705681
+1130,in,India,2,Arts,2018,0.14561786
+1131,in,India,2,Arts,2019,0.184212526
+1132,in,India,2,Arts,2020,0.227303516
+1133,in,India,2,Arts,2021,0.214538923
+1134,in,India,3,Construction,2016,0.010082415
+1135,in,India,3,Construction,2017,0.10211676
+1136,in,India,3,Construction,2018,0.130115364
+1137,in,India,3,Construction,2019,0.214355685
+1138,in,India,3,Construction,2020,0.248402793
+1139,in,India,3,Construction,2021,0.314341486
+1140,in,India,4,Consumer Goods,2016,0.010969385
+1141,in,India,4,Consumer Goods,2017,0.068076621
+1142,in,India,4,Consumer Goods,2018,0.096826655
+1143,in,India,4,Consumer Goods,2019,0.190614826
+1144,in,India,4,Consumer Goods,2020,0.284683796
+1145,in,India,4,Consumer Goods,2021,0.34439564
+1146,in,India,5,Corporate Services,2016,0.008285354
+1147,in,India,5,Corporate Services,2017,0.107148263
+1148,in,India,5,Corporate Services,2018,0.16090571
+1149,in,India,5,Corporate Services,2019,0.273206703
+1150,in,India,5,Corporate Services,2020,0.37579811
+1151,in,India,5,Corporate Services,2021,0.416163684
+1152,in,India,17,Design,2016,0.012281863
+1153,in,India,17,Design,2017,0.075681729
+1154,in,India,17,Design,2018,0.080132503
+1155,in,India,17,Design,2019,0.120425574
+1156,in,India,17,Design,2020,0.165650641
+1157,in,India,17,Design,2021,0.18952219
+1158,in,India,6,Education,2016,0.013107567
+1159,in,India,6,Education,2017,0.095117508
+1160,in,India,6,Education,2018,0.148313107
+1161,in,India,6,Education,2019,0.223078308
+1162,in,India,6,Education,2020,0.296766294
+1163,in,India,6,Education,2021,0.335122862
+1164,in,India,16,Energy & Mining,2016,0.010869307
+1165,in,India,16,Energy & Mining,2017,0.064074654
+1166,in,India,16,Energy & Mining,2018,0.086823292
+1167,in,India,16,Energy & Mining,2019,0.170492974
+1168,in,India,16,Energy & Mining,2020,0.286289194
+1169,in,India,16,Energy & Mining,2021,0.338548325
+1170,in,India,18,Entertainment,2016,0.010319156
+1171,in,India,18,Entertainment,2017,0.078795853
+1172,in,India,18,Entertainment,2018,0.086777924
+1173,in,India,18,Entertainment,2019,0.162777367
+1174,in,India,18,Entertainment,2020,0.222721195
+1175,in,India,18,Entertainment,2021,0.265588949
+1176,in,India,7,Finance,2016,0.014945306
+1177,in,India,7,Finance,2017,0.087465389
+1178,in,India,7,Finance,2018,0.11575912
+1179,in,India,7,Finance,2019,0.162459818
+1180,in,India,7,Finance,2020,0.232356736
+1181,in,India,7,Finance,2021,0.283636821
+1182,in,India,19,Hardware & Networking,2016,0.011983567
+1183,in,India,19,Hardware & Networking,2017,0.075942647
+1184,in,India,19,Hardware & Networking,2018,0.125036778
+1185,in,India,19,Hardware & Networking,2019,0.203857598
+1186,in,India,19,Hardware & Networking,2020,0.330746393
+1187,in,India,19,Hardware & Networking,2021,0.324619276
+1188,in,India,12,Health Care,2016,0.007266284
+1189,in,India,12,Health Care,2017,0.042206367
+1190,in,India,12,Health Care,2018,0.059189137
+1191,in,India,12,Health Care,2019,0.134561534
+1192,in,India,12,Health Care,2020,0.252439987
+1193,in,India,12,Health Care,2021,0.302371758
+1194,in,India,9,Legal,2016,0.006690651
+1195,in,India,9,Legal,2017,0.050866621
+1196,in,India,9,Legal,2018,0.058280349
+1197,in,India,9,Legal,2019,0.111350446
+1198,in,India,9,Legal,2020,0.192068814
+1199,in,India,9,Legal,2021,0.22337888
+1200,in,India,10,Manufacturing,2016,0.007179093
+1201,in,India,10,Manufacturing,2017,0.058764637
+1202,in,India,10,Manufacturing,2018,0.07662184
+1203,in,India,10,Manufacturing,2019,0.15262326
+1204,in,India,10,Manufacturing,2020,0.209089756
+1205,in,India,10,Manufacturing,2021,0.258189312
+1206,in,India,11,Media & Communications,2016,0.022234571
+1207,in,India,11,Media & Communications,2017,0.095181825
+1208,in,India,11,Media & Communications,2018,0.113797056
+1209,in,India,11,Media & Communications,2019,0.172380451
+1210,in,India,11,Media & Communications,2020,0.230635807
+1211,in,India,11,Media & Communications,2021,0.260813718
+1212,in,India,13,Nonprofit,2016,0.028716475
+1213,in,India,13,Nonprofit,2017,0.173208229
+1214,in,India,13,Nonprofit,2018,0.232095513
+1215,in,India,13,Nonprofit,2019,0.357318873
+1216,in,India,13,Nonprofit,2020,0.455859634
+1217,in,India,13,Nonprofit,2021,0.472260606
+1218,in,India,20,Public Administration,2016,0.030748612
+1219,in,India,20,Public Administration,2017,0.120626304
+1220,in,India,20,Public Administration,2018,0.153297592
+1221,in,India,20,Public Administration,2019,0.243060753
+1222,in,India,20,Public Administration,2020,0.314192842
+1223,in,India,20,Public Administration,2021,0.351986255
+1224,in,India,21,Public Safety,2016,0.070066586
+1225,in,India,21,Public Safety,2017,0.177555994
+1226,in,India,21,Public Safety,2018,0.205539973
+1227,in,India,21,Public Safety,2019,0.283874721
+1228,in,India,21,Public Safety,2020,0.348089953
+1229,in,India,21,Public Safety,2021,0.521909353
+1230,in,India,22,Real Estate,2016,0.023092683
+1231,in,India,22,Real Estate,2017,0.118677202
+1232,in,India,22,Real Estate,2018,0.140364708
+1233,in,India,22,Real Estate,2019,0.175694395
+1234,in,India,22,Real Estate,2020,0.237705313
+1235,in,India,22,Real Estate,2021,0.266632272
+1236,in,India,14,Recreation & Travel,2016,0.011651801
+1237,in,India,14,Recreation & Travel,2017,0.052769134
+1238,in,India,14,Recreation & Travel,2018,0.060102474
+1239,in,India,14,Recreation & Travel,2019,0.116966583
+1240,in,India,14,Recreation & Travel,2020,0.290389748
+1241,in,India,14,Recreation & Travel,2021,0.299249239
+1242,in,India,24,Retail,2016,0.017716378
+1243,in,India,24,Retail,2017,0.075998399
+1244,in,India,24,Retail,2018,0.101306992
+1245,in,India,24,Retail,2019,0.190027147
+1246,in,India,24,Retail,2020,0.269489041
+1247,in,India,24,Retail,2021,0.34512362
+1248,in,India,8,Software & IT Services,2016,0.011461618
+1249,in,India,8,Software & IT Services,2017,0.077972101
+1250,in,India,8,Software & IT Services,2018,0.130057011
+1251,in,India,8,Software & IT Services,2019,0.214361294
+1252,in,India,8,Software & IT Services,2020,0.290033562
+1253,in,India,8,Software & IT Services,2021,0.29889877
+1254,in,India,15,Transportation & Logistics,2016,0.012213609
+1255,in,India,15,Transportation & Logistics,2017,0.051218604
+1256,in,India,15,Transportation & Logistics,2018,0.070261461
+1257,in,India,15,Transportation & Logistics,2019,0.136614264
+1258,in,India,15,Transportation & Logistics,2020,0.226672862
+1259,in,India,15,Transportation & Logistics,2021,0.278120691
+1260,in,India,23,Wellness & Fitness,2016,0.029686621
+1261,in,India,23,Wellness & Fitness,2017,0.106523936
+1262,in,India,23,Wellness & Fitness,2018,0.13979385
+1263,in,India,23,Wellness & Fitness,2019,0.220730122
+1264,in,India,23,Wellness & Fitness,2020,0.269378076
+1265,in,India,23,Wellness & Fitness,2021,0.360995144
+1266,id,Indonesia,1,Agriculture,2016,0.065743767
+1267,id,Indonesia,1,Agriculture,2017,0.137371727
+1268,id,Indonesia,1,Agriculture,2018,0.151421734
+1269,id,Indonesia,1,Agriculture,2019,0.27991057
+1270,id,Indonesia,1,Agriculture,2020,0.337913968
+1271,id,Indonesia,1,Agriculture,2021,0.406698507
+1272,id,Indonesia,2,Arts,2016,0.052784156
+1273,id,Indonesia,2,Arts,2017,0.134768452
+1274,id,Indonesia,2,Arts,2018,0.161887168
+1275,id,Indonesia,2,Arts,2019,0.212352656
+1276,id,Indonesia,2,Arts,2020,0.255388668
+1277,id,Indonesia,2,Arts,2021,0.236710516
+1278,id,Indonesia,3,Construction,2016,0.032364633
+1279,id,Indonesia,3,Construction,2017,0.132978315
+1280,id,Indonesia,3,Construction,2018,0.183920716
+1281,id,Indonesia,3,Construction,2019,0.27584578
+1282,id,Indonesia,3,Construction,2020,0.315544762
+1283,id,Indonesia,3,Construction,2021,0.339837869
+1284,id,Indonesia,4,Consumer Goods,2016,0.038204283
+1285,id,Indonesia,4,Consumer Goods,2017,0.151397266
+1286,id,Indonesia,4,Consumer Goods,2018,0.203788346
+1287,id,Indonesia,4,Consumer Goods,2019,0.311390704
+1288,id,Indonesia,4,Consumer Goods,2020,0.394821724
+1289,id,Indonesia,4,Consumer Goods,2021,0.425992005
+1290,id,Indonesia,5,Corporate Services,2016,0.030665811
+1291,id,Indonesia,5,Corporate Services,2017,0.102388518
+1292,id,Indonesia,5,Corporate Services,2018,0.146233563
+1293,id,Indonesia,5,Corporate Services,2019,0.269037295
+1294,id,Indonesia,5,Corporate Services,2020,0.318006139
+1295,id,Indonesia,5,Corporate Services,2021,0.304439769
+1296,id,Indonesia,17,Design,2016,0.025842538
+1297,id,Indonesia,17,Design,2017,0.103354794
+1298,id,Indonesia,17,Design,2018,0.132988457
+1299,id,Indonesia,17,Design,2019,0.165420061
+1300,id,Indonesia,17,Design,2020,0.189349996
+1301,id,Indonesia,17,Design,2021,0.207063486
+1302,id,Indonesia,6,Education,2016,0.038813753
+1303,id,Indonesia,6,Education,2017,0.158166555
+1304,id,Indonesia,6,Education,2018,0.220325361
+1305,id,Indonesia,6,Education,2019,0.400161049
+1306,id,Indonesia,6,Education,2020,0.409973563
+1307,id,Indonesia,6,Education,2021,0.445741993
+1308,id,Indonesia,16,Energy & Mining,2016,0.019052946
+1309,id,Indonesia,16,Energy & Mining,2017,0.105077964
+1310,id,Indonesia,16,Energy & Mining,2018,0.165595842
+1311,id,Indonesia,16,Energy & Mining,2019,0.302132611
+1312,id,Indonesia,16,Energy & Mining,2020,0.368279506
+1313,id,Indonesia,16,Energy & Mining,2021,0.400465276
+1314,id,Indonesia,18,Entertainment,2016,0.03127077
+1315,id,Indonesia,18,Entertainment,2017,0.112319733
+1316,id,Indonesia,18,Entertainment,2018,0.141558698
+1317,id,Indonesia,18,Entertainment,2019,0.22096375
+1318,id,Indonesia,18,Entertainment,2020,0.275532073
+1319,id,Indonesia,18,Entertainment,2021,0.306629664
+1320,id,Indonesia,7,Finance,2016,0.017529181
+1321,id,Indonesia,7,Finance,2017,0.076684386
+1322,id,Indonesia,7,Finance,2018,0.099004832
+1323,id,Indonesia,7,Finance,2019,0.223760777
+1324,id,Indonesia,7,Finance,2020,0.331148088
+1325,id,Indonesia,7,Finance,2021,0.356974693
+1326,id,Indonesia,19,Hardware & Networking,2016,0.024576233
+1327,id,Indonesia,19,Hardware & Networking,2017,0.123607103
+1328,id,Indonesia,19,Hardware & Networking,2018,0.238732133
+1329,id,Indonesia,19,Hardware & Networking,2019,0.363900448
+1330,id,Indonesia,19,Hardware & Networking,2020,0.459134725
+1331,id,Indonesia,19,Hardware & Networking,2021,0.512759094
+1332,id,Indonesia,12,Health Care,2016,0.029429915
+1333,id,Indonesia,12,Health Care,2017,0.11846989
+1334,id,Indonesia,12,Health Care,2018,0.177106077
+1335,id,Indonesia,12,Health Care,2019,0.307300462
+1336,id,Indonesia,12,Health Care,2020,0.400203951
+1337,id,Indonesia,12,Health Care,2021,0.458443466
+1338,id,Indonesia,9,Legal,2016,0.023155409
+1339,id,Indonesia,9,Legal,2017,0.099246997
+1340,id,Indonesia,9,Legal,2018,0.138322918
+1341,id,Indonesia,9,Legal,2019,0.190469523
+1342,id,Indonesia,9,Legal,2020,0.252614333
+1343,id,Indonesia,9,Legal,2021,0.254413863
+1344,id,Indonesia,10,Manufacturing,2016,0.029822157
+1345,id,Indonesia,10,Manufacturing,2017,0.131299033
+1346,id,Indonesia,10,Manufacturing,2018,0.183204562
+1347,id,Indonesia,10,Manufacturing,2019,0.273563152
+1348,id,Indonesia,10,Manufacturing,2020,0.329899433
+1349,id,Indonesia,10,Manufacturing,2021,0.340613794
+1350,id,Indonesia,11,Media & Communications,2016,0.037870148
+1351,id,Indonesia,11,Media & Communications,2017,0.125381682
+1352,id,Indonesia,11,Media & Communications,2018,0.159315573
+1353,id,Indonesia,11,Media & Communications,2019,0.271743483
+1354,id,Indonesia,11,Media & Communications,2020,0.27052182
+1355,id,Indonesia,11,Media & Communications,2021,0.303282827
+1356,id,Indonesia,13,Nonprofit,2016,0.062468411
+1357,id,Indonesia,13,Nonprofit,2017,0.203058809
+1358,id,Indonesia,13,Nonprofit,2018,0.284434078
+1359,id,Indonesia,13,Nonprofit,2019,0.496919564
+1360,id,Indonesia,13,Nonprofit,2020,0.538715267
+1361,id,Indonesia,13,Nonprofit,2021,0.563096873
+1362,id,Indonesia,20,Public Administration,2016,0.059398282
+1363,id,Indonesia,20,Public Administration,2017,0.160146264
+1364,id,Indonesia,20,Public Administration,2018,0.25930253
+1365,id,Indonesia,20,Public Administration,2019,0.438760293
+1366,id,Indonesia,20,Public Administration,2020,0.442494211
+1367,id,Indonesia,20,Public Administration,2021,0.444622237
+1368,id,Indonesia,22,Real Estate,2016,0.048939937
+1369,id,Indonesia,22,Real Estate,2017,0.143217797
+1370,id,Indonesia,22,Real Estate,2018,0.139706811
+1371,id,Indonesia,22,Real Estate,2019,0.226878556
+1372,id,Indonesia,22,Real Estate,2020,0.222690925
+1373,id,Indonesia,22,Real Estate,2021,0.234585617
+1374,id,Indonesia,14,Recreation & Travel,2016,0.027659757
+1375,id,Indonesia,14,Recreation & Travel,2017,0.086918482
+1376,id,Indonesia,14,Recreation & Travel,2018,0.142714948
+1377,id,Indonesia,14,Recreation & Travel,2019,0.205327943
+1378,id,Indonesia,14,Recreation & Travel,2020,0.387013399
+1379,id,Indonesia,14,Recreation & Travel,2021,0.423112784
+1380,id,Indonesia,24,Retail,2016,0.050279764
+1381,id,Indonesia,24,Retail,2017,0.146425327
+1382,id,Indonesia,24,Retail,2018,0.192426155
+1383,id,Indonesia,24,Retail,2019,0.27385734
+1384,id,Indonesia,24,Retail,2020,0.294382915
+1385,id,Indonesia,24,Retail,2021,0.392082543
+1386,id,Indonesia,8,Software & IT Services,2016,0.030062316
+1387,id,Indonesia,8,Software & IT Services,2017,0.089911643
+1388,id,Indonesia,8,Software & IT Services,2018,0.122748981
+1389,id,Indonesia,8,Software & IT Services,2019,0.237760505
+1390,id,Indonesia,8,Software & IT Services,2020,0.276342701
+1391,id,Indonesia,8,Software & IT Services,2021,0.289920618
+1392,id,Indonesia,15,Transportation & Logistics,2016,0.02780115
+1393,id,Indonesia,15,Transportation & Logistics,2017,0.120447211
+1394,id,Indonesia,15,Transportation & Logistics,2018,0.196101367
+1395,id,Indonesia,15,Transportation & Logistics,2019,0.28009573
+1396,id,Indonesia,15,Transportation & Logistics,2020,0.355186023
+1397,id,Indonesia,15,Transportation & Logistics,2021,0.396325745
+1398,id,Indonesia,23,Wellness & Fitness,2016,0.146109593
+1399,id,Indonesia,23,Wellness & Fitness,2017,0.29932784
+1400,id,Indonesia,23,Wellness & Fitness,2018,0.330884937
+1401,id,Indonesia,23,Wellness & Fitness,2019,0.466979883
+1402,id,Indonesia,23,Wellness & Fitness,2020,0.383608416
+1403,id,Indonesia,23,Wellness & Fitness,2021,0.49281783
+1404,ie,Ireland,3,Construction,2016,0.012449704
+1405,ie,Ireland,3,Construction,2017,0.079877857
+1406,ie,Ireland,3,Construction,2018,0.110475948
+1407,ie,Ireland,3,Construction,2019,0.247580515
+1408,ie,Ireland,3,Construction,2020,0.327525085
+1409,ie,Ireland,3,Construction,2021,0.399176918
+1410,ie,Ireland,4,Consumer Goods,2016,0.038212658
+1411,ie,Ireland,4,Consumer Goods,2017,0.115466695
+1412,ie,Ireland,4,Consumer Goods,2018,0.124431683
+1413,ie,Ireland,4,Consumer Goods,2019,0.223301607
+1414,ie,Ireland,4,Consumer Goods,2020,0.306027961
+1415,ie,Ireland,4,Consumer Goods,2021,0.359775911
+1416,ie,Ireland,5,Corporate Services,2016,0.03834274
+1417,ie,Ireland,5,Corporate Services,2017,0.109466558
+1418,ie,Ireland,5,Corporate Services,2018,0.137686954
+1419,ie,Ireland,5,Corporate Services,2019,0.2407625
+1420,ie,Ireland,5,Corporate Services,2020,0.325885802
+1421,ie,Ireland,5,Corporate Services,2021,0.342910811
+1422,ie,Ireland,17,Design,2016,0.039642596
+1423,ie,Ireland,17,Design,2017,0.125283762
+1424,ie,Ireland,17,Design,2018,0.129888351
+1425,ie,Ireland,17,Design,2019,0.228562427
+1426,ie,Ireland,17,Design,2020,0.256534174
+1427,ie,Ireland,17,Design,2021,0.291932409
+1428,ie,Ireland,6,Education,2016,0.026671151
+1429,ie,Ireland,6,Education,2017,0.093848284
+1430,ie,Ireland,6,Education,2018,0.140195443
+1431,ie,Ireland,6,Education,2019,0.234071163
+1432,ie,Ireland,6,Education,2020,0.287520413
+1433,ie,Ireland,6,Education,2021,0.292495468
+1434,ie,Ireland,16,Energy & Mining,2016,0.080976398
+1435,ie,Ireland,16,Energy & Mining,2017,0.211966638
+1436,ie,Ireland,16,Energy & Mining,2018,0.26754584
+1437,ie,Ireland,16,Energy & Mining,2019,0.356178826
+1438,ie,Ireland,16,Energy & Mining,2020,0.618765927
+1439,ie,Ireland,16,Energy & Mining,2021,0.666521298
+1440,ie,Ireland,18,Entertainment,2016,0.02512071
+1441,ie,Ireland,18,Entertainment,2017,0.106528583
+1442,ie,Ireland,18,Entertainment,2018,0.102224409
+1443,ie,Ireland,18,Entertainment,2019,0.185948349
+1444,ie,Ireland,18,Entertainment,2020,0.204824303
+1445,ie,Ireland,18,Entertainment,2021,0.256381258
+1446,ie,Ireland,7,Finance,2016,0.013322419
+1447,ie,Ireland,7,Finance,2017,0.064123198
+1448,ie,Ireland,7,Finance,2018,0.096969345
+1449,ie,Ireland,7,Finance,2019,0.185774131
+1450,ie,Ireland,7,Finance,2020,0.27620123
+1451,ie,Ireland,7,Finance,2021,0.305242364
+1452,ie,Ireland,19,Hardware & Networking,2016,0.042735043
+1453,ie,Ireland,19,Hardware & Networking,2017,0.112387789
+1454,ie,Ireland,19,Hardware & Networking,2018,0.146728767
+1455,ie,Ireland,19,Hardware & Networking,2019,0.273181384
+1456,ie,Ireland,19,Hardware & Networking,2020,0.485788289
+1457,ie,Ireland,19,Hardware & Networking,2021,0.437205341
+1458,ie,Ireland,12,Health Care,2016,0.017027289
+1459,ie,Ireland,12,Health Care,2017,0.066465583
+1460,ie,Ireland,12,Health Care,2018,0.092754673
+1461,ie,Ireland,12,Health Care,2019,0.175560699
+1462,ie,Ireland,12,Health Care,2020,0.265915726
+1463,ie,Ireland,12,Health Care,2021,0.310082656
+1464,ie,Ireland,10,Manufacturing,2016,0.029714876
+1465,ie,Ireland,10,Manufacturing,2017,0.09272863
+1466,ie,Ireland,10,Manufacturing,2018,0.095718714
+1467,ie,Ireland,10,Manufacturing,2019,0.210249897
+1468,ie,Ireland,10,Manufacturing,2020,0.297974059
+1469,ie,Ireland,10,Manufacturing,2021,0.350792755
+1470,ie,Ireland,11,Media & Communications,2016,0.029191004
+1471,ie,Ireland,11,Media & Communications,2017,0.092936509
+1472,ie,Ireland,11,Media & Communications,2018,0.109030617
+1473,ie,Ireland,11,Media & Communications,2019,0.190257626
+1474,ie,Ireland,11,Media & Communications,2020,0.249012826
+1475,ie,Ireland,11,Media & Communications,2021,0.275949211
+1476,ie,Ireland,13,Nonprofit,2016,0.044103021
+1477,ie,Ireland,13,Nonprofit,2017,0.113983942
+1478,ie,Ireland,13,Nonprofit,2018,0.131560872
+1479,ie,Ireland,13,Nonprofit,2019,0.26094968
+1480,ie,Ireland,13,Nonprofit,2020,0.320380303
+1481,ie,Ireland,13,Nonprofit,2021,0.36230587
+1482,ie,Ireland,20,Public Administration,2016,0.060342755
+1483,ie,Ireland,20,Public Administration,2017,0.147419886
+1484,ie,Ireland,20,Public Administration,2018,0.142354018
+1485,ie,Ireland,20,Public Administration,2019,0.282752223
+1486,ie,Ireland,20,Public Administration,2020,0.370829261
+1487,ie,Ireland,20,Public Administration,2021,0.463865977
+1488,ie,Ireland,14,Recreation & Travel,2016,0.036521239
+1489,ie,Ireland,14,Recreation & Travel,2017,0.117891835
+1490,ie,Ireland,14,Recreation & Travel,2018,0.128664037
+1491,ie,Ireland,14,Recreation & Travel,2019,0.2394614
+1492,ie,Ireland,14,Recreation & Travel,2020,0.373729854
+1493,ie,Ireland,14,Recreation & Travel,2021,0.413604666
+1494,ie,Ireland,24,Retail,2016,0.024970483
+1495,ie,Ireland,24,Retail,2017,0.090491634
+1496,ie,Ireland,24,Retail,2018,0.064425706
+1497,ie,Ireland,24,Retail,2019,0.174636858
+1498,ie,Ireland,24,Retail,2020,0.265591254
+1499,ie,Ireland,24,Retail,2021,0.36454936
+1500,ie,Ireland,8,Software & IT Services,2016,0.022326856
+1501,ie,Ireland,8,Software & IT Services,2017,0.09714312
+1502,ie,Ireland,8,Software & IT Services,2018,0.129031739
+1503,ie,Ireland,8,Software & IT Services,2019,0.243168081
+1504,ie,Ireland,8,Software & IT Services,2020,0.318538441
+1505,ie,Ireland,8,Software & IT Services,2021,0.330084541
+1506,ie,Ireland,15,Transportation & Logistics,2016,0.034393338
+1507,ie,Ireland,15,Transportation & Logistics,2017,0.138625394
+1508,ie,Ireland,15,Transportation & Logistics,2018,0.146999617
+1509,ie,Ireland,15,Transportation & Logistics,2019,0.207648584
+1510,ie,Ireland,15,Transportation & Logistics,2020,0.319327466
+1511,ie,Ireland,15,Transportation & Logistics,2021,0.445490581
+1512,ie,Ireland,23,Wellness & Fitness,2016,0.032998039
+1513,ie,Ireland,23,Wellness & Fitness,2017,0.126052493
+1514,ie,Ireland,23,Wellness & Fitness,2018,0.129691088
+1515,ie,Ireland,23,Wellness & Fitness,2019,0.216584177
+1516,ie,Ireland,23,Wellness & Fitness,2020,0.231195735
+1517,ie,Ireland,23,Wellness & Fitness,2021,0.284984045
+1518,it,Italy,1,Agriculture,2016,0.026645222
+1519,it,Italy,1,Agriculture,2017,0.116590688
+1520,it,Italy,1,Agriculture,2018,0.136690403
+1521,it,Italy,1,Agriculture,2019,0.151000711
+1522,it,Italy,1,Agriculture,2020,0.227414049
+1523,it,Italy,1,Agriculture,2021,0.263944242
+1524,it,Italy,2,Arts,2016,0.012836886
+1525,it,Italy,2,Arts,2017,0.071422103
+1526,it,Italy,2,Arts,2018,0.092392602
+1527,it,Italy,2,Arts,2019,0.146052894
+1528,it,Italy,2,Arts,2020,0.204028667
+1529,it,Italy,2,Arts,2021,0.252182158
+1530,it,Italy,3,Construction,2016,0.013872029
+1531,it,Italy,3,Construction,2017,0.069546049
+1532,it,Italy,3,Construction,2018,0.089074699
+1533,it,Italy,3,Construction,2019,0.183840846
+1534,it,Italy,3,Construction,2020,0.240094691
+1535,it,Italy,3,Construction,2021,0.286997808
+1536,it,Italy,4,Consumer Goods,2016,0.013940825
+1537,it,Italy,4,Consumer Goods,2017,0.0731155
+1538,it,Italy,4,Consumer Goods,2018,0.078974644
+1539,it,Italy,4,Consumer Goods,2019,0.165246072
+1540,it,Italy,4,Consumer Goods,2020,0.312816672
+1541,it,Italy,4,Consumer Goods,2021,0.327130154
+1542,it,Italy,5,Corporate Services,2016,0.023001906
+1543,it,Italy,5,Corporate Services,2017,0.094083674
+1544,it,Italy,5,Corporate Services,2018,0.12798429
+1545,it,Italy,5,Corporate Services,2019,0.271705811
+1546,it,Italy,5,Corporate Services,2020,0.357926831
+1547,it,Italy,5,Corporate Services,2021,0.397206583
+1548,it,Italy,17,Design,2016,0.0099398
+1549,it,Italy,17,Design,2017,0.05653714
+1550,it,Italy,17,Design,2018,0.078285452
+1551,it,Italy,17,Design,2019,0.118797487
+1552,it,Italy,17,Design,2020,0.16581038
+1553,it,Italy,17,Design,2021,0.202432947
+1554,it,Italy,6,Education,2016,0.012998713
+1555,it,Italy,6,Education,2017,0.076014175
+1556,it,Italy,6,Education,2018,0.096101438
+1557,it,Italy,6,Education,2019,0.217200063
+1558,it,Italy,6,Education,2020,0.33549963
+1559,it,Italy,6,Education,2021,0.314976024
+1560,it,Italy,16,Energy & Mining,2016,0.012063068
+1561,it,Italy,16,Energy & Mining,2017,0.063855673
+1562,it,Italy,16,Energy & Mining,2018,0.095709238
+1563,it,Italy,16,Energy & Mining,2019,0.268873638
+1564,it,Italy,16,Energy & Mining,2020,0.411032687
+1565,it,Italy,16,Energy & Mining,2021,0.454005337
+1566,it,Italy,18,Entertainment,2016,0.012329639
+1567,it,Italy,18,Entertainment,2017,0.058966739
+1568,it,Italy,18,Entertainment,2018,0.079840703
+1569,it,Italy,18,Entertainment,2019,0.147829387
+1570,it,Italy,18,Entertainment,2020,0.188590785
+1571,it,Italy,18,Entertainment,2021,0.248584371
+1572,it,Italy,7,Finance,2016,0.008673485
+1573,it,Italy,7,Finance,2017,0.050817134
+1574,it,Italy,7,Finance,2018,0.067173614
+1575,it,Italy,7,Finance,2019,0.15679296
+1576,it,Italy,7,Finance,2020,0.279365345
+1577,it,Italy,7,Finance,2021,0.295910103
+1578,it,Italy,19,Hardware & Networking,2016,0.012058215
+1579,it,Italy,19,Hardware & Networking,2017,0.072281636
+1580,it,Italy,19,Hardware & Networking,2018,0.114750599
+1581,it,Italy,19,Hardware & Networking,2019,0.228094873
+1582,it,Italy,19,Hardware & Networking,2020,0.342980056
+1583,it,Italy,19,Hardware & Networking,2021,0.3638349
+1584,it,Italy,12,Health Care,2016,0.008260746
+1585,it,Italy,12,Health Care,2017,0.038087955
+1586,it,Italy,12,Health Care,2018,0.054086933
+1587,it,Italy,12,Health Care,2019,0.136265118
+1588,it,Italy,12,Health Care,2020,0.305773661
+1589,it,Italy,12,Health Care,2021,0.299378195
+1590,it,Italy,9,Legal,2016,0.006558261
+1591,it,Italy,9,Legal,2017,0.035274282
+1592,it,Italy,9,Legal,2018,0.041448889
+1593,it,Italy,9,Legal,2019,0.126239149
+1594,it,Italy,9,Legal,2020,0.286035568
+1595,it,Italy,9,Legal,2021,0.26039781
+1596,it,Italy,10,Manufacturing,2016,0.013293695
+1597,it,Italy,10,Manufacturing,2017,0.07947027
+1598,it,Italy,10,Manufacturing,2018,0.12010573
+1599,it,Italy,10,Manufacturing,2019,0.262031051
+1600,it,Italy,10,Manufacturing,2020,0.367088908
+1601,it,Italy,10,Manufacturing,2021,0.393575834
+1602,it,Italy,11,Media & Communications,2016,0.016841852
+1603,it,Italy,11,Media & Communications,2017,0.070618948
+1604,it,Italy,11,Media & Communications,2018,0.087348384
+1605,it,Italy,11,Media & Communications,2019,0.161659908
+1606,it,Italy,11,Media & Communications,2020,0.213678256
+1607,it,Italy,11,Media & Communications,2021,0.249027821
+1608,it,Italy,13,Nonprofit,2016,0.0227241
+1609,it,Italy,13,Nonprofit,2017,0.12114705
+1610,it,Italy,13,Nonprofit,2018,0.14054904
+1611,it,Italy,13,Nonprofit,2019,0.304438875
+1612,it,Italy,13,Nonprofit,2020,0.409946108
+1613,it,Italy,13,Nonprofit,2021,0.413434937
+1614,it,Italy,20,Public Administration,2016,0.019061878
+1615,it,Italy,20,Public Administration,2017,0.078295139
+1616,it,Italy,20,Public Administration,2018,0.081393139
+1617,it,Italy,20,Public Administration,2019,0.201892832
+1618,it,Italy,20,Public Administration,2020,0.337313436
+1619,it,Italy,20,Public Administration,2021,0.343598273
+1620,it,Italy,21,Public Safety,2016,0.023777471
+1621,it,Italy,21,Public Safety,2017,0.096143891
+1622,it,Italy,21,Public Safety,2018,0.098179995
+1623,it,Italy,21,Public Safety,2019,0.092488192
+1624,it,Italy,21,Public Safety,2020,0.18983154
+1625,it,Italy,21,Public Safety,2021,0.268432122
+1626,it,Italy,22,Real Estate,2016,0.010556848
+1627,it,Italy,22,Real Estate,2017,0.069837925
+1628,it,Italy,22,Real Estate,2018,0.091512694
+1629,it,Italy,22,Real Estate,2019,0.111527266
+1630,it,Italy,22,Real Estate,2020,0.163943863
+1631,it,Italy,22,Real Estate,2021,0.173970223
+1632,it,Italy,14,Recreation & Travel,2016,0.016481378
+1633,it,Italy,14,Recreation & Travel,2017,0.106023017
+1634,it,Italy,14,Recreation & Travel,2018,0.112519969
+1635,it,Italy,14,Recreation & Travel,2019,0.224853387
+1636,it,Italy,14,Recreation & Travel,2020,0.330854488
+1637,it,Italy,14,Recreation & Travel,2021,0.329858586
+1638,it,Italy,24,Retail,2016,0.01874349
+1639,it,Italy,24,Retail,2017,0.073293588
+1640,it,Italy,24,Retail,2018,0.082435536
+1641,it,Italy,24,Retail,2019,0.223474736
+1642,it,Italy,24,Retail,2020,0.390500212
+1643,it,Italy,24,Retail,2021,0.355990906
+1644,it,Italy,8,Software & IT Services,2016,0.015114823
+1645,it,Italy,8,Software & IT Services,2017,0.069179831
+1646,it,Italy,8,Software & IT Services,2018,0.103776186
+1647,it,Italy,8,Software & IT Services,2019,0.186468934
+1648,it,Italy,8,Software & IT Services,2020,0.255983151
+1649,it,Italy,8,Software & IT Services,2021,0.25193129
+1650,it,Italy,15,Transportation & Logistics,2016,0.011600103
+1651,it,Italy,15,Transportation & Logistics,2017,0.109465636
+1652,it,Italy,15,Transportation & Logistics,2018,0.069404625
+1653,it,Italy,15,Transportation & Logistics,2019,0.158297403
+1654,it,Italy,15,Transportation & Logistics,2020,0.228678175
+1655,it,Italy,15,Transportation & Logistics,2021,0.254266873
+1656,it,Italy,23,Wellness & Fitness,2016,0.014395292
+1657,it,Italy,23,Wellness & Fitness,2017,0.073419462
+1658,it,Italy,23,Wellness & Fitness,2018,0.085705566
+1659,it,Italy,23,Wellness & Fitness,2019,0.181246384
+1660,it,Italy,23,Wellness & Fitness,2020,0.233057424
+1661,it,Italy,23,Wellness & Fitness,2021,0.334537205
+1662,jp,Japan,4,Consumer Goods,2016,0.094036575
+1663,jp,Japan,4,Consumer Goods,2017,0.149012187
+1664,jp,Japan,4,Consumer Goods,2018,0.120219891
+1665,jp,Japan,4,Consumer Goods,2019,0.240387602
+1666,jp,Japan,4,Consumer Goods,2020,0.358578353
+1667,jp,Japan,4,Consumer Goods,2021,0.381118607
+1668,jp,Japan,5,Corporate Services,2016,0.047505589
+1669,jp,Japan,5,Corporate Services,2017,0.140585563
+1670,jp,Japan,5,Corporate Services,2018,0.152270127
+1671,jp,Japan,5,Corporate Services,2019,0.25357663
+1672,jp,Japan,5,Corporate Services,2020,0.279592096
+1673,jp,Japan,5,Corporate Services,2021,0.33275087
+1674,jp,Japan,6,Education,2016,0.024185938
+1675,jp,Japan,6,Education,2017,0.092344676
+1676,jp,Japan,6,Education,2018,0.108741049
+1677,jp,Japan,6,Education,2019,0.184597394
+1678,jp,Japan,6,Education,2020,0.278197745
+1679,jp,Japan,6,Education,2021,0.272835234
+1680,jp,Japan,18,Entertainment,2016,0.058568922
+1681,jp,Japan,18,Entertainment,2017,0.160479011
+1682,jp,Japan,18,Entertainment,2018,0.134246905
+1683,jp,Japan,18,Entertainment,2019,0.220628096
+1684,jp,Japan,18,Entertainment,2020,0.236751377
+1685,jp,Japan,18,Entertainment,2021,0.288022418
+1686,jp,Japan,7,Finance,2016,0.028459865
+1687,jp,Japan,7,Finance,2017,0.098116333
+1688,jp,Japan,7,Finance,2018,0.12134138
+1689,jp,Japan,7,Finance,2019,0.222063735
+1690,jp,Japan,7,Finance,2020,0.346626268
+1691,jp,Japan,7,Finance,2021,0.330289134
+1692,jp,Japan,19,Hardware & Networking,2016,0.032502964
+1693,jp,Japan,19,Hardware & Networking,2017,0.140801055
+1694,jp,Japan,19,Hardware & Networking,2018,0.155261725
+1695,jp,Japan,19,Hardware & Networking,2019,0.198881122
+1696,jp,Japan,19,Hardware & Networking,2020,0.373209382
+1697,jp,Japan,19,Hardware & Networking,2021,0.441928562
+1698,jp,Japan,12,Health Care,2016,0.068817206
+1699,jp,Japan,12,Health Care,2017,0.094562046
+1700,jp,Japan,12,Health Care,2018,0.078908033
+1701,jp,Japan,12,Health Care,2019,0.142802803
+1702,jp,Japan,12,Health Care,2020,0.397880038
+1703,jp,Japan,12,Health Care,2021,0.340293419
+1704,jp,Japan,10,Manufacturing,2016,0.052068358
+1705,jp,Japan,10,Manufacturing,2017,0.140334226
+1706,jp,Japan,10,Manufacturing,2018,0.145121655
+1707,jp,Japan,10,Manufacturing,2019,0.292843028
+1708,jp,Japan,10,Manufacturing,2020,0.338193526
+1709,jp,Japan,10,Manufacturing,2021,0.358340963
+1710,jp,Japan,11,Media & Communications,2016,0.037356038
+1711,jp,Japan,11,Media & Communications,2017,0.105894303
+1712,jp,Japan,11,Media & Communications,2018,0.105241866
+1713,jp,Japan,11,Media & Communications,2019,0.190424993
+1714,jp,Japan,11,Media & Communications,2020,0.224170809
+1715,jp,Japan,11,Media & Communications,2021,0.298495972
+1716,jp,Japan,13,Nonprofit,2016,0.13065751
+1717,jp,Japan,13,Nonprofit,2017,0.260637401
+1718,jp,Japan,13,Nonprofit,2018,0.223281654
+1719,jp,Japan,13,Nonprofit,2019,0.306975093
+1720,jp,Japan,13,Nonprofit,2020,0.36379825
+1721,jp,Japan,13,Nonprofit,2021,0.422507307
+1722,jp,Japan,14,Recreation & Travel,2016,0.047845162
+1723,jp,Japan,14,Recreation & Travel,2017,0.112505218
+1724,jp,Japan,14,Recreation & Travel,2018,0.105083343
+1725,jp,Japan,14,Recreation & Travel,2019,0.252184904
+1726,jp,Japan,14,Recreation & Travel,2020,0.394270517
+1727,jp,Japan,14,Recreation & Travel,2021,0.430976852
+1728,jp,Japan,24,Retail,2016,0.075791486
+1729,jp,Japan,24,Retail,2017,0.119141954
+1730,jp,Japan,24,Retail,2018,0.190028316
+1731,jp,Japan,24,Retail,2019,0.366191522
+1732,jp,Japan,24,Retail,2020,0.384487214
+1733,jp,Japan,24,Retail,2021,0.38947667
+1734,jp,Japan,8,Software & IT Services,2016,0.030342395
+1735,jp,Japan,8,Software & IT Services,2017,0.109429042
+1736,jp,Japan,8,Software & IT Services,2018,0.12420088
+1737,jp,Japan,8,Software & IT Services,2019,0.213787088
+1738,jp,Japan,8,Software & IT Services,2020,0.267823302
+1739,jp,Japan,8,Software & IT Services,2021,0.287615402
+1740,my,Malaysia,3,Construction,2016,0.014947574
+1741,my,Malaysia,3,Construction,2017,0.103149102
+1742,my,Malaysia,3,Construction,2018,0.124672035
+1743,my,Malaysia,3,Construction,2019,0.222214921
+1744,my,Malaysia,3,Construction,2020,0.285772836
+1745,my,Malaysia,3,Construction,2021,0.390536843
+1746,my,Malaysia,4,Consumer Goods,2016,0.048799185
+1747,my,Malaysia,4,Consumer Goods,2017,0.145612214
+1748,my,Malaysia,4,Consumer Goods,2018,0.152569192
+1749,my,Malaysia,4,Consumer Goods,2019,0.354243751
+1750,my,Malaysia,4,Consumer Goods,2020,0.451663536
+1751,my,Malaysia,4,Consumer Goods,2021,0.498656638
+1752,my,Malaysia,5,Corporate Services,2016,0.027817205
+1753,my,Malaysia,5,Corporate Services,2017,0.11701404
+1754,my,Malaysia,5,Corporate Services,2018,0.147554876
+1755,my,Malaysia,5,Corporate Services,2019,0.360995577
+1756,my,Malaysia,5,Corporate Services,2020,0.399005608
+1757,my,Malaysia,5,Corporate Services,2021,0.4655151
+1758,my,Malaysia,17,Design,2016,0.029940495
+1759,my,Malaysia,17,Design,2017,0.114676144
+1760,my,Malaysia,17,Design,2018,0.090670813
+1761,my,Malaysia,17,Design,2019,0.166763687
+1762,my,Malaysia,17,Design,2020,0.222765462
+1763,my,Malaysia,17,Design,2021,0.214358992
+1764,my,Malaysia,6,Education,2016,0.019650732
+1765,my,Malaysia,6,Education,2017,0.081578528
+1766,my,Malaysia,6,Education,2018,0.148208284
+1767,my,Malaysia,6,Education,2019,0.381423272
+1768,my,Malaysia,6,Education,2020,0.472576628
+1769,my,Malaysia,6,Education,2021,0.552921451
+1770,my,Malaysia,16,Energy & Mining,2016,0.017515723
+1771,my,Malaysia,16,Energy & Mining,2017,0.055397412
+1772,my,Malaysia,16,Energy & Mining,2018,0.092462659
+1773,my,Malaysia,16,Energy & Mining,2019,0.20354789
+1774,my,Malaysia,16,Energy & Mining,2020,0.331084119
+1775,my,Malaysia,16,Energy & Mining,2021,0.401425761
+1776,my,Malaysia,18,Entertainment,2016,0.02932143
+1777,my,Malaysia,18,Entertainment,2017,0.120211645
+1778,my,Malaysia,18,Entertainment,2018,0.147473106
+1779,my,Malaysia,18,Entertainment,2019,0.226879433
+1780,my,Malaysia,18,Entertainment,2020,0.293014793
+1781,my,Malaysia,18,Entertainment,2021,0.351490306
+1782,my,Malaysia,7,Finance,2016,0.062841273
+1783,my,Malaysia,7,Finance,2017,0.086392045
+1784,my,Malaysia,7,Finance,2018,0.111846736
+1785,my,Malaysia,7,Finance,2019,0.228910136
+1786,my,Malaysia,7,Finance,2020,0.349087615
+1787,my,Malaysia,7,Finance,2021,0.344776101
+1788,my,Malaysia,19,Hardware & Networking,2016,0.028380007
+1789,my,Malaysia,19,Hardware & Networking,2017,0.105560024
+1790,my,Malaysia,19,Hardware & Networking,2018,0.128969422
+1791,my,Malaysia,19,Hardware & Networking,2019,0.263559655
+1792,my,Malaysia,19,Hardware & Networking,2020,0.509875639
+1793,my,Malaysia,19,Hardware & Networking,2021,0.440210153
+1794,my,Malaysia,12,Health Care,2016,0.034621845
+1795,my,Malaysia,12,Health Care,2017,0.099669189
+1796,my,Malaysia,12,Health Care,2018,0.12054507
+1797,my,Malaysia,12,Health Care,2019,0.27882092
+1798,my,Malaysia,12,Health Care,2020,0.372234853
+1799,my,Malaysia,12,Health Care,2021,0.435555234
+1800,my,Malaysia,9,Legal,2016,0.022643179
+1801,my,Malaysia,9,Legal,2017,0.077755899
+1802,my,Malaysia,9,Legal,2018,0.091406634
+1803,my,Malaysia,9,Legal,2019,0.153597117
+1804,my,Malaysia,9,Legal,2020,0.217399873
+1805,my,Malaysia,9,Legal,2021,0.246112694
+1806,my,Malaysia,10,Manufacturing,2016,0.02100793
+1807,my,Malaysia,10,Manufacturing,2017,0.088955438
+1808,my,Malaysia,10,Manufacturing,2018,0.111019273
+1809,my,Malaysia,10,Manufacturing,2019,0.271304657
+1810,my,Malaysia,10,Manufacturing,2020,0.339792279
+1811,my,Malaysia,10,Manufacturing,2021,0.386708479
+1812,my,Malaysia,11,Media & Communications,2016,0.03961686
+1813,my,Malaysia,11,Media & Communications,2017,0.143519503
+1814,my,Malaysia,11,Media & Communications,2018,0.160693002
+1815,my,Malaysia,11,Media & Communications,2019,0.299714015
+1816,my,Malaysia,11,Media & Communications,2020,0.352321066
+1817,my,Malaysia,11,Media & Communications,2021,0.412178435
+1818,my,Malaysia,13,Nonprofit,2016,0.097841402
+1819,my,Malaysia,13,Nonprofit,2017,0.2330777
+1820,my,Malaysia,13,Nonprofit,2018,0.215257359
+1821,my,Malaysia,13,Nonprofit,2019,0.474259175
+1822,my,Malaysia,13,Nonprofit,2020,0.515413469
+1823,my,Malaysia,13,Nonprofit,2021,0.577759858
+1824,my,Malaysia,20,Public Administration,2016,0.126253766
+1825,my,Malaysia,20,Public Administration,2017,0.288767944
+1826,my,Malaysia,20,Public Administration,2018,0.243127627
+1827,my,Malaysia,20,Public Administration,2019,0.569180224
+1828,my,Malaysia,20,Public Administration,2020,0.586395236
+1829,my,Malaysia,20,Public Administration,2021,0.689626506
+1830,my,Malaysia,22,Real Estate,2016,0.042651957
+1831,my,Malaysia,22,Real Estate,2017,0.145279512
+1832,my,Malaysia,22,Real Estate,2018,0.135462147
+1833,my,Malaysia,22,Real Estate,2019,0.276493319
+1834,my,Malaysia,22,Real Estate,2020,0.30510947
+1835,my,Malaysia,22,Real Estate,2021,0.308309806
+1836,my,Malaysia,14,Recreation & Travel,2016,0.03752829
+1837,my,Malaysia,14,Recreation & Travel,2017,0.091626833
+1838,my,Malaysia,14,Recreation & Travel,2018,0.114218924
+1839,my,Malaysia,14,Recreation & Travel,2019,0.240248632
+1840,my,Malaysia,14,Recreation & Travel,2020,0.385256784
+1841,my,Malaysia,14,Recreation & Travel,2021,0.400113789
+1842,my,Malaysia,24,Retail,2016,0.043514808
+1843,my,Malaysia,24,Retail,2017,0.107250511
+1844,my,Malaysia,24,Retail,2018,0.144688167
+1845,my,Malaysia,24,Retail,2019,0.361312362
+1846,my,Malaysia,24,Retail,2020,0.347318095
+1847,my,Malaysia,24,Retail,2021,0.542384759
+1848,my,Malaysia,8,Software & IT Services,2016,0.030141683
+1849,my,Malaysia,8,Software & IT Services,2017,0.113122333
+1850,my,Malaysia,8,Software & IT Services,2018,0.149727048
+1851,my,Malaysia,8,Software & IT Services,2019,0.295909228
+1852,my,Malaysia,8,Software & IT Services,2020,0.374219864
+1853,my,Malaysia,8,Software & IT Services,2021,0.397441589
+1854,my,Malaysia,15,Transportation & Logistics,2016,0.026826985
+1855,my,Malaysia,15,Transportation & Logistics,2017,0.087801622
+1856,my,Malaysia,15,Transportation & Logistics,2018,0.102764174
+1857,my,Malaysia,15,Transportation & Logistics,2019,0.258477816
+1858,my,Malaysia,15,Transportation & Logistics,2020,0.358647625
+1859,my,Malaysia,15,Transportation & Logistics,2021,0.399205965
+1860,my,Malaysia,23,Wellness & Fitness,2016,0.099539852
+1861,my,Malaysia,23,Wellness & Fitness,2017,0.218700332
+1862,my,Malaysia,23,Wellness & Fitness,2018,0.222291342
+1863,my,Malaysia,23,Wellness & Fitness,2019,0.391420215
+1864,my,Malaysia,23,Wellness & Fitness,2020,0.314846004
+1865,my,Malaysia,23,Wellness & Fitness,2021,0.468994239
+1866,mx,Mexico,1,Agriculture,2016,0.037208854
+1867,mx,Mexico,1,Agriculture,2017,0.292278198
+1868,mx,Mexico,1,Agriculture,2018,0.295327789
+1869,mx,Mexico,1,Agriculture,2019,0.280549301
+1870,mx,Mexico,1,Agriculture,2020,0.339825077
+1871,mx,Mexico,1,Agriculture,2021,0.440732046
+1872,mx,Mexico,2,Arts,2016,0.029686997
+1873,mx,Mexico,2,Arts,2017,0.113723476
+1874,mx,Mexico,2,Arts,2018,0.141861792
+1875,mx,Mexico,2,Arts,2019,0.184685423
+1876,mx,Mexico,2,Arts,2020,0.228758847
+1877,mx,Mexico,2,Arts,2021,0.224344139
+1878,mx,Mexico,3,Construction,2016,0.027017778
+1879,mx,Mexico,3,Construction,2017,0.156505468
+1880,mx,Mexico,3,Construction,2018,0.18123411
+1881,mx,Mexico,3,Construction,2019,0.253690581
+1882,mx,Mexico,3,Construction,2020,0.278375182
+1883,mx,Mexico,3,Construction,2021,0.417278172
+1884,mx,Mexico,4,Consumer Goods,2016,0.038515744
+1885,mx,Mexico,4,Consumer Goods,2017,0.230461323
+1886,mx,Mexico,4,Consumer Goods,2018,0.249720391
+1887,mx,Mexico,4,Consumer Goods,2019,0.354126875
+1888,mx,Mexico,4,Consumer Goods,2020,0.468875177
+1889,mx,Mexico,4,Consumer Goods,2021,0.496210378
+1890,mx,Mexico,5,Corporate Services,2016,0.037511226
+1891,mx,Mexico,5,Corporate Services,2017,0.24364949
+1892,mx,Mexico,5,Corporate Services,2018,0.280516788
+1893,mx,Mexico,5,Corporate Services,2019,0.354765725
+1894,mx,Mexico,5,Corporate Services,2020,0.42739195
+1895,mx,Mexico,5,Corporate Services,2021,0.466540025
+1896,mx,Mexico,17,Design,2016,0.015789065
+1897,mx,Mexico,17,Design,2017,0.073185146
+1898,mx,Mexico,17,Design,2018,0.087040557
+1899,mx,Mexico,17,Design,2019,0.117499381
+1900,mx,Mexico,17,Design,2020,0.160288842
+1901,mx,Mexico,17,Design,2021,0.169126161
+1902,mx,Mexico,6,Education,2016,0.027795766
+1903,mx,Mexico,6,Education,2017,0.189011012
+1904,mx,Mexico,6,Education,2018,0.229289886
+1905,mx,Mexico,6,Education,2019,0.294641049
+1906,mx,Mexico,6,Education,2020,0.350375942
+1907,mx,Mexico,6,Education,2021,0.384030298
+1908,mx,Mexico,16,Energy & Mining,2016,0.016670067
+1909,mx,Mexico,16,Energy & Mining,2017,0.094226592
+1910,mx,Mexico,16,Energy & Mining,2018,0.125475564
+1911,mx,Mexico,16,Energy & Mining,2019,0.211909214
+1912,mx,Mexico,16,Energy & Mining,2020,0.348244879
+1913,mx,Mexico,16,Energy & Mining,2021,0.517766348
+1914,mx,Mexico,18,Entertainment,2016,0.014300675
+1915,mx,Mexico,18,Entertainment,2017,0.100229261
+1916,mx,Mexico,18,Entertainment,2018,0.105365774
+1917,mx,Mexico,18,Entertainment,2019,0.159362817
+1918,mx,Mexico,18,Entertainment,2020,0.239696791
+1919,mx,Mexico,18,Entertainment,2021,0.277930992
+1920,mx,Mexico,7,Finance,2016,0.029181633
+1921,mx,Mexico,7,Finance,2017,0.141279853
+1922,mx,Mexico,7,Finance,2018,0.161794375
+1923,mx,Mexico,7,Finance,2019,0.302952847
+1924,mx,Mexico,7,Finance,2020,0.450862071
+1925,mx,Mexico,7,Finance,2021,0.483007779
+1926,mx,Mexico,19,Hardware & Networking,2016,0.021743397
+1927,mx,Mexico,19,Hardware & Networking,2017,0.122841821
+1928,mx,Mexico,19,Hardware & Networking,2018,0.163983168
+1929,mx,Mexico,19,Hardware & Networking,2019,0.289073052
+1930,mx,Mexico,19,Hardware & Networking,2020,0.394325928
+1931,mx,Mexico,19,Hardware & Networking,2021,0.500764754
+1932,mx,Mexico,12,Health Care,2016,0.021864538
+1933,mx,Mexico,12,Health Care,2017,0.113405165
+1934,mx,Mexico,12,Health Care,2018,0.159371511
+1935,mx,Mexico,12,Health Care,2019,0.270041794
+1936,mx,Mexico,12,Health Care,2020,0.411138159
+1937,mx,Mexico,12,Health Care,2021,0.472708974
+1938,mx,Mexico,9,Legal,2016,0.00901308
+1939,mx,Mexico,9,Legal,2017,0.057597039
+1940,mx,Mexico,9,Legal,2018,0.081909288
+1941,mx,Mexico,9,Legal,2019,0.129840573
+1942,mx,Mexico,9,Legal,2020,0.233263093
+1943,mx,Mexico,9,Legal,2021,0.297690917
+1944,mx,Mexico,10,Manufacturing,2016,0.00919712
+1945,mx,Mexico,10,Manufacturing,2017,0.07198899
+1946,mx,Mexico,10,Manufacturing,2018,0.083295538
+1947,mx,Mexico,10,Manufacturing,2019,0.161571651
+1948,mx,Mexico,10,Manufacturing,2020,0.298442965
+1949,mx,Mexico,10,Manufacturing,2021,0.351376079
+1950,mx,Mexico,11,Media & Communications,2016,0.02371194
+1951,mx,Mexico,11,Media & Communications,2017,0.141754616
+1952,mx,Mexico,11,Media & Communications,2018,0.16412002
+1953,mx,Mexico,11,Media & Communications,2019,0.214513418
+1954,mx,Mexico,11,Media & Communications,2020,0.252853572
+1955,mx,Mexico,11,Media & Communications,2021,0.309435476
+1956,mx,Mexico,13,Nonprofit,2016,0.055198
+1957,mx,Mexico,13,Nonprofit,2017,0.264475358
+1958,mx,Mexico,13,Nonprofit,2018,0.296879097
+1959,mx,Mexico,13,Nonprofit,2019,0.35192487
+1960,mx,Mexico,13,Nonprofit,2020,0.412123015
+1961,mx,Mexico,13,Nonprofit,2021,0.430801294
+1962,mx,Mexico,20,Public Administration,2016,0.0463067
+1963,mx,Mexico,20,Public Administration,2017,0.272985803
+1964,mx,Mexico,20,Public Administration,2018,0.317837465
+1965,mx,Mexico,20,Public Administration,2019,0.392393481
+1966,mx,Mexico,20,Public Administration,2020,0.505452219
+1967,mx,Mexico,20,Public Administration,2021,0.544473066
+1968,mx,Mexico,22,Real Estate,2016,0.030587585
+1969,mx,Mexico,22,Real Estate,2017,0.237479754
+1970,mx,Mexico,22,Real Estate,2018,0.265663579
+1971,mx,Mexico,22,Real Estate,2019,0.289014438
+1972,mx,Mexico,22,Real Estate,2020,0.441639491
+1973,mx,Mexico,22,Real Estate,2021,0.428357489
+1974,mx,Mexico,14,Recreation & Travel,2016,0.024990902
+1975,mx,Mexico,14,Recreation & Travel,2017,0.167415386
+1976,mx,Mexico,14,Recreation & Travel,2018,0.198184932
+1977,mx,Mexico,14,Recreation & Travel,2019,0.29169515
+1978,mx,Mexico,14,Recreation & Travel,2020,0.411351258
+1979,mx,Mexico,14,Recreation & Travel,2021,0.48363002
+1980,mx,Mexico,24,Retail,2016,0.056070556
+1981,mx,Mexico,24,Retail,2017,0.292014881
+1982,mx,Mexico,24,Retail,2018,0.330089077
+1983,mx,Mexico,24,Retail,2019,0.435486315
+1984,mx,Mexico,24,Retail,2020,0.646174107
+1985,mx,Mexico,24,Retail,2021,0.64362015
+1986,mx,Mexico,8,Software & IT Services,2016,0.026533286
+1987,mx,Mexico,8,Software & IT Services,2017,0.125486211
+1988,mx,Mexico,8,Software & IT Services,2018,0.173007369
+1989,mx,Mexico,8,Software & IT Services,2019,0.245881226
+1990,mx,Mexico,8,Software & IT Services,2020,0.316596278
+1991,mx,Mexico,8,Software & IT Services,2021,0.328602053
+1992,mx,Mexico,15,Transportation & Logistics,2016,0.026386073
+1993,mx,Mexico,15,Transportation & Logistics,2017,0.164349234
+1994,mx,Mexico,15,Transportation & Logistics,2018,0.184914007
+1995,mx,Mexico,15,Transportation & Logistics,2019,0.263479795
+1996,mx,Mexico,15,Transportation & Logistics,2020,0.276388183
+1997,mx,Mexico,15,Transportation & Logistics,2021,0.387133112
+1998,mx,Mexico,23,Wellness & Fitness,2016,0.031742484
+1999,mx,Mexico,23,Wellness & Fitness,2017,0.159269194
+2000,mx,Mexico,23,Wellness & Fitness,2018,0.192321912
+2001,mx,Mexico,23,Wellness & Fitness,2019,0.256093001
+2002,mx,Mexico,23,Wellness & Fitness,2020,0.314365841
+2003,mx,Mexico,23,Wellness & Fitness,2021,0.380265529
+2004,nl,Netherlands,1,Agriculture,2016,0.039487393
+2005,nl,Netherlands,1,Agriculture,2017,0.081142474
+2006,nl,Netherlands,1,Agriculture,2018,0.102962064
+2007,nl,Netherlands,1,Agriculture,2019,0.105277027
+2008,nl,Netherlands,1,Agriculture,2020,0.164862079
+2009,nl,Netherlands,1,Agriculture,2021,0.186716361
+2010,nl,Netherlands,2,Arts,2016,0.015312411
+2011,nl,Netherlands,2,Arts,2017,0.068687593
+2012,nl,Netherlands,2,Arts,2018,0.084935732
+2013,nl,Netherlands,2,Arts,2019,0.10004203
+2014,nl,Netherlands,2,Arts,2020,0.164912735
+2015,nl,Netherlands,2,Arts,2021,0.204678476
+2016,nl,Netherlands,3,Construction,2016,0.009850698
+2017,nl,Netherlands,3,Construction,2017,0.047890287
+2018,nl,Netherlands,3,Construction,2018,0.068236448
+2019,nl,Netherlands,3,Construction,2019,0.097072524
+2020,nl,Netherlands,3,Construction,2020,0.244376396
+2021,nl,Netherlands,3,Construction,2021,0.295537021
+2022,nl,Netherlands,4,Consumer Goods,2016,0.013587491
+2023,nl,Netherlands,4,Consumer Goods,2017,0.045893084
+2024,nl,Netherlands,4,Consumer Goods,2018,0.0552944
+2025,nl,Netherlands,4,Consumer Goods,2019,0.089392772
+2026,nl,Netherlands,4,Consumer Goods,2020,0.159904444
+2027,nl,Netherlands,4,Consumer Goods,2021,0.17342893
+2028,nl,Netherlands,5,Corporate Services,2016,0.010357768
+2029,nl,Netherlands,5,Corporate Services,2017,0.064143524
+2030,nl,Netherlands,5,Corporate Services,2018,0.099179425
+2031,nl,Netherlands,5,Corporate Services,2019,0.130256233
+2032,nl,Netherlands,5,Corporate Services,2020,0.218252282
+2033,nl,Netherlands,5,Corporate Services,2021,0.243251031
+2034,nl,Netherlands,17,Design,2016,0.016897009
+2035,nl,Netherlands,17,Design,2017,0.06736454
+2036,nl,Netherlands,17,Design,2018,0.078389275
+2037,nl,Netherlands,17,Design,2019,0.106969652
+2038,nl,Netherlands,17,Design,2020,0.170193562
+2039,nl,Netherlands,17,Design,2021,0.193380398
+2040,nl,Netherlands,6,Education,2016,0.00677819
+2041,nl,Netherlands,6,Education,2017,0.039435811
+2042,nl,Netherlands,6,Education,2018,0.055039189
+2043,nl,Netherlands,6,Education,2019,0.087359836
+2044,nl,Netherlands,6,Education,2020,0.179998275
+2045,nl,Netherlands,6,Education,2021,0.221140914
+2046,nl,Netherlands,16,Energy & Mining,2016,0.016190915
+2047,nl,Netherlands,16,Energy & Mining,2017,0.078755017
+2048,nl,Netherlands,16,Energy & Mining,2018,0.108242264
+2049,nl,Netherlands,16,Energy & Mining,2019,0.157448078
+2050,nl,Netherlands,16,Energy & Mining,2020,0.218452782
+2051,nl,Netherlands,16,Energy & Mining,2021,0.240299883
+2052,nl,Netherlands,18,Entertainment,2016,0.017875102
+2053,nl,Netherlands,18,Entertainment,2017,0.062186755
+2054,nl,Netherlands,18,Entertainment,2018,0.077599574
+2055,nl,Netherlands,18,Entertainment,2019,0.096670707
+2056,nl,Netherlands,18,Entertainment,2020,0.124682219
+2057,nl,Netherlands,18,Entertainment,2021,0.159367615
+2058,nl,Netherlands,7,Finance,2016,0.010992484
+2059,nl,Netherlands,7,Finance,2017,0.053924303
+2060,nl,Netherlands,7,Finance,2018,0.106964676
+2061,nl,Netherlands,7,Finance,2019,0.162406064
+2062,nl,Netherlands,7,Finance,2020,0.280286938
+2063,nl,Netherlands,7,Finance,2021,0.298967419
+2064,nl,Netherlands,19,Hardware & Networking,2016,0.026112483
+2065,nl,Netherlands,19,Hardware & Networking,2017,0.104944404
+2066,nl,Netherlands,19,Hardware & Networking,2018,0.167868371
+2067,nl,Netherlands,19,Hardware & Networking,2019,0.229593831
+2068,nl,Netherlands,19,Hardware & Networking,2020,0.310434095
+2069,nl,Netherlands,19,Hardware & Networking,2021,0.318278115
+2070,nl,Netherlands,12,Health Care,2016,0.009733211
+2071,nl,Netherlands,12,Health Care,2017,0.056371992
+2072,nl,Netherlands,12,Health Care,2018,0.079404547
+2073,nl,Netherlands,12,Health Care,2019,0.129108216
+2074,nl,Netherlands,12,Health Care,2020,0.259672957
+2075,nl,Netherlands,12,Health Care,2021,0.295001533
+2076,nl,Netherlands,9,Legal,2016,0.015889993
+2077,nl,Netherlands,9,Legal,2017,0.038840989
+2078,nl,Netherlands,9,Legal,2018,0.091543073
+2079,nl,Netherlands,9,Legal,2019,0.163484363
+2080,nl,Netherlands,9,Legal,2020,0.235225999
+2081,nl,Netherlands,9,Legal,2021,0.296036798
+2082,nl,Netherlands,10,Manufacturing,2016,0.016252213
+2083,nl,Netherlands,10,Manufacturing,2017,0.063429871
+2084,nl,Netherlands,10,Manufacturing,2018,0.086313966
+2085,nl,Netherlands,10,Manufacturing,2019,0.113990314
+2086,nl,Netherlands,10,Manufacturing,2020,0.186387298
+2087,nl,Netherlands,10,Manufacturing,2021,0.199173782
+2088,nl,Netherlands,11,Media & Communications,2016,0.008959986
+2089,nl,Netherlands,11,Media & Communications,2017,0.033458158
+2090,nl,Netherlands,11,Media & Communications,2018,0.045708165
+2091,nl,Netherlands,11,Media & Communications,2019,0.077185352
+2092,nl,Netherlands,11,Media & Communications,2020,0.145074095
+2093,nl,Netherlands,11,Media & Communications,2021,0.171573255
+2094,nl,Netherlands,13,Nonprofit,2016,0.007389344
+2095,nl,Netherlands,13,Nonprofit,2017,0.052869848
+2096,nl,Netherlands,13,Nonprofit,2018,0.076227821
+2097,nl,Netherlands,13,Nonprofit,2019,0.123029963
+2098,nl,Netherlands,13,Nonprofit,2020,0.248013016
+2099,nl,Netherlands,13,Nonprofit,2021,0.29216425
+2100,nl,Netherlands,20,Public Administration,2016,0.007156431
+2101,nl,Netherlands,20,Public Administration,2017,0.05822621
+2102,nl,Netherlands,20,Public Administration,2018,0.097969832
+2103,nl,Netherlands,20,Public Administration,2019,0.127866877
+2104,nl,Netherlands,20,Public Administration,2020,0.252656049
+2105,nl,Netherlands,20,Public Administration,2021,0.279647316
+2106,nl,Netherlands,21,Public Safety,2016,0.012993212
+2107,nl,Netherlands,21,Public Safety,2017,0.069763745
+2108,nl,Netherlands,21,Public Safety,2018,0.101280665
+2109,nl,Netherlands,21,Public Safety,2019,0.135924468
+2110,nl,Netherlands,21,Public Safety,2020,0.312898949
+2111,nl,Netherlands,21,Public Safety,2021,0.335870378
+2112,nl,Netherlands,22,Real Estate,2016,0.045572581
+2113,nl,Netherlands,22,Real Estate,2017,0.12021247
+2114,nl,Netherlands,22,Real Estate,2018,0.206385729
+2115,nl,Netherlands,22,Real Estate,2019,0.219151159
+2116,nl,Netherlands,22,Real Estate,2020,0.274065655
+2117,nl,Netherlands,22,Real Estate,2021,0.296087728
+2118,nl,Netherlands,14,Recreation & Travel,2016,0.009889933
+2119,nl,Netherlands,14,Recreation & Travel,2017,0.038883294
+2120,nl,Netherlands,14,Recreation & Travel,2018,0.04580937
+2121,nl,Netherlands,14,Recreation & Travel,2019,0.087671373
+2122,nl,Netherlands,14,Recreation & Travel,2020,0.169583087
+2123,nl,Netherlands,14,Recreation & Travel,2021,0.197281994
+2124,nl,Netherlands,24,Retail,2016,0.008228335
+2125,nl,Netherlands,24,Retail,2017,0.027703443
+2126,nl,Netherlands,24,Retail,2018,0.032469541
+2127,nl,Netherlands,24,Retail,2019,0.105392495
+2128,nl,Netherlands,24,Retail,2020,0.199939531
+2129,nl,Netherlands,24,Retail,2021,0.189820874
+2130,nl,Netherlands,8,Software & IT Services,2016,0.019116378
+2131,nl,Netherlands,8,Software & IT Services,2017,0.096109333
+2132,nl,Netherlands,8,Software & IT Services,2018,0.136903272
+2133,nl,Netherlands,8,Software & IT Services,2019,0.190829823
+2134,nl,Netherlands,8,Software & IT Services,2020,0.253273364
+2135,nl,Netherlands,8,Software & IT Services,2021,0.272443658
+2136,nl,Netherlands,15,Transportation & Logistics,2016,0.013238089
+2137,nl,Netherlands,15,Transportation & Logistics,2017,0.060241283
+2138,nl,Netherlands,15,Transportation & Logistics,2018,0.078363436
+2139,nl,Netherlands,15,Transportation & Logistics,2019,0.113205611
+2140,nl,Netherlands,15,Transportation & Logistics,2020,0.198126694
+2141,nl,Netherlands,15,Transportation & Logistics,2021,0.204238088
+2142,nl,Netherlands,23,Wellness & Fitness,2016,0.013496747
+2143,nl,Netherlands,23,Wellness & Fitness,2017,0.058375416
+2144,nl,Netherlands,23,Wellness & Fitness,2018,0.07208452
+2145,nl,Netherlands,23,Wellness & Fitness,2019,0.10774416
+2146,nl,Netherlands,23,Wellness & Fitness,2020,0.210647818
+2147,nl,Netherlands,23,Wellness & Fitness,2021,0.296571467
+2148,nz,New Zealand,1,Agriculture,2016,0.023920993
+2149,nz,New Zealand,1,Agriculture,2017,0.069026206
+2150,nz,New Zealand,1,Agriculture,2018,0.066893595
+2151,nz,New Zealand,1,Agriculture,2019,0.133567426
+2152,nz,New Zealand,1,Agriculture,2020,0.299454719
+2153,nz,New Zealand,1,Agriculture,2021,0.454878397
+2154,nz,New Zealand,3,Construction,2016,0.016251768
+2155,nz,New Zealand,3,Construction,2017,0.074770897
+2156,nz,New Zealand,3,Construction,2018,0.094893856
+2157,nz,New Zealand,3,Construction,2019,0.19037311
+2158,nz,New Zealand,3,Construction,2020,0.264535548
+2159,nz,New Zealand,3,Construction,2021,0.307989441
+2160,nz,New Zealand,4,Consumer Goods,2016,0.043533039
+2161,nz,New Zealand,4,Consumer Goods,2017,0.142040663
+2162,nz,New Zealand,4,Consumer Goods,2018,0.132817838
+2163,nz,New Zealand,4,Consumer Goods,2019,0.201916531
+2164,nz,New Zealand,4,Consumer Goods,2020,0.290472287
+2165,nz,New Zealand,4,Consumer Goods,2021,0.33225441
+2166,nz,New Zealand,5,Corporate Services,2016,0.039775863
+2167,nz,New Zealand,5,Corporate Services,2017,0.179064306
+2168,nz,New Zealand,5,Corporate Services,2018,0.182916819
+2169,nz,New Zealand,5,Corporate Services,2019,0.228213304
+2170,nz,New Zealand,5,Corporate Services,2020,0.268537339
+2171,nz,New Zealand,5,Corporate Services,2021,0.32368355
+2172,nz,New Zealand,17,Design,2016,0.033420851
+2173,nz,New Zealand,17,Design,2017,0.090322475
+2174,nz,New Zealand,17,Design,2018,0.117814899
+2175,nz,New Zealand,17,Design,2019,0.15972448
+2176,nz,New Zealand,17,Design,2020,0.22991395
+2177,nz,New Zealand,17,Design,2021,0.272171419
+2178,nz,New Zealand,6,Education,2016,0.01413004
+2179,nz,New Zealand,6,Education,2017,0.081763159
+2180,nz,New Zealand,6,Education,2018,0.121153248
+2181,nz,New Zealand,6,Education,2019,0.215507931
+2182,nz,New Zealand,6,Education,2020,0.327203554
+2183,nz,New Zealand,6,Education,2021,0.365806571
+2184,nz,New Zealand,16,Energy & Mining,2016,0.038980873
+2185,nz,New Zealand,16,Energy & Mining,2017,0.156322042
+2186,nz,New Zealand,16,Energy & Mining,2018,0.199999723
+2187,nz,New Zealand,16,Energy & Mining,2019,0.322390868
+2188,nz,New Zealand,16,Energy & Mining,2020,0.466756741
+2189,nz,New Zealand,16,Energy & Mining,2021,0.551443261
+2190,nz,New Zealand,18,Entertainment,2016,0.031170298
+2191,nz,New Zealand,18,Entertainment,2017,0.101668948
+2192,nz,New Zealand,18,Entertainment,2018,0.123743273
+2193,nz,New Zealand,18,Entertainment,2019,0.199534567
+2194,nz,New Zealand,18,Entertainment,2020,0.233397091
+2195,nz,New Zealand,18,Entertainment,2021,0.266820672
+2196,nz,New Zealand,7,Finance,2016,0.01733073
+2197,nz,New Zealand,7,Finance,2017,0.075117554
+2198,nz,New Zealand,7,Finance,2018,0.127274998
+2199,nz,New Zealand,7,Finance,2019,0.182926178
+2200,nz,New Zealand,7,Finance,2020,0.259494229
+2201,nz,New Zealand,7,Finance,2021,0.282849182
+2202,nz,New Zealand,19,Hardware & Networking,2016,0.027320767
+2203,nz,New Zealand,19,Hardware & Networking,2017,0.118255785
+2204,nz,New Zealand,19,Hardware & Networking,2018,0.215136649
+2205,nz,New Zealand,19,Hardware & Networking,2019,0.223374366
+2206,nz,New Zealand,19,Hardware & Networking,2020,0.413853335
+2207,nz,New Zealand,19,Hardware & Networking,2021,0.445359766
+2208,nz,New Zealand,12,Health Care,2016,0.018979647
+2209,nz,New Zealand,12,Health Care,2017,0.065346561
+2210,nz,New Zealand,12,Health Care,2018,0.092519767
+2211,nz,New Zealand,12,Health Care,2019,0.158799854
+2212,nz,New Zealand,12,Health Care,2020,0.272667015
+2213,nz,New Zealand,12,Health Care,2021,0.340953862
+2214,nz,New Zealand,10,Manufacturing,2016,0.030871067
+2215,nz,New Zealand,10,Manufacturing,2017,0.094423303
+2216,nz,New Zealand,10,Manufacturing,2018,0.113427337
+2217,nz,New Zealand,10,Manufacturing,2019,0.195704696
+2218,nz,New Zealand,10,Manufacturing,2020,0.288631964
+2219,nz,New Zealand,10,Manufacturing,2021,0.332058462
+2220,nz,New Zealand,11,Media & Communications,2016,0.033697488
+2221,nz,New Zealand,11,Media & Communications,2017,0.107768753
+2222,nz,New Zealand,11,Media & Communications,2018,0.136679606
+2223,nz,New Zealand,11,Media & Communications,2019,0.212245224
+2224,nz,New Zealand,11,Media & Communications,2020,0.242539464
+2225,nz,New Zealand,11,Media & Communications,2021,0.287470337
+2226,nz,New Zealand,13,Nonprofit,2016,0.053532997
+2227,nz,New Zealand,13,Nonprofit,2017,0.175322748
+2228,nz,New Zealand,13,Nonprofit,2018,0.177529838
+2229,nz,New Zealand,13,Nonprofit,2019,0.264652692
+2230,nz,New Zealand,13,Nonprofit,2020,0.334926778
+2231,nz,New Zealand,13,Nonprofit,2021,0.341896214
+2232,nz,New Zealand,20,Public Administration,2016,0.011697725
+2233,nz,New Zealand,20,Public Administration,2017,0.048637673
+2234,nz,New Zealand,20,Public Administration,2018,0.073468227
+2235,nz,New Zealand,20,Public Administration,2019,0.117831636
+2236,nz,New Zealand,20,Public Administration,2020,0.27753997
+2237,nz,New Zealand,20,Public Administration,2021,0.259404775
+2238,nz,New Zealand,22,Real Estate,2016,0.014419689
+2239,nz,New Zealand,22,Real Estate,2017,0.07586854
+2240,nz,New Zealand,22,Real Estate,2018,0.106239213
+2241,nz,New Zealand,22,Real Estate,2019,0.127841844
+2242,nz,New Zealand,22,Real Estate,2020,0.225584104
+2243,nz,New Zealand,22,Real Estate,2021,0.24566277
+2244,nz,New Zealand,14,Recreation & Travel,2016,0.038916282
+2245,nz,New Zealand,14,Recreation & Travel,2017,0.106864313
+2246,nz,New Zealand,14,Recreation & Travel,2018,0.149800349
+2247,nz,New Zealand,14,Recreation & Travel,2019,0.213645475
+2248,nz,New Zealand,14,Recreation & Travel,2020,0.353870622
+2249,nz,New Zealand,14,Recreation & Travel,2021,0.42276191
+2250,nz,New Zealand,24,Retail,2016,0.023192832
+2251,nz,New Zealand,24,Retail,2017,0.075193933
+2252,nz,New Zealand,24,Retail,2018,0.064360385
+2253,nz,New Zealand,24,Retail,2019,0.135726154
+2254,nz,New Zealand,24,Retail,2020,0.229563717
+2255,nz,New Zealand,24,Retail,2021,0.309468251
+2256,nz,New Zealand,8,Software & IT Services,2016,0.028461566
+2257,nz,New Zealand,8,Software & IT Services,2017,0.116966719
+2258,nz,New Zealand,8,Software & IT Services,2018,0.156911403
+2259,nz,New Zealand,8,Software & IT Services,2019,0.249767572
+2260,nz,New Zealand,8,Software & IT Services,2020,0.350979342
+2261,nz,New Zealand,8,Software & IT Services,2021,0.366235893
+2262,nz,New Zealand,15,Transportation & Logistics,2016,0.026835944
+2263,nz,New Zealand,15,Transportation & Logistics,2017,0.102383966
+2264,nz,New Zealand,15,Transportation & Logistics,2018,0.109130122
+2265,nz,New Zealand,15,Transportation & Logistics,2019,0.154767307
+2266,nz,New Zealand,15,Transportation & Logistics,2020,0.288798305
+2267,nz,New Zealand,15,Transportation & Logistics,2021,0.306794972
+2268,nz,New Zealand,23,Wellness & Fitness,2016,0.033424218
+2269,nz,New Zealand,23,Wellness & Fitness,2017,0.114780065
+2270,nz,New Zealand,23,Wellness & Fitness,2018,0.145826538
+2271,nz,New Zealand,23,Wellness & Fitness,2019,0.218059141
+2272,nz,New Zealand,23,Wellness & Fitness,2020,0.245881305
+2273,nz,New Zealand,23,Wellness & Fitness,2021,0.328161183
+2274,ph,Philippines,3,Construction,2016,0.014523693
+2275,ph,Philippines,3,Construction,2017,0.08089645
+2276,ph,Philippines,3,Construction,2018,0.121272834
+2277,ph,Philippines,3,Construction,2019,0.205995963
+2278,ph,Philippines,3,Construction,2020,0.254946556
+2279,ph,Philippines,3,Construction,2021,0.319945677
+2280,ph,Philippines,4,Consumer Goods,2016,0.054453625
+2281,ph,Philippines,4,Consumer Goods,2017,0.102481007
+2282,ph,Philippines,4,Consumer Goods,2018,0.131253398
+2283,ph,Philippines,4,Consumer Goods,2019,0.235873608
+2284,ph,Philippines,4,Consumer Goods,2020,0.408198363
+2285,ph,Philippines,4,Consumer Goods,2021,0.435387506
+2286,ph,Philippines,5,Corporate Services,2016,0.027018876
+2287,ph,Philippines,5,Corporate Services,2017,0.100594598
+2288,ph,Philippines,5,Corporate Services,2018,0.136892226
+2289,ph,Philippines,5,Corporate Services,2019,0.20914686
+2290,ph,Philippines,5,Corporate Services,2020,0.353982804
+2291,ph,Philippines,5,Corporate Services,2021,0.41030284
+2292,ph,Philippines,17,Design,2016,0.021455319
+2293,ph,Philippines,17,Design,2017,0.097065189
+2294,ph,Philippines,17,Design,2018,0.103048423
+2295,ph,Philippines,17,Design,2019,0.15056345
+2296,ph,Philippines,17,Design,2020,0.21579645
+2297,ph,Philippines,17,Design,2021,0.261142838
+2298,ph,Philippines,6,Education,2016,0.017692695
+2299,ph,Philippines,6,Education,2017,0.074743086
+2300,ph,Philippines,6,Education,2018,0.140699748
+2301,ph,Philippines,6,Education,2019,0.225884095
+2302,ph,Philippines,6,Education,2020,0.360424001
+2303,ph,Philippines,6,Education,2021,0.449964388
+2304,ph,Philippines,16,Energy & Mining,2016,0.023521331
+2305,ph,Philippines,16,Energy & Mining,2017,0.092676285
+2306,ph,Philippines,16,Energy & Mining,2018,0.138583267
+2307,ph,Philippines,16,Energy & Mining,2019,0.273938613
+2308,ph,Philippines,16,Energy & Mining,2020,0.430021804
+2309,ph,Philippines,16,Energy & Mining,2021,0.484544003
+2310,ph,Philippines,18,Entertainment,2016,0.030263283
+2311,ph,Philippines,18,Entertainment,2017,0.101190539
+2312,ph,Philippines,18,Entertainment,2018,0.127263632
+2313,ph,Philippines,18,Entertainment,2019,0.201455041
+2314,ph,Philippines,18,Entertainment,2020,0.200835238
+2315,ph,Philippines,18,Entertainment,2021,0.272254862
+2316,ph,Philippines,7,Finance,2016,0.018406696
+2317,ph,Philippines,7,Finance,2017,0.076901919
+2318,ph,Philippines,7,Finance,2018,0.095332391
+2319,ph,Philippines,7,Finance,2019,0.154358175
+2320,ph,Philippines,7,Finance,2020,0.315008325
+2321,ph,Philippines,7,Finance,2021,0.512601414
+2322,ph,Philippines,19,Hardware & Networking,2016,0.021724387
+2323,ph,Philippines,19,Hardware & Networking,2017,0.101856314
+2324,ph,Philippines,19,Hardware & Networking,2018,0.139471087
+2325,ph,Philippines,19,Hardware & Networking,2019,0.219543128
+2326,ph,Philippines,19,Hardware & Networking,2020,0.396735791
+2327,ph,Philippines,19,Hardware & Networking,2021,0.532214636
+2328,ph,Philippines,12,Health Care,2016,0.014533301
+2329,ph,Philippines,12,Health Care,2017,0.062669707
+2330,ph,Philippines,12,Health Care,2018,0.091962627
+2331,ph,Philippines,12,Health Care,2019,0.206276313
+2332,ph,Philippines,12,Health Care,2020,0.330380016
+2333,ph,Philippines,12,Health Care,2021,0.456366654
+2334,ph,Philippines,9,Legal,2016,0.015103226
+2335,ph,Philippines,9,Legal,2017,0.06783353
+2336,ph,Philippines,9,Legal,2018,0.084836076
+2337,ph,Philippines,9,Legal,2019,0.17751592
+2338,ph,Philippines,9,Legal,2020,0.270924701
+2339,ph,Philippines,9,Legal,2021,0.30237694
+2340,ph,Philippines,10,Manufacturing,2016,0.022718585
+2341,ph,Philippines,10,Manufacturing,2017,0.078646485
+2342,ph,Philippines,10,Manufacturing,2018,0.101062913
+2343,ph,Philippines,10,Manufacturing,2019,0.193065374
+2344,ph,Philippines,10,Manufacturing,2020,0.294345075
+2345,ph,Philippines,10,Manufacturing,2021,0.340442396
+2346,ph,Philippines,11,Media & Communications,2016,0.031038791
+2347,ph,Philippines,11,Media & Communications,2017,0.114888847
+2348,ph,Philippines,11,Media & Communications,2018,0.14710233
+2349,ph,Philippines,11,Media & Communications,2019,0.244788295
+2350,ph,Philippines,11,Media & Communications,2020,0.291683928
+2351,ph,Philippines,11,Media & Communications,2021,0.332222471
+2352,ph,Philippines,13,Nonprofit,2016,0.028821409
+2353,ph,Philippines,13,Nonprofit,2017,0.134221891
+2354,ph,Philippines,13,Nonprofit,2018,0.200959504
+2355,ph,Philippines,13,Nonprofit,2019,0.272302118
+2356,ph,Philippines,13,Nonprofit,2020,0.408911189
+2357,ph,Philippines,13,Nonprofit,2021,0.484013009
+2358,ph,Philippines,20,Public Administration,2016,0.042547071
+2359,ph,Philippines,20,Public Administration,2017,0.191023005
+2360,ph,Philippines,20,Public Administration,2018,0.212421395
+2361,ph,Philippines,20,Public Administration,2019,0.338988142
+2362,ph,Philippines,20,Public Administration,2020,0.433028332
+2363,ph,Philippines,20,Public Administration,2021,0.496393092
+2364,ph,Philippines,22,Real Estate,2016,0.015967039
+2365,ph,Philippines,22,Real Estate,2017,0.083038176
+2366,ph,Philippines,22,Real Estate,2018,0.140743211
+2367,ph,Philippines,22,Real Estate,2019,0.204738626
+2368,ph,Philippines,22,Real Estate,2020,0.291237348
+2369,ph,Philippines,22,Real Estate,2021,0.357373826
+2370,ph,Philippines,14,Recreation & Travel,2016,0.032994732
+2371,ph,Philippines,14,Recreation & Travel,2017,0.098088315
+2372,ph,Philippines,14,Recreation & Travel,2018,0.120951089
+2373,ph,Philippines,14,Recreation & Travel,2019,0.1926551
+2374,ph,Philippines,14,Recreation & Travel,2020,0.401242635
+2375,ph,Philippines,14,Recreation & Travel,2021,0.401487656
+2376,ph,Philippines,24,Retail,2016,0.035378173
+2377,ph,Philippines,24,Retail,2017,0.099070773
+2378,ph,Philippines,24,Retail,2018,0.129188579
+2379,ph,Philippines,24,Retail,2019,0.208541558
+2380,ph,Philippines,24,Retail,2020,0.271746115
+2381,ph,Philippines,24,Retail,2021,0.436093489
+2382,ph,Philippines,8,Software & IT Services,2016,0.019912624
+2383,ph,Philippines,8,Software & IT Services,2017,0.08875783
+2384,ph,Philippines,8,Software & IT Services,2018,0.120440935
+2385,ph,Philippines,8,Software & IT Services,2019,0.193901299
+2386,ph,Philippines,8,Software & IT Services,2020,0.291511619
+2387,ph,Philippines,8,Software & IT Services,2021,0.336975042
+2388,ph,Philippines,15,Transportation & Logistics,2016,0.029565054
+2389,ph,Philippines,15,Transportation & Logistics,2017,0.079083492
+2390,ph,Philippines,15,Transportation & Logistics,2018,0.088222285
+2391,ph,Philippines,15,Transportation & Logistics,2019,0.193577331
+2392,ph,Philippines,15,Transportation & Logistics,2020,0.326757381
+2393,ph,Philippines,15,Transportation & Logistics,2021,0.406569533
+2394,ph,Philippines,23,Wellness & Fitness,2016,0.091990343
+2395,ph,Philippines,23,Wellness & Fitness,2017,0.154732681
+2396,ph,Philippines,23,Wellness & Fitness,2018,0.20058697
+2397,ph,Philippines,23,Wellness & Fitness,2019,0.310120584
+2398,ph,Philippines,23,Wellness & Fitness,2020,0.378735554
+2399,ph,Philippines,23,Wellness & Fitness,2021,0.593042958
+2400,pt,Portugal,2,Arts,2016,0.032890093
+2401,pt,Portugal,2,Arts,2017,0.125062661
+2402,pt,Portugal,2,Arts,2018,0.150991368
+2403,pt,Portugal,2,Arts,2019,0.195540061
+2404,pt,Portugal,2,Arts,2020,0.223170729
+2405,pt,Portugal,2,Arts,2021,0.251040182
+2406,pt,Portugal,3,Construction,2016,0.010782766
+2407,pt,Portugal,3,Construction,2017,0.052447501
+2408,pt,Portugal,3,Construction,2018,0.080133798
+2409,pt,Portugal,3,Construction,2019,0.173631063
+2410,pt,Portugal,3,Construction,2020,0.256760019
+2411,pt,Portugal,3,Construction,2021,0.301581515
+2412,pt,Portugal,4,Consumer Goods,2016,0.026867457
+2413,pt,Portugal,4,Consumer Goods,2017,0.106572674
+2414,pt,Portugal,4,Consumer Goods,2018,0.154001727
+2415,pt,Portugal,4,Consumer Goods,2019,0.275403419
+2416,pt,Portugal,4,Consumer Goods,2020,0.375728236
+2417,pt,Portugal,4,Consumer Goods,2021,0.404841668
+2418,pt,Portugal,5,Corporate Services,2016,0.026901858
+2419,pt,Portugal,5,Corporate Services,2017,0.106322727
+2420,pt,Portugal,5,Corporate Services,2018,0.15716153
+2421,pt,Portugal,5,Corporate Services,2019,0.309232198
+2422,pt,Portugal,5,Corporate Services,2020,0.362157547
+2423,pt,Portugal,5,Corporate Services,2021,0.389500044
+2424,pt,Portugal,17,Design,2016,0.016872296
+2425,pt,Portugal,17,Design,2017,0.080915648
+2426,pt,Portugal,17,Design,2018,0.109811253
+2427,pt,Portugal,17,Design,2019,0.153935356
+2428,pt,Portugal,17,Design,2020,0.202312705
+2429,pt,Portugal,17,Design,2021,0.211294173
+2430,pt,Portugal,6,Education,2016,0.019240985
+2431,pt,Portugal,6,Education,2017,0.113027753
+2432,pt,Portugal,6,Education,2018,0.154413488
+2433,pt,Portugal,6,Education,2019,0.260189152
+2434,pt,Portugal,6,Education,2020,0.295410972
+2435,pt,Portugal,6,Education,2021,0.299738725
+2436,pt,Portugal,16,Energy & Mining,2016,0.035757026
+2437,pt,Portugal,16,Energy & Mining,2017,0.176870917
+2438,pt,Portugal,16,Energy & Mining,2018,0.190675905
+2439,pt,Portugal,16,Energy & Mining,2019,0.315089858
+2440,pt,Portugal,16,Energy & Mining,2020,0.440627101
+2441,pt,Portugal,16,Energy & Mining,2021,0.451237431
+2442,pt,Portugal,18,Entertainment,2016,0.023425453
+2443,pt,Portugal,18,Entertainment,2017,0.074763877
+2444,pt,Portugal,18,Entertainment,2018,0.103866409
+2445,pt,Portugal,18,Entertainment,2019,0.155778291
+2446,pt,Portugal,18,Entertainment,2020,0.191974921
+2447,pt,Portugal,18,Entertainment,2021,0.27970722
+2448,pt,Portugal,7,Finance,2016,0.011548822
+2449,pt,Portugal,7,Finance,2017,0.086151968
+2450,pt,Portugal,7,Finance,2018,0.098967014
+2451,pt,Portugal,7,Finance,2019,0.187715636
+2452,pt,Portugal,7,Finance,2020,0.276895212
+2453,pt,Portugal,7,Finance,2021,0.268842658
+2454,pt,Portugal,19,Hardware & Networking,2016,0.020364613
+2455,pt,Portugal,19,Hardware & Networking,2017,0.098482147
+2456,pt,Portugal,19,Hardware & Networking,2018,0.167148956
+2457,pt,Portugal,19,Hardware & Networking,2019,0.266883297
+2458,pt,Portugal,19,Hardware & Networking,2020,0.417110249
+2459,pt,Portugal,19,Hardware & Networking,2021,0.468034078
+2460,pt,Portugal,12,Health Care,2016,0.011155492
+2461,pt,Portugal,12,Health Care,2017,0.044740215
+2462,pt,Portugal,12,Health Care,2018,0.060530799
+2463,pt,Portugal,12,Health Care,2019,0.133312873
+2464,pt,Portugal,12,Health Care,2020,0.322024844
+2465,pt,Portugal,12,Health Care,2021,0.384135574
+2466,pt,Portugal,9,Legal,2016,0.007321357
+2467,pt,Portugal,9,Legal,2017,0.038682682
+2468,pt,Portugal,9,Legal,2018,0.05015247
+2469,pt,Portugal,9,Legal,2019,0.112437619
+2470,pt,Portugal,9,Legal,2020,0.151940235
+2471,pt,Portugal,9,Legal,2021,0.213315371
+2472,pt,Portugal,10,Manufacturing,2016,0.014860513
+2473,pt,Portugal,10,Manufacturing,2017,0.069049428
+2474,pt,Portugal,10,Manufacturing,2018,0.100119317
+2475,pt,Portugal,10,Manufacturing,2019,0.225240716
+2476,pt,Portugal,10,Manufacturing,2020,0.323408878
+2477,pt,Portugal,10,Manufacturing,2021,0.37017101
+2478,pt,Portugal,11,Media & Communications,2016,0.026504998
+2479,pt,Portugal,11,Media & Communications,2017,0.0834638
+2480,pt,Portugal,11,Media & Communications,2018,0.1171314
+2481,pt,Portugal,11,Media & Communications,2019,0.186628537
+2482,pt,Portugal,11,Media & Communications,2020,0.22977822
+2483,pt,Portugal,11,Media & Communications,2021,0.249857265
+2484,pt,Portugal,13,Nonprofit,2016,0.05805849
+2485,pt,Portugal,13,Nonprofit,2017,0.183200728
+2486,pt,Portugal,13,Nonprofit,2018,0.222074366
+2487,pt,Portugal,13,Nonprofit,2019,0.313796547
+2488,pt,Portugal,13,Nonprofit,2020,0.359065891
+2489,pt,Portugal,13,Nonprofit,2021,0.379964898
+2490,pt,Portugal,20,Public Administration,2016,0.037844844
+2491,pt,Portugal,20,Public Administration,2017,0.119659436
+2492,pt,Portugal,20,Public Administration,2018,0.136114938
+2493,pt,Portugal,20,Public Administration,2019,0.217361714
+2494,pt,Portugal,20,Public Administration,2020,0.335418835
+2495,pt,Portugal,20,Public Administration,2021,0.340782752
+2496,pt,Portugal,22,Real Estate,2016,0.018511299
+2497,pt,Portugal,22,Real Estate,2017,0.093953712
+2498,pt,Portugal,22,Real Estate,2018,0.126342756
+2499,pt,Portugal,22,Real Estate,2019,0.147393904
+2500,pt,Portugal,22,Real Estate,2020,0.207200009
+2501,pt,Portugal,22,Real Estate,2021,0.279210348
+2502,pt,Portugal,14,Recreation & Travel,2016,0.022096069
+2503,pt,Portugal,14,Recreation & Travel,2017,0.089339564
+2504,pt,Portugal,14,Recreation & Travel,2018,0.118011921
+2505,pt,Portugal,14,Recreation & Travel,2019,0.230471164
+2506,pt,Portugal,14,Recreation & Travel,2020,0.307311414
+2507,pt,Portugal,14,Recreation & Travel,2021,0.3127466
+2508,pt,Portugal,24,Retail,2016,0.028925514
+2509,pt,Portugal,24,Retail,2017,0.120618425
+2510,pt,Portugal,24,Retail,2018,0.14564807
+2511,pt,Portugal,24,Retail,2019,0.301135208
+2512,pt,Portugal,24,Retail,2020,0.415583698
+2513,pt,Portugal,24,Retail,2021,0.472336175
+2514,pt,Portugal,8,Software & IT Services,2016,0.020443367
+2515,pt,Portugal,8,Software & IT Services,2017,0.094611501
+2516,pt,Portugal,8,Software & IT Services,2018,0.150662974
+2517,pt,Portugal,8,Software & IT Services,2019,0.237636508
+2518,pt,Portugal,8,Software & IT Services,2020,0.307838025
+2519,pt,Portugal,8,Software & IT Services,2021,0.310033155
+2520,pt,Portugal,15,Transportation & Logistics,2016,0.017911298
+2521,pt,Portugal,15,Transportation & Logistics,2017,0.067932325
+2522,pt,Portugal,15,Transportation & Logistics,2018,0.07901335
+2523,pt,Portugal,15,Transportation & Logistics,2019,0.184268747
+2524,pt,Portugal,15,Transportation & Logistics,2020,0.429322169
+2525,pt,Portugal,15,Transportation & Logistics,2021,0.447480581
+2526,pt,Portugal,23,Wellness & Fitness,2016,0.015094793
+2527,pt,Portugal,23,Wellness & Fitness,2017,0.049944531
+2528,pt,Portugal,23,Wellness & Fitness,2018,0.073345724
+2529,pt,Portugal,23,Wellness & Fitness,2019,0.135392936
+2530,pt,Portugal,23,Wellness & Fitness,2020,0.271688569
+2531,pt,Portugal,23,Wellness & Fitness,2021,0.351511955
+2532,sg,Singapore,3,Construction,2016,0.015411957
+2533,sg,Singapore,3,Construction,2017,0.087012494
+2534,sg,Singapore,3,Construction,2018,0.07325648
+2535,sg,Singapore,3,Construction,2019,0.148994689
+2536,sg,Singapore,3,Construction,2020,0.23063128
+2537,sg,Singapore,3,Construction,2021,0.327928122
+2538,sg,Singapore,4,Consumer Goods,2016,0.037130655
+2539,sg,Singapore,4,Consumer Goods,2017,0.123882884
+2540,sg,Singapore,4,Consumer Goods,2018,0.108866157
+2541,sg,Singapore,4,Consumer Goods,2019,0.226551003
+2542,sg,Singapore,4,Consumer Goods,2020,0.326170545
+2543,sg,Singapore,4,Consumer Goods,2021,0.369176236
+2544,sg,Singapore,5,Corporate Services,2016,0.031471522
+2545,sg,Singapore,5,Corporate Services,2017,0.11611702
+2546,sg,Singapore,5,Corporate Services,2018,0.110238676
+2547,sg,Singapore,5,Corporate Services,2019,0.218817828
+2548,sg,Singapore,5,Corporate Services,2020,0.281227455
+2549,sg,Singapore,5,Corporate Services,2021,0.305905167
+2550,sg,Singapore,17,Design,2016,0.025032844
+2551,sg,Singapore,17,Design,2017,0.088843535
+2552,sg,Singapore,17,Design,2018,0.082213491
+2553,sg,Singapore,17,Design,2019,0.135248324
+2554,sg,Singapore,17,Design,2020,0.210431825
+2555,sg,Singapore,17,Design,2021,0.263690769
+2556,sg,Singapore,6,Education,2016,0.029476978
+2557,sg,Singapore,6,Education,2017,0.10432645
+2558,sg,Singapore,6,Education,2018,0.119509017
+2559,sg,Singapore,6,Education,2019,0.224195122
+2560,sg,Singapore,6,Education,2020,0.307525959
+2561,sg,Singapore,6,Education,2021,0.319051559
+2562,sg,Singapore,16,Energy & Mining,2016,0.021922685
+2563,sg,Singapore,16,Energy & Mining,2017,0.053115731
+2564,sg,Singapore,16,Energy & Mining,2018,0.103164553
+2565,sg,Singapore,16,Energy & Mining,2019,0.176929728
+2566,sg,Singapore,16,Energy & Mining,2020,0.285868613
+2567,sg,Singapore,16,Energy & Mining,2021,0.359245037
+2568,sg,Singapore,18,Entertainment,2016,0.033879367
+2569,sg,Singapore,18,Entertainment,2017,0.110411442
+2570,sg,Singapore,18,Entertainment,2018,0.123817007
+2571,sg,Singapore,18,Entertainment,2019,0.20630191
+2572,sg,Singapore,18,Entertainment,2020,0.248498467
+2573,sg,Singapore,18,Entertainment,2021,0.277947903
+2574,sg,Singapore,7,Finance,2016,0.014562502
+2575,sg,Singapore,7,Finance,2017,0.055013639
+2576,sg,Singapore,7,Finance,2018,0.097178737
+2577,sg,Singapore,7,Finance,2019,0.167344843
+2578,sg,Singapore,7,Finance,2020,0.270056594
+2579,sg,Singapore,7,Finance,2021,0.262978672
+2580,sg,Singapore,19,Hardware & Networking,2016,0.015110266
+2581,sg,Singapore,19,Hardware & Networking,2017,0.0560227
+2582,sg,Singapore,19,Hardware & Networking,2018,0.09094659
+2583,sg,Singapore,19,Hardware & Networking,2019,0.187860077
+2584,sg,Singapore,19,Hardware & Networking,2020,0.355614912
+2585,sg,Singapore,19,Hardware & Networking,2021,0.327797697
+2586,sg,Singapore,12,Health Care,2016,0.02125033
+2587,sg,Singapore,12,Health Care,2017,0.090449112
+2588,sg,Singapore,12,Health Care,2018,0.087240608
+2589,sg,Singapore,12,Health Care,2019,0.179049193
+2590,sg,Singapore,12,Health Care,2020,0.277896522
+2591,sg,Singapore,12,Health Care,2021,0.405583133
+2592,sg,Singapore,10,Manufacturing,2016,0.02174287
+2593,sg,Singapore,10,Manufacturing,2017,0.077108252
+2594,sg,Singapore,10,Manufacturing,2018,0.090912598
+2595,sg,Singapore,10,Manufacturing,2019,0.223097015
+2596,sg,Singapore,10,Manufacturing,2020,0.380292178
+2597,sg,Singapore,10,Manufacturing,2021,0.354891882
+2598,sg,Singapore,11,Media & Communications,2016,0.030077131
+2599,sg,Singapore,11,Media & Communications,2017,0.11124913
+2600,sg,Singapore,11,Media & Communications,2018,0.13355476
+2601,sg,Singapore,11,Media & Communications,2019,0.22303292
+2602,sg,Singapore,11,Media & Communications,2020,0.248530733
+2603,sg,Singapore,11,Media & Communications,2021,0.271321276
+2604,sg,Singapore,13,Nonprofit,2016,0.098842509
+2605,sg,Singapore,13,Nonprofit,2017,0.212868863
+2606,sg,Singapore,13,Nonprofit,2018,0.208001935
+2607,sg,Singapore,13,Nonprofit,2019,0.298169215
+2608,sg,Singapore,13,Nonprofit,2020,0.388049846
+2609,sg,Singapore,13,Nonprofit,2021,0.417868693
+2610,sg,Singapore,20,Public Administration,2016,0.068056894
+2611,sg,Singapore,20,Public Administration,2017,0.136839284
+2612,sg,Singapore,20,Public Administration,2018,0.139029714
+2613,sg,Singapore,20,Public Administration,2019,0.243319289
+2614,sg,Singapore,20,Public Administration,2020,0.374404594
+2615,sg,Singapore,20,Public Administration,2021,0.397883605
+2616,sg,Singapore,21,Public Safety,2016,0.105485625
+2617,sg,Singapore,21,Public Safety,2017,0.192273136
+2618,sg,Singapore,21,Public Safety,2018,0.158411251
+2619,sg,Singapore,21,Public Safety,2019,0.254769474
+2620,sg,Singapore,21,Public Safety,2020,0.37767117
+2621,sg,Singapore,21,Public Safety,2021,0.45016921
+2622,sg,Singapore,22,Real Estate,2016,0.045600391
+2623,sg,Singapore,22,Real Estate,2017,0.094237082
+2624,sg,Singapore,22,Real Estate,2018,0.127587703
+2625,sg,Singapore,22,Real Estate,2019,0.181702419
+2626,sg,Singapore,22,Real Estate,2020,0.21054735
+2627,sg,Singapore,22,Real Estate,2021,0.29982347
+2628,sg,Singapore,14,Recreation & Travel,2016,0.022045722
+2629,sg,Singapore,14,Recreation & Travel,2017,0.090371573
+2630,sg,Singapore,14,Recreation & Travel,2018,0.110155836
+2631,sg,Singapore,14,Recreation & Travel,2019,0.201155038
+2632,sg,Singapore,14,Recreation & Travel,2020,0.57611292
+2633,sg,Singapore,14,Recreation & Travel,2021,0.490570004
+2634,sg,Singapore,24,Retail,2016,0.04250125
+2635,sg,Singapore,24,Retail,2017,0.103378356
+2636,sg,Singapore,24,Retail,2018,0.100909097
+2637,sg,Singapore,24,Retail,2019,0.20634003
+2638,sg,Singapore,24,Retail,2020,0.243187535
+2639,sg,Singapore,24,Retail,2021,0.387765627
+2640,sg,Singapore,8,Software & IT Services,2016,0.022156219
+2641,sg,Singapore,8,Software & IT Services,2017,0.095994923
+2642,sg,Singapore,8,Software & IT Services,2018,0.146236587
+2643,sg,Singapore,8,Software & IT Services,2019,0.247651049
+2644,sg,Singapore,8,Software & IT Services,2020,0.328579727
+2645,sg,Singapore,8,Software & IT Services,2021,0.346203979
+2646,sg,Singapore,15,Transportation & Logistics,2016,0.013114596
+2647,sg,Singapore,15,Transportation & Logistics,2017,0.057182696
+2648,sg,Singapore,15,Transportation & Logistics,2018,0.06906807
+2649,sg,Singapore,15,Transportation & Logistics,2019,0.174397156
+2650,sg,Singapore,15,Transportation & Logistics,2020,0.247095204
+2651,sg,Singapore,15,Transportation & Logistics,2021,0.285105076
+2652,sg,Singapore,23,Wellness & Fitness,2016,0.087716961
+2653,sg,Singapore,23,Wellness & Fitness,2017,0.258121661
+2654,sg,Singapore,23,Wellness & Fitness,2018,0.200979309
+2655,sg,Singapore,23,Wellness & Fitness,2019,0.26992933
+2656,sg,Singapore,23,Wellness & Fitness,2020,0.267298176
+2657,sg,Singapore,23,Wellness & Fitness,2021,0.374906098
+2658,es,Spain,1,Agriculture,2016,0.029212871
+2659,es,Spain,1,Agriculture,2017,0.166638804
+2660,es,Spain,1,Agriculture,2018,0.135365383
+2661,es,Spain,1,Agriculture,2019,0.207290556
+2662,es,Spain,1,Agriculture,2020,0.272896711
+2663,es,Spain,1,Agriculture,2021,0.329070573
+2664,es,Spain,2,Arts,2016,0.015533777
+2665,es,Spain,2,Arts,2017,0.073880606
+2666,es,Spain,2,Arts,2018,0.127831649
+2667,es,Spain,2,Arts,2019,0.155095919
+2668,es,Spain,2,Arts,2020,0.204332617
+2669,es,Spain,2,Arts,2021,0.234598614
+2670,es,Spain,3,Construction,2016,0.017021508
+2671,es,Spain,3,Construction,2017,0.104541994
+2672,es,Spain,3,Construction,2018,0.145930615
+2673,es,Spain,3,Construction,2019,0.226117545
+2674,es,Spain,3,Construction,2020,0.295247498
+2675,es,Spain,3,Construction,2021,0.355527867
+2676,es,Spain,4,Consumer Goods,2016,0.020986826
+2677,es,Spain,4,Consumer Goods,2017,0.145830308
+2678,es,Spain,4,Consumer Goods,2018,0.181382032
+2679,es,Spain,4,Consumer Goods,2019,0.253920095
+2680,es,Spain,4,Consumer Goods,2020,0.368869636
+2681,es,Spain,4,Consumer Goods,2021,0.401803295
+2682,es,Spain,5,Corporate Services,2016,0.015093472
+2683,es,Spain,5,Corporate Services,2017,0.127943897
+2684,es,Spain,5,Corporate Services,2018,0.181454043
+2685,es,Spain,5,Corporate Services,2019,0.2858858
+2686,es,Spain,5,Corporate Services,2020,0.358836411
+2687,es,Spain,5,Corporate Services,2021,0.381801536
+2688,es,Spain,17,Design,2016,0.010648056
+2689,es,Spain,17,Design,2017,0.065146903
+2690,es,Spain,17,Design,2018,0.071415939
+2691,es,Spain,17,Design,2019,0.119727404
+2692,es,Spain,17,Design,2020,0.152655866
+2693,es,Spain,17,Design,2021,0.185403052
+2694,es,Spain,6,Education,2016,0.013007995
+2695,es,Spain,6,Education,2017,0.089644429
+2696,es,Spain,6,Education,2018,0.128921236
+2697,es,Spain,6,Education,2019,0.201252026
+2698,es,Spain,6,Education,2020,0.280501289
+2699,es,Spain,6,Education,2021,0.305128195
+2700,es,Spain,16,Energy & Mining,2016,0.013552914
+2701,es,Spain,16,Energy & Mining,2017,0.083379279
+2702,es,Spain,16,Energy & Mining,2018,0.109269481
+2703,es,Spain,16,Energy & Mining,2019,0.230775446
+2704,es,Spain,16,Energy & Mining,2020,0.360357752
+2705,es,Spain,16,Energy & Mining,2021,0.385615051
+2706,es,Spain,18,Entertainment,2016,0.014699644
+2707,es,Spain,18,Entertainment,2017,0.066331045
+2708,es,Spain,18,Entertainment,2018,0.089056111
+2709,es,Spain,18,Entertainment,2019,0.142335714
+2710,es,Spain,18,Entertainment,2020,0.215279002
+2711,es,Spain,18,Entertainment,2021,0.254712868
+2712,es,Spain,7,Finance,2016,0.011906788
+2713,es,Spain,7,Finance,2017,0.089126568
+2714,es,Spain,7,Finance,2018,0.109896826
+2715,es,Spain,7,Finance,2019,0.198298564
+2716,es,Spain,7,Finance,2020,0.321900059
+2717,es,Spain,7,Finance,2021,0.312248761
+2718,es,Spain,19,Hardware & Networking,2016,0.020233028
+2719,es,Spain,19,Hardware & Networking,2017,0.116327538
+2720,es,Spain,19,Hardware & Networking,2018,0.169940476
+2721,es,Spain,19,Hardware & Networking,2019,0.258663743
+2722,es,Spain,19,Hardware & Networking,2020,0.347717583
+2723,es,Spain,19,Hardware & Networking,2021,0.370026637
+2724,es,Spain,12,Health Care,2016,0.014052359
+2725,es,Spain,12,Health Care,2017,0.069221565
+2726,es,Spain,12,Health Care,2018,0.090318657
+2727,es,Spain,12,Health Care,2019,0.187373338
+2728,es,Spain,12,Health Care,2020,0.319065582
+2729,es,Spain,12,Health Care,2021,0.347679138
+2730,es,Spain,9,Legal,2016,0.00511859
+2731,es,Spain,9,Legal,2017,0.046381868
+2732,es,Spain,9,Legal,2018,0.072736126
+2733,es,Spain,9,Legal,2019,0.120035316
+2734,es,Spain,9,Legal,2020,0.213614271
+2735,es,Spain,9,Legal,2021,0.236579204
+2736,es,Spain,10,Manufacturing,2016,0.013330527
+2737,es,Spain,10,Manufacturing,2017,0.105332252
+2738,es,Spain,10,Manufacturing,2018,0.125094237
+2739,es,Spain,10,Manufacturing,2019,0.221971453
+2740,es,Spain,10,Manufacturing,2020,0.301104664
+2741,es,Spain,10,Manufacturing,2021,0.339114247
+2742,es,Spain,11,Media & Communications,2016,0.014147898
+2743,es,Spain,11,Media & Communications,2017,0.090295616
+2744,es,Spain,11,Media & Communications,2018,0.139261635
+2745,es,Spain,11,Media & Communications,2019,0.220738208
+2746,es,Spain,11,Media & Communications,2020,0.275149615
+2747,es,Spain,11,Media & Communications,2021,0.301779918
+2748,es,Spain,13,Nonprofit,2016,0.018106762
+2749,es,Spain,13,Nonprofit,2017,0.119567346
+2750,es,Spain,13,Nonprofit,2018,0.168999784
+2751,es,Spain,13,Nonprofit,2019,0.27185221
+2752,es,Spain,13,Nonprofit,2020,0.379105506
+2753,es,Spain,13,Nonprofit,2021,0.402450598
+2754,es,Spain,20,Public Administration,2016,0.013061767
+2755,es,Spain,20,Public Administration,2017,0.086908893
+2756,es,Spain,20,Public Administration,2018,0.131807173
+2757,es,Spain,20,Public Administration,2019,0.243589527
+2758,es,Spain,20,Public Administration,2020,0.3617867
+2759,es,Spain,20,Public Administration,2021,0.385425735
+2760,es,Spain,22,Real Estate,2016,0.023599628
+2761,es,Spain,22,Real Estate,2017,0.134658273
+2762,es,Spain,22,Real Estate,2018,0.156589622
+2763,es,Spain,22,Real Estate,2019,0.248772068
+2764,es,Spain,22,Real Estate,2020,0.395698901
+2765,es,Spain,22,Real Estate,2021,0.366132981
+2766,es,Spain,14,Recreation & Travel,2016,0.017505827
+2767,es,Spain,14,Recreation & Travel,2017,0.105311718
+2768,es,Spain,14,Recreation & Travel,2018,0.135673741
+2769,es,Spain,14,Recreation & Travel,2019,0.210382652
+2770,es,Spain,14,Recreation & Travel,2020,0.333658705
+2771,es,Spain,14,Recreation & Travel,2021,0.372175184
+2772,es,Spain,24,Retail,2016,0.03610715
+2773,es,Spain,24,Retail,2017,0.179977808
+2774,es,Spain,24,Retail,2018,0.202038367
+2775,es,Spain,24,Retail,2019,0.316918365
+2776,es,Spain,24,Retail,2020,0.429567877
+2777,es,Spain,24,Retail,2021,0.502955283
+2778,es,Spain,8,Software & IT Services,2016,0.026189789
+2779,es,Spain,8,Software & IT Services,2017,0.120722115
+2780,es,Spain,8,Software & IT Services,2018,0.157399182
+2781,es,Spain,8,Software & IT Services,2019,0.224182023
+2782,es,Spain,8,Software & IT Services,2020,0.281717147
+2783,es,Spain,8,Software & IT Services,2021,0.276567697
+2784,es,Spain,15,Transportation & Logistics,2016,0.012855845
+2785,es,Spain,15,Transportation & Logistics,2017,0.084802389
+2786,es,Spain,15,Transportation & Logistics,2018,0.10431532
+2787,es,Spain,15,Transportation & Logistics,2019,0.173936233
+2788,es,Spain,15,Transportation & Logistics,2020,0.231337776
+2789,es,Spain,15,Transportation & Logistics,2021,0.27246038
+2790,es,Spain,23,Wellness & Fitness,2016,0.013573163
+2791,es,Spain,23,Wellness & Fitness,2017,0.071384277
+2792,es,Spain,23,Wellness & Fitness,2018,0.095465225
+2793,es,Spain,23,Wellness & Fitness,2019,0.187107833
+2794,es,Spain,23,Wellness & Fitness,2020,0.348157447
+2795,es,Spain,23,Wellness & Fitness,2021,0.372269804
+2796,se,Sweden,3,Construction,2016,0.059096212
+2797,se,Sweden,3,Construction,2017,0.142735374
+2798,se,Sweden,3,Construction,2018,0.145532744
+2799,se,Sweden,3,Construction,2019,0.251905461
+2800,se,Sweden,3,Construction,2020,0.360998449
+2801,se,Sweden,3,Construction,2021,0.37855419
+2802,se,Sweden,4,Consumer Goods,2016,0.044965417
+2803,se,Sweden,4,Consumer Goods,2017,0.126441306
+2804,se,Sweden,4,Consumer Goods,2018,0.141140647
+2805,se,Sweden,4,Consumer Goods,2019,0.257609663
+2806,se,Sweden,4,Consumer Goods,2020,0.364250497
+2807,se,Sweden,4,Consumer Goods,2021,0.398081044
+2808,se,Sweden,5,Corporate Services,2016,0.041566063
+2809,se,Sweden,5,Corporate Services,2017,0.143073318
+2810,se,Sweden,5,Corporate Services,2018,0.173712557
+2811,se,Sweden,5,Corporate Services,2019,0.306511637
+2812,se,Sweden,5,Corporate Services,2020,0.381902058
+2813,se,Sweden,5,Corporate Services,2021,0.428583415
+2814,se,Sweden,17,Design,2016,0.028087583
+2815,se,Sweden,17,Design,2017,0.080974525
+2816,se,Sweden,17,Design,2018,0.074248628
+2817,se,Sweden,17,Design,2019,0.13188458
+2818,se,Sweden,17,Design,2020,0.177905196
+2819,se,Sweden,17,Design,2021,0.203528652
+2820,se,Sweden,6,Education,2016,0.019558148
+2821,se,Sweden,6,Education,2017,0.087356834
+2822,se,Sweden,6,Education,2018,0.113097389
+2823,se,Sweden,6,Education,2019,0.246689458
+2824,se,Sweden,6,Education,2020,0.371277525
+2825,se,Sweden,6,Education,2021,0.366122981
+2826,se,Sweden,16,Energy & Mining,2016,0.048184644
+2827,se,Sweden,16,Energy & Mining,2017,0.147554113
+2828,se,Sweden,16,Energy & Mining,2018,0.145153848
+2829,se,Sweden,16,Energy & Mining,2019,0.296529936
+2830,se,Sweden,16,Energy & Mining,2020,0.409877022
+2831,se,Sweden,16,Energy & Mining,2021,0.471826088
+2832,se,Sweden,18,Entertainment,2016,0.030150357
+2833,se,Sweden,18,Entertainment,2017,0.09291639
+2834,se,Sweden,18,Entertainment,2018,0.090070325
+2835,se,Sweden,18,Entertainment,2019,0.134289088
+2836,se,Sweden,18,Entertainment,2020,0.207758267
+2837,se,Sweden,18,Entertainment,2021,0.243798059
+2838,se,Sweden,7,Finance,2016,0.029864774
+2839,se,Sweden,7,Finance,2017,0.126165468
+2840,se,Sweden,7,Finance,2018,0.149941851
+2841,se,Sweden,7,Finance,2019,0.217726185
+2842,se,Sweden,7,Finance,2020,0.35771524
+2843,se,Sweden,7,Finance,2021,0.341892827
+2844,se,Sweden,19,Hardware & Networking,2016,0.040383856
+2845,se,Sweden,19,Hardware & Networking,2017,0.186156347
+2846,se,Sweden,19,Hardware & Networking,2018,0.189175344
+2847,se,Sweden,19,Hardware & Networking,2019,0.268875024
+2848,se,Sweden,19,Hardware & Networking,2020,0.405379635
+2849,se,Sweden,19,Hardware & Networking,2021,0.479563383
+2850,se,Sweden,12,Health Care,2016,0.029461215
+2851,se,Sweden,12,Health Care,2017,0.130083844
+2852,se,Sweden,12,Health Care,2018,0.189542894
+2853,se,Sweden,12,Health Care,2019,0.28726294
+2854,se,Sweden,12,Health Care,2020,0.416117984
+2855,se,Sweden,12,Health Care,2021,0.464003289
+2856,se,Sweden,10,Manufacturing,2016,0.018785511
+2857,se,Sweden,10,Manufacturing,2017,0.065087753
+2858,se,Sweden,10,Manufacturing,2018,0.083392148
+2859,se,Sweden,10,Manufacturing,2019,0.1754138
+2860,se,Sweden,10,Manufacturing,2020,0.285957684
+2861,se,Sweden,10,Manufacturing,2021,0.360366087
+2862,se,Sweden,11,Media & Communications,2016,0.025234758
+2863,se,Sweden,11,Media & Communications,2017,0.092677937
+2864,se,Sweden,11,Media & Communications,2018,0.084128467
+2865,se,Sweden,11,Media & Communications,2019,0.155114271
+2866,se,Sweden,11,Media & Communications,2020,0.222226808
+2867,se,Sweden,11,Media & Communications,2021,0.268527189
+2868,se,Sweden,13,Nonprofit,2016,0.068118477
+2869,se,Sweden,13,Nonprofit,2017,0.166554752
+2870,se,Sweden,13,Nonprofit,2018,0.204002984
+2871,se,Sweden,13,Nonprofit,2019,0.38701949
+2872,se,Sweden,13,Nonprofit,2020,0.46986635
+2873,se,Sweden,13,Nonprofit,2021,0.466596869
+2874,se,Sweden,20,Public Administration,2016,0.057275831
+2875,se,Sweden,20,Public Administration,2017,0.169843563
+2876,se,Sweden,20,Public Administration,2018,0.209204233
+2877,se,Sweden,20,Public Administration,2019,0.482448836
+2878,se,Sweden,20,Public Administration,2020,0.653703307
+2879,se,Sweden,20,Public Administration,2021,0.635232776
+2880,se,Sweden,21,Public Safety,2016,0.086350616
+2881,se,Sweden,21,Public Safety,2017,0.15844537
+2882,se,Sweden,21,Public Safety,2018,0.154679755
+2883,se,Sweden,21,Public Safety,2019,0.272133754
+2884,se,Sweden,21,Public Safety,2020,0.32857443
+2885,se,Sweden,21,Public Safety,2021,0.418145987
+2886,se,Sweden,22,Real Estate,2016,0.043428072
+2887,se,Sweden,22,Real Estate,2017,0.099858436
+2888,se,Sweden,22,Real Estate,2018,0.124960158
+2889,se,Sweden,22,Real Estate,2019,0.171303031
+2890,se,Sweden,22,Real Estate,2020,0.230904421
+2891,se,Sweden,22,Real Estate,2021,0.255174893
+2892,se,Sweden,14,Recreation & Travel,2016,0.049123288
+2893,se,Sweden,14,Recreation & Travel,2017,0.133956805
+2894,se,Sweden,14,Recreation & Travel,2018,0.185352428
+2895,se,Sweden,14,Recreation & Travel,2019,0.29081184
+2896,se,Sweden,14,Recreation & Travel,2020,0.382428118
+2897,se,Sweden,14,Recreation & Travel,2021,0.470185822
+2898,se,Sweden,24,Retail,2016,0.052846053
+2899,se,Sweden,24,Retail,2017,0.134255523
+2900,se,Sweden,24,Retail,2018,0.161244548
+2901,se,Sweden,24,Retail,2019,0.314408344
+2902,se,Sweden,24,Retail,2020,0.482122667
+2903,se,Sweden,24,Retail,2021,0.487067997
+2904,se,Sweden,8,Software & IT Services,2016,0.02206435
+2905,se,Sweden,8,Software & IT Services,2017,0.114769831
+2906,se,Sweden,8,Software & IT Services,2018,0.145256259
+2907,se,Sweden,8,Software & IT Services,2019,0.234332702
+2908,se,Sweden,8,Software & IT Services,2020,0.313487409
+2909,se,Sweden,8,Software & IT Services,2021,0.330110871
+2910,se,Sweden,15,Transportation & Logistics,2016,0.035349669
+2911,se,Sweden,15,Transportation & Logistics,2017,0.080963567
+2912,se,Sweden,15,Transportation & Logistics,2018,0.084197097
+2913,se,Sweden,15,Transportation & Logistics,2019,0.21097689
+2914,se,Sweden,15,Transportation & Logistics,2020,0.361737849
+2915,se,Sweden,15,Transportation & Logistics,2021,0.395157849
+2916,se,Sweden,23,Wellness & Fitness,2016,0.078307775
+2917,se,Sweden,23,Wellness & Fitness,2017,0.18217561
+2918,se,Sweden,23,Wellness & Fitness,2018,0.216251482
+2919,se,Sweden,23,Wellness & Fitness,2019,0.260959615
+2920,se,Sweden,23,Wellness & Fitness,2020,0.310888231
+2921,se,Sweden,23,Wellness & Fitness,2021,0.340496217
+2922,ae,United Arab Emirates,3,Construction,2016,0.008966245
+2923,ae,United Arab Emirates,3,Construction,2017,0.064652956
+2924,ae,United Arab Emirates,3,Construction,2018,0.073570394
+2925,ae,United Arab Emirates,3,Construction,2019,0.166794457
+2926,ae,United Arab Emirates,3,Construction,2020,0.205417027
+2927,ae,United Arab Emirates,3,Construction,2021,0.280778482
+2928,ae,United Arab Emirates,4,Consumer Goods,2016,0.021052893
+2929,ae,United Arab Emirates,4,Consumer Goods,2017,0.077961485
+2930,ae,United Arab Emirates,4,Consumer Goods,2018,0.069550279
+2931,ae,United Arab Emirates,4,Consumer Goods,2019,0.18478537
+2932,ae,United Arab Emirates,4,Consumer Goods,2020,0.286104477
+2933,ae,United Arab Emirates,4,Consumer Goods,2021,0.327562071
+2934,ae,United Arab Emirates,5,Corporate Services,2016,0.018879038
+2935,ae,United Arab Emirates,5,Corporate Services,2017,0.121413945
+2936,ae,United Arab Emirates,5,Corporate Services,2018,0.100240939
+2937,ae,United Arab Emirates,5,Corporate Services,2019,0.216133194
+2938,ae,United Arab Emirates,5,Corporate Services,2020,0.244960761
+2939,ae,United Arab Emirates,5,Corporate Services,2021,0.268173984
+2940,ae,United Arab Emirates,17,Design,2016,0.010783307
+2941,ae,United Arab Emirates,17,Design,2017,0.064513617
+2942,ae,United Arab Emirates,17,Design,2018,0.054812954
+2943,ae,United Arab Emirates,17,Design,2019,0.148514155
+2944,ae,United Arab Emirates,17,Design,2020,0.1872218
+2945,ae,United Arab Emirates,17,Design,2021,0.209388496
+2946,ae,United Arab Emirates,6,Education,2016,0.010523291
+2947,ae,United Arab Emirates,6,Education,2017,0.052179754
+2948,ae,United Arab Emirates,6,Education,2018,0.053359332
+2949,ae,United Arab Emirates,6,Education,2019,0.113392676
+2950,ae,United Arab Emirates,6,Education,2020,0.272574591
+2951,ae,United Arab Emirates,6,Education,2021,0.272222267
+2952,ae,United Arab Emirates,16,Energy & Mining,2016,0.010078153
+2953,ae,United Arab Emirates,16,Energy & Mining,2017,0.035826858
+2954,ae,United Arab Emirates,16,Energy & Mining,2018,0.056083382
+2955,ae,United Arab Emirates,16,Energy & Mining,2019,0.157014972
+2956,ae,United Arab Emirates,16,Energy & Mining,2020,0.275593209
+2957,ae,United Arab Emirates,16,Energy & Mining,2021,0.282599122
+2958,ae,United Arab Emirates,18,Entertainment,2016,0.024937554
+2959,ae,United Arab Emirates,18,Entertainment,2017,0.11065126
+2960,ae,United Arab Emirates,18,Entertainment,2018,0.088747334
+2961,ae,United Arab Emirates,18,Entertainment,2019,0.200917915
+2962,ae,United Arab Emirates,18,Entertainment,2020,0.232597075
+2963,ae,United Arab Emirates,18,Entertainment,2021,0.240645536
+2964,ae,United Arab Emirates,7,Finance,2016,0.095047475
+2965,ae,United Arab Emirates,7,Finance,2017,0.1283257
+2966,ae,United Arab Emirates,7,Finance,2018,0.135147625
+2967,ae,United Arab Emirates,7,Finance,2019,0.186592669
+2968,ae,United Arab Emirates,7,Finance,2020,0.255047022
+2969,ae,United Arab Emirates,7,Finance,2021,0.271148236
+2970,ae,United Arab Emirates,19,Hardware & Networking,2016,0.024473134
+2971,ae,United Arab Emirates,19,Hardware & Networking,2017,0.102260584
+2972,ae,United Arab Emirates,19,Hardware & Networking,2018,0.143100543
+2973,ae,United Arab Emirates,19,Hardware & Networking,2019,0.270412226
+2974,ae,United Arab Emirates,19,Hardware & Networking,2020,0.453111195
+2975,ae,United Arab Emirates,19,Hardware & Networking,2021,0.388237504
+2976,ae,United Arab Emirates,12,Health Care,2016,0.009901694
+2977,ae,United Arab Emirates,12,Health Care,2017,0.061393977
+2978,ae,United Arab Emirates,12,Health Care,2018,0.075130667
+2979,ae,United Arab Emirates,12,Health Care,2019,0.146571202
+2980,ae,United Arab Emirates,12,Health Care,2020,0.274185277
+2981,ae,United Arab Emirates,12,Health Care,2021,0.317123981
+2982,ae,United Arab Emirates,9,Legal,2016,0.014567708
+2983,ae,United Arab Emirates,9,Legal,2017,0.0520712
+2984,ae,United Arab Emirates,9,Legal,2018,0.054433071
+2985,ae,United Arab Emirates,9,Legal,2019,0.111935214
+2986,ae,United Arab Emirates,9,Legal,2020,0.239980228
+2987,ae,United Arab Emirates,9,Legal,2021,0.261403394
+2988,ae,United Arab Emirates,10,Manufacturing,2016,0.01714072
+2989,ae,United Arab Emirates,10,Manufacturing,2017,0.066811365
+2990,ae,United Arab Emirates,10,Manufacturing,2018,0.078320963
+2991,ae,United Arab Emirates,10,Manufacturing,2019,0.210791898
+2992,ae,United Arab Emirates,10,Manufacturing,2020,0.276906095
+2993,ae,United Arab Emirates,10,Manufacturing,2021,0.291363778
+2994,ae,United Arab Emirates,11,Media & Communications,2016,0.031861778
+2995,ae,United Arab Emirates,11,Media & Communications,2017,0.088145063
+2996,ae,United Arab Emirates,11,Media & Communications,2018,0.104262849
+2997,ae,United Arab Emirates,11,Media & Communications,2019,0.220491846
+2998,ae,United Arab Emirates,11,Media & Communications,2020,0.260294732
+2999,ae,United Arab Emirates,11,Media & Communications,2021,0.254415116
+3000,ae,United Arab Emirates,13,Nonprofit,2016,0.098310103
+3001,ae,United Arab Emirates,13,Nonprofit,2017,0.270160466
+3002,ae,United Arab Emirates,13,Nonprofit,2018,0.238410496
+3003,ae,United Arab Emirates,13,Nonprofit,2019,0.381042233
+3004,ae,United Arab Emirates,13,Nonprofit,2020,0.405339282
+3005,ae,United Arab Emirates,13,Nonprofit,2021,0.456350368
+3006,ae,United Arab Emirates,20,Public Administration,2016,0.114970812
+3007,ae,United Arab Emirates,20,Public Administration,2017,0.223067015
+3008,ae,United Arab Emirates,20,Public Administration,2018,0.190217802
+3009,ae,United Arab Emirates,20,Public Administration,2019,0.37444853
+3010,ae,United Arab Emirates,20,Public Administration,2020,0.471271659
+3011,ae,United Arab Emirates,20,Public Administration,2021,0.469025352
+3012,ae,United Arab Emirates,22,Real Estate,2016,0.014240659
+3013,ae,United Arab Emirates,22,Real Estate,2017,0.06434596
+3014,ae,United Arab Emirates,22,Real Estate,2018,0.064589491
+3015,ae,United Arab Emirates,22,Real Estate,2019,0.158084648
+3016,ae,United Arab Emirates,22,Real Estate,2020,0.193437821
+3017,ae,United Arab Emirates,22,Real Estate,2021,0.187356461
+3018,ae,United Arab Emirates,14,Recreation & Travel,2016,0.019007378
+3019,ae,United Arab Emirates,14,Recreation & Travel,2017,0.05032171
+3020,ae,United Arab Emirates,14,Recreation & Travel,2018,0.057073151
+3021,ae,United Arab Emirates,14,Recreation & Travel,2019,0.131307314
+3022,ae,United Arab Emirates,14,Recreation & Travel,2020,0.401013568
+3023,ae,United Arab Emirates,14,Recreation & Travel,2021,0.35225141
+3024,ae,United Arab Emirates,24,Retail,2016,0.015413979
+3025,ae,United Arab Emirates,24,Retail,2017,0.061232584
+3026,ae,United Arab Emirates,24,Retail,2018,0.053984379
+3027,ae,United Arab Emirates,24,Retail,2019,0.154535754
+3028,ae,United Arab Emirates,24,Retail,2020,0.245892762
+3029,ae,United Arab Emirates,24,Retail,2021,0.315197227
+3030,ae,United Arab Emirates,8,Software & IT Services,2016,0.019361424
+3031,ae,United Arab Emirates,8,Software & IT Services,2017,0.093719704
+3032,ae,United Arab Emirates,8,Software & IT Services,2018,0.108138113
+3033,ae,United Arab Emirates,8,Software & IT Services,2019,0.242206715
+3034,ae,United Arab Emirates,8,Software & IT Services,2020,0.305791408
+3035,ae,United Arab Emirates,8,Software & IT Services,2021,0.303598167
+3036,ae,United Arab Emirates,15,Transportation & Logistics,2016,0.011974342
+3037,ae,United Arab Emirates,15,Transportation & Logistics,2017,0.044077626
+3038,ae,United Arab Emirates,15,Transportation & Logistics,2018,0.059661913
+3039,ae,United Arab Emirates,15,Transportation & Logistics,2019,0.158978011
+3040,ae,United Arab Emirates,15,Transportation & Logistics,2020,0.242499725
+3041,ae,United Arab Emirates,15,Transportation & Logistics,2021,0.275910294
+3042,ae,United Arab Emirates,23,Wellness & Fitness,2016,0.048286849
+3043,ae,United Arab Emirates,23,Wellness & Fitness,2017,0.137515663
+3044,ae,United Arab Emirates,23,Wellness & Fitness,2018,0.127289028
+3045,ae,United Arab Emirates,23,Wellness & Fitness,2019,0.195076316
+3046,ae,United Arab Emirates,23,Wellness & Fitness,2020,0.252039084
+3047,ae,United Arab Emirates,23,Wellness & Fitness,2021,0.298719065
+3048,gb,United Kingdom,1,Agriculture,2016,0.030296938
+3049,gb,United Kingdom,1,Agriculture,2017,0.081661908
+3050,gb,United Kingdom,1,Agriculture,2018,0.113143559
+3051,gb,United Kingdom,1,Agriculture,2019,0.19347524
+3052,gb,United Kingdom,1,Agriculture,2020,0.252740578
+3053,gb,United Kingdom,1,Agriculture,2021,0.285305659
+3054,gb,United Kingdom,2,Arts,2016,0.009977316
+3055,gb,United Kingdom,2,Arts,2017,0.055213699
+3056,gb,United Kingdom,2,Arts,2018,0.085284837
+3057,gb,United Kingdom,2,Arts,2019,0.133664517
+3058,gb,United Kingdom,2,Arts,2020,0.184936247
+3059,gb,United Kingdom,2,Arts,2021,0.179386937
+3060,gb,United Kingdom,3,Construction,2016,0.009555246
+3061,gb,United Kingdom,3,Construction,2017,0.07917654
+3062,gb,United Kingdom,3,Construction,2018,0.125837603
+3063,gb,United Kingdom,3,Construction,2019,0.240771855
+3064,gb,United Kingdom,3,Construction,2020,0.362647096
+3065,gb,United Kingdom,3,Construction,2021,0.419551827
+3066,gb,United Kingdom,4,Consumer Goods,2016,0.01424894
+3067,gb,United Kingdom,4,Consumer Goods,2017,0.060613532
+3068,gb,United Kingdom,4,Consumer Goods,2018,0.069648991
+3069,gb,United Kingdom,4,Consumer Goods,2019,0.164174454
+3070,gb,United Kingdom,4,Consumer Goods,2020,0.228961671
+3071,gb,United Kingdom,4,Consumer Goods,2021,0.292864275
+3072,gb,United Kingdom,5,Corporate Services,2016,0.011687795
+3073,gb,United Kingdom,5,Corporate Services,2017,0.067019663
+3074,gb,United Kingdom,5,Corporate Services,2018,0.097725046
+3075,gb,United Kingdom,5,Corporate Services,2019,0.189785671
+3076,gb,United Kingdom,5,Corporate Services,2020,0.261337527
+3077,gb,United Kingdom,5,Corporate Services,2021,0.252029431
+3078,gb,United Kingdom,17,Design,2016,0.011133666
+3079,gb,United Kingdom,17,Design,2017,0.055770148
+3080,gb,United Kingdom,17,Design,2018,0.081630257
+3081,gb,United Kingdom,17,Design,2019,0.154754085
+3082,gb,United Kingdom,17,Design,2020,0.185751098
+3083,gb,United Kingdom,17,Design,2021,0.213435485
+3084,gb,United Kingdom,6,Education,2016,0.013548737
+3085,gb,United Kingdom,6,Education,2017,0.073150132
+3086,gb,United Kingdom,6,Education,2018,0.10144334
+3087,gb,United Kingdom,6,Education,2019,0.207135466
+3088,gb,United Kingdom,6,Education,2020,0.283625755
+3089,gb,United Kingdom,6,Education,2021,0.297146752
+3090,gb,United Kingdom,16,Energy & Mining,2016,0.021455929
+3091,gb,United Kingdom,16,Energy & Mining,2017,0.057579695
+3092,gb,United Kingdom,16,Energy & Mining,2018,0.113317838
+3093,gb,United Kingdom,16,Energy & Mining,2019,0.213268237
+3094,gb,United Kingdom,16,Energy & Mining,2020,0.340208161
+3095,gb,United Kingdom,16,Energy & Mining,2021,0.327735089
+3096,gb,United Kingdom,18,Entertainment,2016,0.007603964
+3097,gb,United Kingdom,18,Entertainment,2017,0.04687396
+3098,gb,United Kingdom,18,Entertainment,2018,0.07083846
+3099,gb,United Kingdom,18,Entertainment,2019,0.141246976
+3100,gb,United Kingdom,18,Entertainment,2020,0.167111139
+3101,gb,United Kingdom,18,Entertainment,2021,0.199938816
+3102,gb,United Kingdom,7,Finance,2016,0.017089819
+3103,gb,United Kingdom,7,Finance,2017,0.051068232
+3104,gb,United Kingdom,7,Finance,2018,0.083978758
+3105,gb,United Kingdom,7,Finance,2019,0.159002886
+3106,gb,United Kingdom,7,Finance,2020,0.228167839
+3107,gb,United Kingdom,7,Finance,2021,0.257382136
+3108,gb,United Kingdom,19,Hardware & Networking,2016,0.011302763
+3109,gb,United Kingdom,19,Hardware & Networking,2017,0.068604984
+3110,gb,United Kingdom,19,Hardware & Networking,2018,0.117170296
+3111,gb,United Kingdom,19,Hardware & Networking,2019,0.224140396
+3112,gb,United Kingdom,19,Hardware & Networking,2020,0.356493326
+3113,gb,United Kingdom,19,Hardware & Networking,2021,0.420458981
+3114,gb,United Kingdom,12,Health Care,2016,0.008924609
+3115,gb,United Kingdom,12,Health Care,2017,0.046618069
+3116,gb,United Kingdom,12,Health Care,2018,0.070934063
+3117,gb,United Kingdom,12,Health Care,2019,0.164581709
+3118,gb,United Kingdom,12,Health Care,2020,0.261848873
+3119,gb,United Kingdom,12,Health Care,2021,0.328402056
+3120,gb,United Kingdom,9,Legal,2016,0.007707345
+3121,gb,United Kingdom,9,Legal,2017,0.034948128
+3122,gb,United Kingdom,9,Legal,2018,0.089632962
+3123,gb,United Kingdom,9,Legal,2019,0.151023804
+3124,gb,United Kingdom,9,Legal,2020,0.241543163
+3125,gb,United Kingdom,9,Legal,2021,0.211184257
+3126,gb,United Kingdom,10,Manufacturing,2016,0.012067572
+3127,gb,United Kingdom,10,Manufacturing,2017,0.050215612
+3128,gb,United Kingdom,10,Manufacturing,2018,0.07265773
+3129,gb,United Kingdom,10,Manufacturing,2019,0.152596854
+3130,gb,United Kingdom,10,Manufacturing,2020,0.23116787
+3131,gb,United Kingdom,10,Manufacturing,2021,0.288608951
+3132,gb,United Kingdom,11,Media & Communications,2016,0.011440762
+3133,gb,United Kingdom,11,Media & Communications,2017,0.049623866
+3134,gb,United Kingdom,11,Media & Communications,2018,0.085693145
+3135,gb,United Kingdom,11,Media & Communications,2019,0.172152396
+3136,gb,United Kingdom,11,Media & Communications,2020,0.208499662
+3137,gb,United Kingdom,11,Media & Communications,2021,0.213828575
+3138,gb,United Kingdom,13,Nonprofit,2016,0.013815296
+3139,gb,United Kingdom,13,Nonprofit,2017,0.073666481
+3140,gb,United Kingdom,13,Nonprofit,2018,0.107043369
+3141,gb,United Kingdom,13,Nonprofit,2019,0.198113724
+3142,gb,United Kingdom,13,Nonprofit,2020,0.269797715
+3143,gb,United Kingdom,13,Nonprofit,2021,0.302034084
+3144,gb,United Kingdom,20,Public Administration,2016,0.007971376
+3145,gb,United Kingdom,20,Public Administration,2017,0.041137763
+3146,gb,United Kingdom,20,Public Administration,2018,0.056634289
+3147,gb,United Kingdom,20,Public Administration,2019,0.148642133
+3148,gb,United Kingdom,20,Public Administration,2020,0.304274593
+3149,gb,United Kingdom,20,Public Administration,2021,0.335518404
+3150,gb,United Kingdom,21,Public Safety,2016,0.015244649
+3151,gb,United Kingdom,21,Public Safety,2017,0.064364896
+3152,gb,United Kingdom,21,Public Safety,2018,0.064867588
+3153,gb,United Kingdom,21,Public Safety,2019,0.121909318
+3154,gb,United Kingdom,21,Public Safety,2020,0.226923106
+3155,gb,United Kingdom,21,Public Safety,2021,0.281607952
+3156,gb,United Kingdom,22,Real Estate,2016,0.008756141
+3157,gb,United Kingdom,22,Real Estate,2017,0.038600119
+3158,gb,United Kingdom,22,Real Estate,2018,0.060208648
+3159,gb,United Kingdom,22,Real Estate,2019,0.10701297
+3160,gb,United Kingdom,22,Real Estate,2020,0.142986683
+3161,gb,United Kingdom,22,Real Estate,2021,0.158805785
+3162,gb,United Kingdom,14,Recreation & Travel,2016,0.016860307
+3163,gb,United Kingdom,14,Recreation & Travel,2017,0.084919561
+3164,gb,United Kingdom,14,Recreation & Travel,2018,0.111689487
+3165,gb,United Kingdom,14,Recreation & Travel,2019,0.194717141
+3166,gb,United Kingdom,14,Recreation & Travel,2020,0.304942953
+3167,gb,United Kingdom,14,Recreation & Travel,2021,0.345946258
+3168,gb,United Kingdom,24,Retail,2016,0.014809253
+3169,gb,United Kingdom,24,Retail,2017,0.064671321
+3170,gb,United Kingdom,24,Retail,2018,0.053988072
+3171,gb,United Kingdom,24,Retail,2019,0.159009068
+3172,gb,United Kingdom,24,Retail,2020,0.240694093
+3173,gb,United Kingdom,24,Retail,2021,0.351378908
+3174,gb,United Kingdom,8,Software & IT Services,2016,0.014360591
+3175,gb,United Kingdom,8,Software & IT Services,2017,0.08052677
+3176,gb,United Kingdom,8,Software & IT Services,2018,0.130089291
+3177,gb,United Kingdom,8,Software & IT Services,2019,0.224619999
+3178,gb,United Kingdom,8,Software & IT Services,2020,0.295660783
+3179,gb,United Kingdom,8,Software & IT Services,2021,0.324607643
+3180,gb,United Kingdom,15,Transportation & Logistics,2016,0.011302467
+3181,gb,United Kingdom,15,Transportation & Logistics,2017,0.045865377
+3182,gb,United Kingdom,15,Transportation & Logistics,2018,0.064637253
+3183,gb,United Kingdom,15,Transportation & Logistics,2019,0.175646592
+3184,gb,United Kingdom,15,Transportation & Logistics,2020,0.276186558
+3185,gb,United Kingdom,15,Transportation & Logistics,2021,0.365219358
+3186,gb,United Kingdom,23,Wellness & Fitness,2016,0.01398458
+3187,gb,United Kingdom,23,Wellness & Fitness,2017,0.073525664
+3188,gb,United Kingdom,23,Wellness & Fitness,2018,0.088177446
+3189,gb,United Kingdom,23,Wellness & Fitness,2019,0.154546893
+3190,gb,United Kingdom,23,Wellness & Fitness,2020,0.176190645
+3191,gb,United Kingdom,23,Wellness & Fitness,2021,0.241066183
+3192,us,United States,1,Agriculture,2016,0.018909916
+3193,us,United States,1,Agriculture,2017,0.06491467
+3194,us,United States,1,Agriculture,2018,0.098447872
+3195,us,United States,1,Agriculture,2019,0.186217288
+3196,us,United States,1,Agriculture,2020,0.232740629
+3197,us,United States,1,Agriculture,2021,0.285391704
+3198,us,United States,2,Arts,2016,0.010497062
+3199,us,United States,2,Arts,2017,0.057249555
+3200,us,United States,2,Arts,2018,0.08806504
+3201,us,United States,2,Arts,2019,0.132601422
+3202,us,United States,2,Arts,2020,0.173163605
+3203,us,United States,2,Arts,2021,0.174235469
+3204,us,United States,3,Construction,2016,0.009704969
+3205,us,United States,3,Construction,2017,0.08123138
+3206,us,United States,3,Construction,2018,0.133115029
+3207,us,United States,3,Construction,2019,0.237493708
+3208,us,United States,3,Construction,2020,0.329160506
+3209,us,United States,3,Construction,2021,0.363196689
+3210,us,United States,4,Consumer Goods,2016,0.01516199
+3211,us,United States,4,Consumer Goods,2017,0.063586024
+3212,us,United States,4,Consumer Goods,2018,0.077609881
+3213,us,United States,4,Consumer Goods,2019,0.171837205
+3214,us,United States,4,Consumer Goods,2020,0.259228455
+3215,us,United States,4,Consumer Goods,2021,0.286023363
+3216,us,United States,5,Corporate Services,2016,0.015466476
+3217,us,United States,5,Corporate Services,2017,0.05693035
+3218,us,United States,5,Corporate Services,2018,0.079313082
+3219,us,United States,5,Corporate Services,2019,0.152703785
+3220,us,United States,5,Corporate Services,2020,0.200870815
+3221,us,United States,5,Corporate Services,2021,0.214123587
+3222,us,United States,17,Design,2016,0.015269808
+3223,us,United States,17,Design,2017,0.071587355
+3224,us,United States,17,Design,2018,0.123952863
+3225,us,United States,17,Design,2019,0.207599641
+3226,us,United States,17,Design,2020,0.274592154
+3227,us,United States,17,Design,2021,0.296006914
+3228,us,United States,6,Education,2016,0.013687168
+3229,us,United States,6,Education,2017,0.080644378
+3230,us,United States,6,Education,2018,0.116457605
+3231,us,United States,6,Education,2019,0.188780515
+3232,us,United States,6,Education,2020,0.290899183
+3233,us,United States,6,Education,2021,0.284263138
+3234,us,United States,16,Energy & Mining,2016,0.018310348
+3235,us,United States,16,Energy & Mining,2017,0.046586618
+3236,us,United States,16,Energy & Mining,2018,0.065951177
+3237,us,United States,16,Energy & Mining,2019,0.159751249
+3238,us,United States,16,Energy & Mining,2020,0.265470692
+3239,us,United States,16,Energy & Mining,2021,0.324664419
+3240,us,United States,18,Entertainment,2016,0.008662846
+3241,us,United States,18,Entertainment,2017,0.050284599
+3242,us,United States,18,Entertainment,2018,0.068792944
+3243,us,United States,18,Entertainment,2019,0.137006353
+3244,us,United States,18,Entertainment,2020,0.153929514
+3245,us,United States,18,Entertainment,2021,0.184264266
+3246,us,United States,7,Finance,2016,0.009880456
+3247,us,United States,7,Finance,2017,0.051114305
+3248,us,United States,7,Finance,2018,0.082092458
+3249,us,United States,7,Finance,2019,0.151737105
+3250,us,United States,7,Finance,2020,0.321590174
+3251,us,United States,7,Finance,2021,0.288342149
+3252,us,United States,19,Hardware & Networking,2016,0.00972211
+3253,us,United States,19,Hardware & Networking,2017,0.062105189
+3254,us,United States,19,Hardware & Networking,2018,0.090864784
+3255,us,United States,19,Hardware & Networking,2019,0.195738899
+3256,us,United States,19,Hardware & Networking,2020,0.322477731
+3257,us,United States,19,Hardware & Networking,2021,0.330181711
+3258,us,United States,12,Health Care,2016,0.005876691
+3259,us,United States,12,Health Care,2017,0.039443073
+3260,us,United States,12,Health Care,2018,0.053943777
+3261,us,United States,12,Health Care,2019,0.114518823
+3262,us,United States,12,Health Care,2020,0.20424238
+3263,us,United States,12,Health Care,2021,0.242024471
+3264,us,United States,9,Legal,2016,0.007081738
+3265,us,United States,9,Legal,2017,0.040560763
+3266,us,United States,9,Legal,2018,0.129098564
+3267,us,United States,9,Legal,2019,0.166956409
+3268,us,United States,9,Legal,2020,0.224923604
+3269,us,United States,9,Legal,2021,0.232953143
+3270,us,United States,10,Manufacturing,2016,0.017516231
+3271,us,United States,10,Manufacturing,2017,0.052873698
+3272,us,United States,10,Manufacturing,2018,0.076365541
+3273,us,United States,10,Manufacturing,2019,0.166981277
+3274,us,United States,10,Manufacturing,2020,0.266324186
+3275,us,United States,10,Manufacturing,2021,0.311311284
+3276,us,United States,11,Media & Communications,2016,0.013314001
+3277,us,United States,11,Media & Communications,2017,0.063086356
+3278,us,United States,11,Media & Communications,2018,0.090243426
+3279,us,United States,11,Media & Communications,2019,0.163583047
+3280,us,United States,11,Media & Communications,2020,0.207557142
+3281,us,United States,11,Media & Communications,2021,0.227360383
+3282,us,United States,13,Nonprofit,2016,0.010027846
+3283,us,United States,13,Nonprofit,2017,0.052292184
+3284,us,United States,13,Nonprofit,2018,0.069435563
+3285,us,United States,13,Nonprofit,2019,0.155624646
+3286,us,United States,13,Nonprofit,2020,0.261569336
+3287,us,United States,13,Nonprofit,2021,0.277447264
+3288,us,United States,20,Public Administration,2016,0.011842113
+3289,us,United States,20,Public Administration,2017,0.042146789
+3290,us,United States,20,Public Administration,2018,0.057434188
+3291,us,United States,20,Public Administration,2019,0.146874612
+3292,us,United States,20,Public Administration,2020,0.321533047
+3293,us,United States,20,Public Administration,2021,0.305237413
+3294,us,United States,21,Public Safety,2016,0.045008578
+3295,us,United States,21,Public Safety,2017,0.071392208
+3296,us,United States,21,Public Safety,2018,0.068194659
+3297,us,United States,21,Public Safety,2019,0.124624269
+3298,us,United States,21,Public Safety,2020,0.265510673
+3299,us,United States,21,Public Safety,2021,0.321739239
+3300,us,United States,22,Real Estate,2016,0.005341687
+3301,us,United States,22,Real Estate,2017,0.046835016
+3302,us,United States,22,Real Estate,2018,0.103030941
+3303,us,United States,22,Real Estate,2019,0.14008881
+3304,us,United States,22,Real Estate,2020,0.265112546
+3305,us,United States,22,Real Estate,2021,0.316538289
+3306,us,United States,14,Recreation & Travel,2016,0.018315571
+3307,us,United States,14,Recreation & Travel,2017,0.089698509
+3308,us,United States,14,Recreation & Travel,2018,0.116373993
+3309,us,United States,14,Recreation & Travel,2019,0.201745412
+3310,us,United States,14,Recreation & Travel,2020,0.289557997
+3311,us,United States,14,Recreation & Travel,2021,0.346161083
+3312,us,United States,24,Retail,2016,0.013272636
+3313,us,United States,24,Retail,2017,0.069056954
+3314,us,United States,24,Retail,2018,0.071979997
+3315,us,United States,24,Retail,2019,0.124467014
+3316,us,United States,24,Retail,2020,0.223405843
+3317,us,United States,24,Retail,2021,0.30498163
+3318,us,United States,8,Software & IT Services,2016,0.012930444
+3319,us,United States,8,Software & IT Services,2017,0.080426898
+3320,us,United States,8,Software & IT Services,2018,0.111153844
+3321,us,United States,8,Software & IT Services,2019,0.201569945
+3322,us,United States,8,Software & IT Services,2020,0.289177631
+3323,us,United States,8,Software & IT Services,2021,0.306571139
+3324,us,United States,15,Transportation & Logistics,2016,0.010865378
+3325,us,United States,15,Transportation & Logistics,2017,0.055529401
+3326,us,United States,15,Transportation & Logistics,2018,0.087916704
+3327,us,United States,15,Transportation & Logistics,2019,0.172749541
+3328,us,United States,15,Transportation & Logistics,2020,0.278056077
+3329,us,United States,15,Transportation & Logistics,2021,0.328310468
+3330,us,United States,23,Wellness & Fitness,2016,0.012849562
+3331,us,United States,23,Wellness & Fitness,2017,0.066523075
+3332,us,United States,23,Wellness & Fitness,2018,0.090674492
+3333,us,United States,23,Wellness & Fitness,2019,0.165915269
+3334,us,United States,23,Wellness & Fitness,2020,0.188588684
+3335,us,United States,23,Wellness & Fitness,2021,0.254540063
