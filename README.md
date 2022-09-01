@@ -1,0 +1,2 @@
+# Linkedin-Dataset
+In this data, you can find insights about skill importance in the specific industry or occupation. You can find relations about how did the skills changed over the time and their importance ranks. Also, you can find all those data for different countries. You can use this data to find the skills of the specific industry or occupation, or get insights about how the industry changed over time with each country.
